@@ -10,7 +10,7 @@ If you have anything you want to share with me, please don't hesitate. I would a
 - 👯 I’m looking to collaborate on >> Knowledge sharing and guidance for good development in software.
 - 🤔 I’m looking for help with >> C language advanced examples and solutions
 - 💬 Ask me about >> Graphics and Software. Go to e_mail:
-- 📫 How to reach me:Send to e mail.
+- 📫 How to reach me>> Send to e mail.
 - ⚡ Fun fact >> I'm going on a new adventure in software. Self-improvement is already a fun, isn't it? I can also help with graphic design. Contact me!
 
 
