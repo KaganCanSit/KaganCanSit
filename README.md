@@ -6,7 +6,7 @@ I am someone trying to explore the software world. I am also interested in graph
 I try to improve myself on platforms such as Youtube and Udemy.<br/>
 If you have anything you want to share with me, please don't hesitate. I would also love to share my information.<br/>
 
-- 🌱 I’m currently learning >> Basic C and Basic C#
+- 🌱 I’m currently learning >> Basic C and Basic Html, Css
 - 👯 I’m looking to collaborate on >> Knowledge sharing and guidance for good development in software.
 - 🤔 I’m looking for help with >> C language advanced examples and solutions
 - 💬 Ask me about >> Graphics and Software. Go to e_mail:
