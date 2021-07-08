@@ -19,11 +19,11 @@ If there is something you want to share with me, please feel free. I would also 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kagancansit" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kagancansit" height="30" width="30" /></a>
-<a href="https://instagram.com/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kagancansit" height="30" width="30" /></a>
-<a href="https://www.behance.net/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kagancansit" height="30" width="30" /></a>
-<a href="https://medium.com/@kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kagancansit" height="30" width="30" /></a>
+<a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kagancansit" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kagancansit" height="25" width="25" /></a>
+<a href="https://instagram.com/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kagancansit" height="25" width="25" /></a>
+<a href="https://www.behance.net/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kagancansit" height="25" width="25" /></a>
+<a href="https://medium.com/@kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kagancansit" height="25" width="25" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
