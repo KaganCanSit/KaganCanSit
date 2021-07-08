@@ -17,16 +17,20 @@ If there is something you want to share with me, please feel free. I would also 
 - 💬 Ask me about >> Send to e mail. (kagancansit@hotmail.com)
 - ⚡ Fun fact >> I'm going on a new adventure in software. Self-improvement is already a fun, isn't it? 
 
-<br>
-<a href="https://twitter.com/kagancansit">
-  <img align="left" alt="Kağan Can Şit | Twitter" width="24px" height"24px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" />
-</a>
-<a href="https://www.linkedin.com/in/kagancansit//">
-  <img align="left" alt="Kağan's LinkdeIN" width="24px" height"24px" src="https://cdn0.iconfinder.com/data/icons/social-15/200/linkedin-256.png" />
-</a>
-<a href="https://medium.com/@kagancansit">
-  <img align="left" alt="Kağan's Blog" width="24px" height"24px" src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/medium_social_media_logo-512.png" />
-</a>
-<a href="https://www.instagram.com/kagancansit/">
-  <img align="left" alt="Kağan Can Şit | Instagram" width="24px" height"24px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/instagram-256.png" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kagancansit" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kagancansit" height="30" width="30" /></a>
+<a href="https://instagram.com/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kagancansit" height="30" width="30" /></a>
+<a href="https://www.behance.net/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kagancansit" height="30" width="30" /></a>
+<a href="https://medium.com/@kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kagancansit" height="30" width="30" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30"height="30"> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> </a> <a href="https://www.photoshop.com/en" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">   
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> </p>
