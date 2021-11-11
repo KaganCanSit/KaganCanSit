@@ -1,36 +1,58 @@
-### Hi Everyone! I'm Kağan Can Şit.👋
+![banner](https://github.com/KaganCanSit/KaganCanSit/blob/master/Work%2C%20develop%20and%20share%20to%20build%20tomorrow.%20Even%20a%20snowflake%20can%20make%20a%20big%20difference..gif)
 
-**"Someone Who Wants To Add Knowledge, Experience And New Ideas To Himself"**
+<h1> Hi Everyone! I'm Kağan Can Şit.👋 </h1>
+I am one of the future software engineer candidates. I try to improve myself in software, graphics and technology without staying within the boundaries of the school.<br>
 
-As a university student, I am studying Software Engineer. I try to improve myself about software, graphics and technology without staying within the boundaries of the school.
-My purpose here is to show you the projects I have done and to see my own development over time.
-It is to benefit from the knowledge and experience of knowledgeable and experienced people.
+If I have to talk about myself briefly, my education and work discipline is usually based on self-learning and development. Ever since I met the computer. I questioned and wondered about its internal structure and working logic. All these interests and questions brought me here today. In addition to software, I have experience in many areas such as graphic design, social media management. I try to improve myself on platforms such as Youtube, Udemy, Kommunity, Codewars, HackerRank, StackOverflow, PatikaDev...<br>
 
-I try to improve myself on platforms such as Youtube, Udemy, Kommunity, PatikaDev.
+My purpose here is to show you the projects I have done and to see my own development over time. I love setting goals for the future, meeting new people and bringing new knowledge and experiences to my horizon.
 
-If there is something you want to share with me, please feel free. I would also like to share my knowledge. 
+Please feel free to suggest or message me. As people share and develop with each other, they can build tomorrow. Take care of yourself. See you.  
+- 🚀 I am currently learning intermediate advanced level >> C, C++ ,C#, Design Patterns, Data Structures and Computer Systems Sub-Logics
+- 💡 I am currently learning at introductory level >> Html, Css, JavaScript
+- 🧠 I’m looking to collaborate on >> Knowledge sharing and guidance for good development in software.
+- 💭 I’m looking for help with >> C language, node.js advanced examples and solutions.
 
-- 🌱 I am currently learning intermediate advanced level >> C, C++ ,C#, Design Patterns, Data Structures and Computer Systems Sub-Logics
-- 🌱 I am currently learning at introductory level >> Html, Css, JavaScript
-- 👯 I’m looking to collaborate on >> Knowledge sharing and guidance for good development in software.
-- 🤔 I’m looking for help with >> C language advanced examples and solutions
-- 💬 Ask me about >> Send to e mail. (kagancansit@hotmail.com)
-- ⚡ Fun fact >> I'm going on a new adventure in software. Self-improvement is already a fun, isn't it? 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kagancansit" height="25" width="25" /></a>
-<a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kagancansit" height="25" width="25" /></a>
-<a href="https://instagram.com/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kagancansit" height="25" width="25" /></a>
-<a href="https://www.behance.net/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kagancansit" height="25" width="25" /></a>
-<a href="https://medium.com/@kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kagancansit" height="25" width="25" /></a>
-</p>
+<div align="center" class="github_stat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagancansit&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30"height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/>   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </p>
+<hr>
+<div align="center" class="tools">
+  <h3>Languages and Tools:</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C_ProgrammingLanguage" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++_ProgrammingLanguage" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#_ProgrammingLanguage" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java_ProgrammingLanguage" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSql_Language" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator_Adobe" width="40" height="40"/>   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop_Adobe" width="40" height="40"/>
+</div>
+<br>
+
+<div align="center" class="connect">
+  <h3>Connect With Me:</h3>
+  <a href="mailto:kagancansit@hotmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="@kagancansit" width="32" height="32" /></a>
+  <a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kagancansit" width="32" height="32" /></a>
+  <a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kagancansit" width="32" height="32" /></a>
+  <a href="https://instagram.com/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kagancansit" width="32" height="32" /></a>
+  <a href="https://www.behance.net/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kagancansit" width="32" height="32" /></a>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/Ts4Tt40LvVD0s/giphy.gif?cid=ecf05e47z7635tt2v7jrmxanx4uvn6ky7g5i21mfwuxiyc8c&rid=giphy.gif&ct=g">
+  <h3>Good Bye. I will miss you!</h3>
+</div>
+
+<div align="center" class="github">
+  <a href="https://github.com/kagancansit">
+    <img src="https://badges.pufler.dev/visits/yasinkya/yasinkya?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/kagancansit?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/yasinkya?style=flat-square&color=black&logo=github">
+  </a>
+<a href="https://github.com/kagancansit"><img src="https://img.shields.io/github/followers/yasinkya?style=social"></a>
+</div>
