@@ -1,27 +1,33 @@
 ![banner](https://github.com/KaganCanSit/KaganCanSit/blob/master/Work%2C%20develop%20and%20share%20to%20build%20tomorrow.%20Even%20a%20snowflake%20can%20make%20a%20big%20difference..gif)
 
-<h1> Hi Everyone! I'm Kağan Can Şit.👋 </h1>
-I am one of the future software engineer candidates. I try to improve myself in software, graphics and technology without staying within the boundaries of the school.<br>
+<div align="left" class="header_personelinfo">
+  <h1> Hi Everyone! I'm Kağan Can Şit.👋 </h1>
+  I am one of the future software engineer candidates. I try to improve myself in software, graphics and technology without staying within the boundaries of the school. <br><br>
 
-If I have to talk about myself briefly, my education and work discipline is usually based on self-learning and development. Ever since I met the computer. I questioned and wondered about its internal structure and working logic. All these interests and questions brought me here today. In addition to software, I have experience in many areas such as graphic design, social media management. I try to improve myself on platforms such as Youtube, Udemy, Kommunity, Codewars, HackerRank, StackOverflow, PatikaDev...<br>
+  If I have to talk about myself briefly, my education and work discipline is usually based on self-learning and development. Ever since I met the computer. I questioned and wondered about its internal structure and working logic. All these interests and questions brought me here today. In addition to software, I have experience in many areas such as graphic design, social media management. I try to improve myself on platforms such as Youtube, Udemy, Kommunity, Codewars, HackerRank, StackOverflow, PatikaDev...<br>
 
-My purpose here is to show you the projects I have done and to see my own development over time. I love setting goals for the future, meeting new people and bringing new knowledge and experiences to my horizon.
+  My purpose here is to show you the projects I have done and to see my own development over time. I love setting goals for the future, meeting new people and bringing new      knowledge and experiences to my horizon.
 
-Please feel free to suggest or message me. As people share and develop with each other, they can build tomorrow. Take care of yourself. See you.  
-- 🚀 I am currently learning intermediate advanced level >> C, C++ ,C#, Design Patterns, Data Structures and Computer Systems Sub-Logics
-- 💡 I am currently learning at introductory level >> Html, Css, JavaScript
-- 🧠 I’m looking to collaborate on >> Knowledge sharing and guidance for good development in software.
-- 💭 I’m looking for help with >> C language, node.js advanced examples and solutions.
+  Please feel free to suggest or message me. As people share and develop with each other, they can build tomorrow. Take care of yourself. See you.
+    
+  - 🚀 I am currently learning intermediate advanced level >> C, C++ ,C#, Design Patterns, Data Structures and Computer Systems Sub-Logics
+  - 💡 I am currently learning at introductory level >> Html, Css, JavaScript
+  - 🧠 I’m looking to collaborate on >> Knowledge sharing and guidance for good development in software.
+  - 💭 I’m looking for help with >> C language, node.js advanced examples and solutions.
+</div>
 
-
-<div align="center" class="github_stat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagancansit&theme=blue-green">
+<div align="center" class="github_stats">
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kagancansit&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kagancansit&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=kagancansit&theme=redical">
 </div>
 
 <hr>
 <div align="center" class="tools">
-  <h3>Languages and Tools:</h3>
+  <h3>Languages and Tools
+    <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Laptop.gif" width="35" height="35">
+  </h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C_ProgrammingLanguage" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++_ProgrammingLanguage" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#_ProgrammingLanguage" width="40" height="40"/>
@@ -33,7 +39,9 @@ Please feel free to suggest or message me. As people share and develop with each
 <br>
 
 <div align="center" class="connect">
-  <h3>Connect With Me:</h3>
+  <h3>Connect With Me
+    <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Phone.gif" width="35" height="35">
+  </h3>
   <a href="mailto:kagancansit@hotmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="@kagancansit" width="32" height="32" /></a>
   <a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kagancansit" width="32" height="32" /></a>
   <a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kagancansit" width="32" height="32" /></a>
