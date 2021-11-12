@@ -1,7 +1,12 @@
 ![banner](https://github.com/KaganCanSit/KaganCanSit/blob/master/Work%2C%20develop%20and%20share%20to%20build%20tomorrow.%20Even%20a%20snowflake%20can%20make%20a%20big%20difference..gif)
 
 <div align="left" class="header_personelinfo">
-  <h1> Hi Everyone! I'm Kağan Can Şit.👋 </h1>
+  <h1> Hi Everyone! I'm Kağan Can Şit.👋   
+    <img align="right" src="https://badges.pufler.dev/commits/monthly/kagancansit" />
+    <img align="right" src="https://badges.pufler.dev/repos/kagancansit"/>
+    <img align="right" src="https://badges.pufler.dev/visits/kagancansit/kagancansit"/> 
+  </h1>
+  
   I am one of the future software engineer candidates. I try to improve myself in software, graphics and technology without staying within the boundaries of the school. <br><br>
 
   If I have to talk about myself briefly, my education and work discipline is usually based on self-learning and development. Ever since I met the computer. I questioned and wondered about its internal structure and working logic. All these interests and questions brought me here today. In addition to software, I have experience in many areas such as graphic design, social media management. I try to improve myself on platforms such as Youtube, Udemy, Kommunity, Codewars, HackerRank, StackOverflow, PatikaDev...<br>
@@ -55,10 +60,4 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/Ts4Tt40LvVD0s/giphy.gif?cid=ecf05e47z7635tt2v7jrmxanx4uvn6ky7g5i21mfwuxiyc8c&rid=giphy.gif&ct=g">
   <h3>Good Bye. I will miss you!</h3>
-</div>
-
-<div align="center" class="github">
-  <img src="https://badges.pufler.dev/visits/kagancansit/kagancansit"/> 
-  <img src="https://badges.pufler.dev/repos/kagancansit"/>
-  <img src="https://badges.pufler.dev/commits/monthly/kagancansit" />
 </div>
