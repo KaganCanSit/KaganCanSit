@@ -17,30 +17,32 @@
 </div>
 
 <div align="center" class="github_stats">
+  <h2> My Github Stats 
+    <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Cat.gif" width="50" height="50"/>
+  </h2>
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kagancansit&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical"><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kagancansit&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=kagancansit&theme=redical">
 </div>
 
-<hr>
+<br><hr>
 <div align="center" class="tools">
   <h3>Languages and Tools
-    <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Laptop.gif" width="35" height="35">
+    <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Laptop.gif" width="45" height="45"/>
   </h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C_ProgrammingLanguage" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++_ProgrammingLanguage" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++_ProgrammingLanguage" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#_ProgrammingLanguage" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java_ProgrammingLanguage" width="40" height="40" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSql_Language" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator_Adobe" width="40" height="40"/>   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop_Adobe" width="40" height="40"/>
 </div>
-<br>
 
 <div align="center" class="connect">
   <h3>Connect With Me
-    <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Phone.gif" width="35" height="35">
+    <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Phone.gif" width="35" height="35"/>
   </h3>
   <a href="mailto:kagancansit@hotmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="@kagancansit" width="32" height="32" /></a>
   <a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kagancansit" width="32" height="32" /></a>
@@ -48,7 +50,7 @@
   <a href="https://instagram.com/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kagancansit" width="32" height="32" /></a>
   <a href="https://www.behance.net/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kagancansit" width="32" height="32" /></a>
 </div>
-<br>
+<br><hr>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/Ts4Tt40LvVD0s/giphy.gif?cid=ecf05e47z7635tt2v7jrmxanx4uvn6ky7g5i21mfwuxiyc8c&rid=giphy.gif&ct=g">
@@ -56,11 +58,7 @@
 </div>
 
 <div align="center" class="github">
-  <a href="https://github.com/kagancansit">
-    <img src="https://badges.pufler.dev/visits/yasinkya/yasinkya?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/kagancansit?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/yasinkya?style=flat-square&color=black&logo=github">
-  </a>
-<a href="https://github.com/kagancansit"><img src="https://img.shields.io/github/followers/yasinkya?style=social"></a>
+  <img src="https://badges.pufler.dev/visits/kagancansit/kagancansit"/> 
+  <img src="https://badges.pufler.dev/repos/kagancansit"/>
+  <img src="https://badges.pufler.dev/commits/monthly/kagancansit" />
 </div>
