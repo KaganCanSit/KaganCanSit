@@ -7,10 +7,9 @@
       <img align="right" src="https://badges.pufler.dev/repos/kagancansit"/>
       <img align="right" src="https://badges.pufler.dev/visits/kagancansit/kagancansit"/>
       </h1>
-   </div>
-   
-  
-  I am one of the future software engineer candidates. I try to improve myself in software, graphics and technology without staying within the boundaries of the school. <br><br>
+ </div>
+ 
+  I am one of the future software engineer candidates. I try to improve myself in software, graphics and technology without staying within the boundaries of the school. <br>
 
   If I have to talk about myself briefly, my education and work discipline is usually based on self-learning and development. Ever since I met the computer. I questioned and wondered about its internal structure and working logic. All these interests and questions brought me here today. In addition to software, I have experience in many areas such as graphic design, social media management. I try to improve myself on platforms such as Youtube, Udemy, Kommunity, Codewars, HackerRank, StackOverflow, PatikaDev...<br>
 
