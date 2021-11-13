@@ -1,11 +1,14 @@
 ![banner](https://github.com/KaganCanSit/KaganCanSit/blob/master/Work%2C%20develop%20and%20share%20to%20build%20tomorrow.%20Even%20a%20snowflake%20can%20make%20a%20big%20difference..gif)
 
-<div align="left" class="header_personelinfo">
-  <h1> Hi Everyone! I'm Kağan Can Şit.👋   
-    <img align="right" src="https://badges.pufler.dev/commits/monthly/kagancansit" />
-    <img align="right" src="https://badges.pufler.dev/repos/kagancansit"/>
-    <img align="right" src="https://badges.pufler.dev/visits/kagancansit/kagancansit"/> 
-  </h1>
+<div align="left" class="header">
+      <h1> Hi Everyone! I'm Kağan Can Şit.
+      <img src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif" height="40px" width="45px"/>
+      <img align="right" src="https://badges.pufler.dev/commits/monthly/kagancansit" />
+      <img align="right" src="https://badges.pufler.dev/repos/kagancansit"/>
+      <img align="right" src="https://badges.pufler.dev/visits/kagancansit/kagancansit"/>
+      </h1>
+   </div>
+   
   
   I am one of the future software engineer candidates. I try to improve myself in software, graphics and technology without staying within the boundaries of the school. <br><br>
 
@@ -15,10 +18,10 @@
 
   Please feel free to suggest or message me. As people share and develop with each other, they can build tomorrow. Take care of yourself. See you.
     
-  - 🚀 I am currently learning intermediate advanced level >> C, C++ ,C#, Design Patterns, Data Structures and Computer Systems Sub-Logics
-  - 💡 I am currently learning at introductory level >> Html, Css, JavaScript
+  - 🚀 I am currently learning intermediate advanced level >> C, C++ ,C#, Git, Design Patterns, Data Structures and Computer Systems Sub-Logics
+  - 💡 I am currently learning at introductory level >> Html, Css, JavaScript, Node.js, Boostrap And Java
   - 🧠 I’m looking to collaborate on >> Knowledge sharing and guidance for good development in software.
-  - 💭 I’m looking for help with >> C language, node.js advanced examples and solutions.
+  - 💭 I’m looking for help with >> C, C#, Node.js advanced examples and solutions.
 </div>
 
 <div align="center" class="github_stats">
