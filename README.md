@@ -30,7 +30,7 @@ If I have to talk about myself briefly, my education and work discipline is usua
       
 My purpose here is to show you the projects I have done and to see my own development over time. I love setting goals for the future, meeting new people and bringing new knowledge and experiences to my horizon.
       
-      Please feel free to suggest or message me. As people share and develop with each other, they can build tomorrow.
+Please feel free to suggest or message me. As people share and develop with each other, they can build tomorrow.
 </div>
 
 </div>
