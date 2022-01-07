@@ -39,7 +39,7 @@ Please feel free to suggest or message me. As people share and develop with each
   <h2> My Github Stats 
     <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Cat.gif" width="50" height="50"/>
   </h2>
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kagancansit&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical"><br>
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kagancansit&hide=html,css,shaderlab,kotlin,hlsl&layout=compact&theme=radical"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical"><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kagancansit&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=kagancansit&theme=redical">
