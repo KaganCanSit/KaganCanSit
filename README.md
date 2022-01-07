@@ -9,6 +9,8 @@
       </h1>
  </div>
  
+ 
+ <!-- Older Text
   I am one of the future software engineer candidates. I try to improve myself in software, graphics and technology without staying within the boundaries of the school. <br>
 
   If I have to talk about myself briefly, my education and work discipline is usually based on self-learning and development. Ever since I met the computer. I questioned and wondered about its internal structure and working logic. All these interests and questions brought me here today. In addition to software, I have experience in many areas such as graphic design, social media management. I try to improve myself on platforms such as Youtube, Udemy, Kommunity, Codewars, HackerRank, StackOverflow, PatikaDev...<br>
@@ -21,6 +23,16 @@
   - 💡 I am currently learning at introductory level >> Html, Css, JavaScript, Node.js, Boostrap And Java
   - 🧠 I’m looking to collaborate on >> Knowledge sharing and guidance for good development in software.
   - 💭 I’m looking for help with >> C, C#, Node.js advanced examples and solutions.
+-->
+<div class="AboutMe">
+      I am one of the future software engineer candidates. I try to improve myself in software, graphics and technology without staying within the boundaries of the school.<br><br>
+If I have to talk about myself briefly, my education and work discipline is usually based on self-learning and development. In addition to software, I have experience in many areas such as graphic design, social media management. I try to improve myself on platforms such as Youtube, Udemy, Kommunity, Codewars, HackerRank, StackOverflow, PatikaDev...<br><br>
+      
+My purpose here is to show you the projects I have done and to see my own development over time. I love setting goals for the future, meeting new people and bringing new knowledge and experiences to my horizon.
+      
+      Please feel free to suggest or message me. As people share and develop with each other, they can build tomorrow.
+</div>
+
 </div>
 
 <div align="center" class="github_stats">
@@ -61,5 +73,5 @@
 
 <div align="center">
   <img src="https://media2.giphy.com/media/Ts4Tt40LvVD0s/giphy.gif?cid=ecf05e47z7635tt2v7jrmxanx4uvn6ky7g5i21mfwuxiyc8c&rid=giphy.gif&ct=g">
-  <h3>Good Bye. I will miss you!</h3>
+  <h3> Good Bye. I will miss you!</h3>
 </div>
