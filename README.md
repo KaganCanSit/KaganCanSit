@@ -4,8 +4,8 @@
       <h1> Hi Everyone! I'm Kağan Can Şit.
       <img src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif" height="40px" width="45px"/>
       <img align="right" src="https://badges.pufler.dev/commits/monthly/kagancansit" />
-      <img align="right" src="https://badges.pufler.dev/repos/kagancansit"/>
-      <img align="right" src="https://badges.pufler.dev/visits/kagancansit/kagancansit"/>
+ <!--    <img align="right" src="https://badges.pufler.dev/repos/kagancansit"/>
+      <img align="right" src="https://badges.pufler.dev/visits/kagancansit/kagancansit"/>  -->
       </h1>
  </div>
  
