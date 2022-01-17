@@ -7,7 +7,7 @@
             <img align="right" src="https://badges.pufler.dev/commits/monthly/kagancansit" />
             <img align="right" src="https://badges.pufler.dev/repos/kagancansit" /> 
       -->
-      <img align="right" src="https://badges.pufler.dev/visits/kagancansit/kagancansit" /> 
+      <img align="right" src="https://badges.pufler.dev/visits/kagancansit/kagancansit" />
       </h1>
  </div>
  
@@ -32,9 +32,8 @@ If I have to talk about myself briefly, my education and work discipline is usua
       
 My purpose here is to show you the projects I have done and to see my own development over time. I love setting goals for the future, meeting new people and bringing new knowledge and experiences to my horizon.
       
-Please feel free to suggest or message me. As people share and develop with each other, they can build tomorrow.
-</div>
-
+Please feel free to suggest or message me. As people share and develop with each other, they can build tomorrow.<br>
+<a align="right" href="https://github.com/KaganCanSit/KaganCanSit/blob/master/Open%20CV.pdf">Read CV</a>
 </div>
 
 <div align="center" class="github_stats">
