@@ -38,7 +38,7 @@ Please feel free to suggest or message me. As people share and develop with each
   <h3>Languages and Tools
     <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/laptop.gif" width="40" height="40"/>
   </h3>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/C.png" alt="C_ProgrammingLanguage" width="40" height="40"/>
+  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/C.png" alt="C_ProgrammingLanguage" width="40" height="42"/>
   <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/C%2B%2B.png" alt="C++_ProgrammingLanguage" width="40" height="40"/>
   <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/C%23.png" width="40" height="40"/>
   <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Java.png" width="40" height="40" />
