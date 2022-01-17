@@ -1,11 +1,11 @@
-![banner](https://github.com/KaganCanSit/KaganCanSit/blob/master/Work%2C%20develop%20and%20share%20to%20build%20tomorrow.%20Even%20a%20snowflake%20can%20make%20a%20big%20difference..gif)
+<img src="../KaganCanSit/ImageFiles/Gif/Work, develop and share to build tomorrow. Even a snowflake can make a big difference..gif">
 
 <div align="left" class="header">
-      <h1> Hi Everyone! I'm Kağan Can Şit.
-      <img src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif" height="40px" width="45px"/>
+      <h1>Hi Everyone! I'm Kağan Can Şit.
+      <img src="../KaganCanSit/ImageFiles/Gif/baby-yoda-so-cute.gif" height="40px" width="45px"/>
       <!--
-            <img align="right" src="https://badges.pufler.dev/commits/monthly/kagancansit" />
-            <img align="right" src="https://badges.pufler.dev/repos/kagancansit" /> 
+      <img align="right" src="https://badges.pufler.dev/commits/monthly/kagancansit" />
+      <img align="right" src="https://badges.pufler.dev/repos/kagancansit" />       
       -->
       <img align="right" src="https://badges.pufler.dev/visits/kagancansit/kagancansit" />
       </h1>
@@ -37,7 +37,7 @@ Please feel free to suggest or message me. As people share and develop with each
 
 <div align="center" class="github_stats">
   <h2> My Github Stats 
-    <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Cat.gif" width="50" height="50"/>
+    <img src="../KaganCanSit/ImageFiles/Gif/Cat.gif" width="50" height="50"/>
   </h2>
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kagancansit&hide=html,css,shaderlab,kotlin,hlsl&layout=compact&theme=radical"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical"><br>
@@ -46,35 +46,35 @@ Please feel free to suggest or message me. As people share and develop with each
 </div>
 
 <br><hr>
-<div align="center" class="tools">
-  <div align="center" class="CV_Resume">
+<div align="center" class="CV_Resume">
   <h3>Resume / Curriculum Vitae
-    <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Laptop.gif" width="45" height="45"/>
+    <img src="../KaganCanSit/ImageFiles/Gif/Resume.gif" width="40" height="40"/>
   </h3>
-  <a href="https://github.com/KaganCanSit/KaganCanSit/blob/master/Open%20CV.pdf"><img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Resume.png" alt="Resume_CV" width="40" height="40"/></a>
+  <a href="https://github.com/KaganCanSit/KaganCanSit/blob/master/Open%20CV.pdf"><img src="../KaganCanSit/ImageFiles/Image/Resume.png" alt="Resume_CV" width="40" height="40"/></a>
   </div>
-      
+
+<div align="center" class="tools">    
   <h3>Languages and Tools
-    <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Laptop.gif" width="45" height="45"/>
+    <img src="../KaganCanSit/ImageFiles/Gif/laptop.gif" width="40" height="40"/>
   </h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C_ProgrammingLanguage" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++_ProgrammingLanguage" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#_ProgrammingLanguage" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java_ProgrammingLanguage" width="40" height="40" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSql_Language" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator_Adobe" width="40" height="40"/>   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop_Adobe" width="40" height="40"/>
+  <img src="../KaganCanSit/ImageFiles/Image/C.png" alt="C_ProgrammingLanguage" width="40" height="40"/>
+  <img src="../KaganCanSit/ImageFiles/Image/C++.png" alt="C++_ProgrammingLanguage" width="40" height="40"/>
+  <img src="../KaganCanSit/ImageFiles/Image/C#.png" alt="C#_ProgrammingLanguage" width="40" height="40"/>
+  <img src="../KaganCanSit/ImageFiles/Image/Java.png" alt="Java_ProgrammingLanguage" width="40" height="40" />
+  <img src="../KaganCanSit/ImageFiles/Image/SQL.png" alt="MSql_Language" width="40" height="40"/>
+  <img src="../KaganCanSit/ImageFiles/Image/Illustrator.png" alt="Illustrator_Adobe" width="40" height="40"/>   
+  <img src="../KaganCanSit/ImageFiles/Image/Photoshop.png" alt="Photoshop_Adobe" width="40" height="40"/>
 </div>
 
 <div align="center" class="connect">
   <h3>Connect With Me
-    <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Phone.gif" width="35" height="35"/>
+    <img src="../KaganCanSit/ImageFiles/Gif/Phone.gif" width="40" height="40"/>
   </h3>
-  <a href="mailto:kagancansit@hotmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="@kagancansit" width="32" height="32" /></a>
-  <a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kagancansit" width="32" height="32" /></a>
-  <a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kagancansit" width="32" height="32" /></a>
-  <a href="https://instagram.com/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kagancansit" width="32" height="32" /></a>
-  <a href="https://www.behance.net/kagancansit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kagancansit" width="32" height="32" /></a>
+  <a href="mailto:kagancansit@hotmail.com" target="blank"><img align="center" src="../KaganCanSit/ImageFiles/SocialMediaPng/Outlook.png" alt="@kagancansit" width="40" height="40" /></a>
+  <a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="../KaganCanSit/ImageFiles/SocialMediaPng/Linked.png" alt="kagancansit" width="40" height="40" /></a>
+  <a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="../KaganCanSit/ImageFiles/SocialMediaPng/Twitter.png alt="kagancansit" width="40" height="40" /></a>
+  <a href="https://instagram.com/kagancansit" target="blank"><img align="center" src="../KaganCanSit/ImageFiles/SocialMediaPng/Instagram.png" alt="kagancansit" width="40" height="40" /></a>
+  <a href="https://www.behance.net/kagancansit" target="blank"><img align="center" src="../KaganCanSit/ImageFiles/SocialMediaPng/Behance.png alt="kagancansit" width="40" height="40" /></a>
 </div>
 <br><hr>
 
