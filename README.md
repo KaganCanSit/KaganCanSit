@@ -33,7 +33,6 @@ If I have to talk about myself briefly, my education and work discipline is usua
 My purpose here is to show you the projects I have done and to see my own development over time. I love setting goals for the future, meeting new people and bringing new knowledge and experiences to my horizon.
       
 Please feel free to suggest or message me. As people share and develop with each other, they can build tomorrow.<br>
-<a align="right" href="https://github.com/KaganCanSit/KaganCanSit/blob/master/Open%20CV.pdf">Read CV</a>
 </div>
 
 <div align="center" class="github_stats">
@@ -48,6 +47,13 @@ Please feel free to suggest or message me. As people share and develop with each
 
 <br><hr>
 <div align="center" class="tools">
+  <div align="center" class="CV_Resume">
+  <h3>Resume / Curriculum Vitae
+    <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Laptop.gif" width="45" height="45"/>
+  </h3>
+  <a href="https://github.com/KaganCanSit/KaganCanSit/blob/master/Open%20CV.pdf"><img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Resume.png" alt="Resume_CV" width="40" height="40"/></a>
+  </div>
+      
   <h3>Languages and Tools
     <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/Laptop.gif" width="45" height="45"/>
   </h3>
