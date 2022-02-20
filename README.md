@@ -31,7 +31,7 @@ Please feel free to suggest or message me. As people share and develop with each
   <h3>Resume / Curriculum Vitae
     <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/Resume.gif" width="40" height="40"/>
   </h3>
-  <a href="https://github.com/KaganCanSit/KaganCanSit/blob/master/Open%20CV.pdf"><img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Resume.png" alt="Resume_CV" width="40" height="40"/></a>
+  <a href="https://github.com/KaganCanSit/KaganCanSit/blob/master/A%C3%A7%C4%B1k%20%C3%96zge%C3%A7mi%C5%9F.pdf"><img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Resume.png" alt="Resume_CV" width="40" height="40"/></a>
   </div>
 
 <div align="center" class="tools">    
