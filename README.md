@@ -8,7 +8,7 @@
  </div>
  
 <div class="AboutMe">
-      I am one of the future software engineer candidates. I try to improve myself in software, graphics and technology without staying within the boundaries of the school.<br><br>
+      I am one of the future software engineer candidates. I aim to improve myself in software, graphics and technology without staying within the boundaries of the school.<br><br>
 If I have to talk about myself briefly, my education and work discipline is usually based on self-learning and development. In addition to software, I have experience in many areas such as graphic design, social media management. I try to improve myself on platforms such as Youtube, Udemy, Kommunity, Codewars, HackerRank, StackOverflow, PatikaDev...<br><br>
       
 My purpose here is to show you the projects I have done and to see my own development over time. I love setting goals for the future, meeting new people and bringing new knowledge and experiences to my horizon.
