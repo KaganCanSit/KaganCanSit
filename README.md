@@ -19,7 +19,7 @@
 
 <!-- BLOG POST -->
 <table>
-<h2 align="center"> My Blog Posts <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="40" height="40"/> </h2>
+<h2 align="center"> My Blog Posts <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="20" height="40"/> </h2>
 <tr>
   <td>
     <h3>:tr: Notion İle MarkDown Dosyası Oluşturma</h3>
@@ -30,7 +30,6 @@
     <img src="https://miro.medium.com/max/700/1*v6_Hx8lPcd2-pwWL8TIq_Q.jpeg" alt="Banner" width="400px">
   </td>
 </tr>
-
 <tr>
   <td>
     <h3>:tr: Yeni Bilgiler Edinmek İçin YouTube Kanal Önerileri</h3>
