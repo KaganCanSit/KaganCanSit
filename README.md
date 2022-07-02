@@ -54,7 +54,7 @@
   <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Java.png" width="40" height="40" />
   <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/SQL.png" alt="MSql_Language" width="40" height="40"/>
   <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Photoshop.png" alt="Photoshop_Adobe" width="40" height="40"/>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Illustrator.png" alt="Illustrator_Adobe" width="40" height="40"/><br> 
+  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Illustrator.png" alt="Illustrator_Adobe" width="40" height="40"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagancansit&hide=html,css,shaderlab,kotlin,hlsl&layout=compact&theme=radical">
 </div>
 
