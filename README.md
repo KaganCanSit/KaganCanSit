@@ -33,10 +33,10 @@ Please feel free to suggest or message me. As people share and develop with each
     <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/Cat.gif" width="50" height="50"/>
   </h2>
         <div>
-              <img src="https://github-readme-streak-stats.herokuapp.com/?user=kagancansit&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="450px"/>
-              <img src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical" width="450px"><br>
+              <img src="https://github-readme-streak-stats.herokuapp.com/?user=kagancansit&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="425px"/>
+              <img src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical" width="425px"><br>
         </div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=kagancansit&theme=redical" width="900px">
+  <img src="https://activity-graph.herokuapp.com/graph?username=kagancansit&theme=redical" width="850px">
 </div>
 
 <br><hr>
