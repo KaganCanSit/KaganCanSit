@@ -24,11 +24,9 @@ Please feel free to suggest or message me. As people share and develop with each
   <h2> My Github Stats
     <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/Cat.gif" width="50" height="50"/>
   </h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagancansit&hide=html,css,shaderlab,kotlin,hlsl&layout=compact&theme=radical">  
-  <div>      
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kagancansit&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical">
-  </div> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagancansit&hide=html,css,shaderlab,kotlin,hlsl&layout=compact&theme=radical">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kagancansit&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical">
   <img src="https://activity-graph.herokuapp.com/graph?username=kagancansit&theme=redical">
 </div>  
 
@@ -39,7 +37,6 @@ Please feel free to suggest or message me. As people share and develop with each
   </h3>
   <a href="https://github.com/KaganCanSit/KaganCanSit/blob/master/A%C3%A7%C4%B1k%20%C3%96zge%C3%A7mi%C5%9F.pdf"><img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Resume.png" alt="Resume_CV" width="40" height="40"/></a>
   </div>
-
 
 <div align="center" class="tools">    
   <h3>Languages and Tools
@@ -54,17 +51,6 @@ Please feel free to suggest or message me. As people share and develop with each
   <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Illustrator.png" alt="Illustrator_Adobe" width="40" height="40"/>   
 </div>
 
-<div align="center" class="connect">
-  <h3>Connect With Me
-    <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/Phone.gif" width="40" height="40"/>
-  </h3>
-  <a href="mailto:kagancansit@hotmail.com" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Outlook.png" alt="@kagancansit" width="40" height="40" /></a>
-  <a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Linked.png" alt="kagancansit" width="40" height="40" /></a>
-  <a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Twitter.png" alt="kagancansit" width="40" height="40" /></a>
-  <a href="https://www.instagram.com/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Instagram.png" alt="kagancansit" width="40" height="40" /></a>
-  <a href="https://www.behance.net/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Behance.png" alt="kagancansit" width="40" height="40" /></a>
-</div>
-
 <div class="blog" align="center">
 <details>
       <summary><h3>My Blog Post <img src="https://media4.giphy.com/media/fsyg9tH6PcwUc8WU23/giphy.gif?cid=790b7611764d16f4c060358758030918531469c86523397e&rid=giphy.gif&ct=s" width="40" height="40"/></h3></summary>
@@ -75,7 +61,15 @@ Please feel free to suggest or message me. As people share and develop with each
 </div>
 <br><hr>
 
-<div align="center">
+<div align="center" class="bye">
   <img src="https://media2.giphy.com/media/ytwDCP7JApXH3twHvy/giphy.gif">
   <h3> Good Bye. I will miss you!</h3>
+</div>
+
+<div align="center" class="connect">
+  <a href="mailto:kagancansit@hotmail.com" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Outlook.png" alt="@kagancansit" width="40" height="40" /></a>
+  <a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Linked.png" alt="kagancansit" width="40" height="40" /></a>
+  <a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Twitter.png" alt="kagancansit" width="40" height="40" /></a>
+  <a href="https://www.instagram.com/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Instagram.png" alt="kagancansit" width="40" height="40" /></a>
+  <a href="https://www.behance.net/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Behance.png" alt="kagancansit" width="40" height="40" /></a>
 </div>
