@@ -23,7 +23,7 @@
 <tr>
   <td>
     <h3>:tr: Notion İle MarkDown Dosyası Oluşturma</h3>
-    <p>Bugün Notion kullanarak çalışmalarına dair not almayı seven, bu notlarını kolayca GitHub (repository) deposunda sergilemek isteyenler için pratik bir yoldan bahsedeceğim.</p>
+    <p>Bugün Notion kullanarak çalışmalarına dair not almayı seven, bu notlarını kolayca GitHub (repository) deposunda sergilemek isteyenler için pratik bir yoldan bahsedeceğim... </p>
     <a href="https://medium.com/@kagancansit/notion-i%CC%87le-markdown-dosyasi-olu%C5%9Fturmak-d1e725a021b1">Read more</a>
   </td>
   <td>
@@ -33,7 +33,7 @@
 <tr>
   <td>
     <h3>:tr: Yeni Bilgiler Edinmek İçin YouTube Kanal Önerileri</h3>
-    <p>Her zaman bilgi ve tecrübe sahibi insanların önemli bir faktör olduğunu düşünmüşümdür. Kendi bilgi ve deneyimlerini başkalarına aktaran, yeni dünyalar için karanlığa ışık tutun insanlar. Bunların yanı sıra az ve öz küçük bir ekiple bile her zorluğa karşı gelerek yeni bir şeyler üretmek için çabalayanlara ise ayrıca imrenmişimdir.</p>
+    <p>Her zaman bilgi ve tecrübe sahibi insanların önemli bir faktör olduğunu düşünmüşümdür. Kendi bilgi ve deneyimlerini başkalarına aktaran, yeni dünyalar için karanlığa ışık tutun insanlar... </p>
     <a href="https://medium.com/@kagancansit/yeni-bilgiler-edinmek-i%CC%87%C3%A7in-youtube-kanal-%C3%B6nerileri-8a3aac7a4a14">Read more</a>
   </td>
   <td>
