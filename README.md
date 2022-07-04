@@ -27,7 +27,7 @@
     <a href="https://medium.com/@kagancansit/a%C3%A7%C4%B1k-kaynak-kavram%C4%B1-ve-a%C3%A7%C4%B1k-kayna%C4%9Fa-katk%C4%B1da-bulunmaya-dair-i%CC%87lk-ad%C4%B1mlar-a0d3dceabab">Read more</a>
   </td>
   <td>
-    <img src="https://miro.medium.com/max/700/1*v6_Hx8lPcd2-pwWL8TIq_Q.jpeg" alt="Banner" width="400px">
+    <img src="https://miro.medium.com/max/1400/1*4lJoDwMmJmE1TuLqvgk0_Q.jpeg" alt="Banner" width="400px">
   </td>
 </tr>
 <tr>
