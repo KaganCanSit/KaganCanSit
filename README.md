@@ -22,6 +22,17 @@
 <h2 align="center"> My Blog Posts <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="20" height="40"/> </h2>
 <tr>
   <td>
+    <h3>:tr: Açık Kaynak Kavramı ve Açık Kaynağa Katkıda Bulunmaya Dair İlk Adımlar</h3>
+    <p>Bir öğrenci ve mühendis adayı olarak açık kaynağa ve açık kaynağa katkıda bulunmaya dair araştırdığım ve edindiğim bilgiler üzerine “Açık kaynak nedir?”, “Neden katkıda bulunmalıyız?”, “Gelişmimize katkısı nedir?” ...</p>
+    <a href="https://medium.com/@kagancansit/a%C3%A7%C4%B1k-kaynak-kavram%C4%B1-ve-a%C3%A7%C4%B1k-kayna%C4%9Fa-katk%C4%B1da-bulunmaya-dair-i%CC%87lk-ad%C4%B1mlar-a0d3dceabab">Read more</a>
+  </td>
+  <td>
+    <img src="https://miro.medium.com/max/700/1*v6_Hx8lPcd2-pwWL8TIq_Q.jpeg" alt="Banner" width="400px">
+  </td>
+</tr>
+<tr>
+<tr>
+  <td>
     <h3>:tr: Notion İle MarkDown Dosyası Oluşturma</h3>
     <p>Bugün Notion kullanarak çalışmalarına dair not almayı seven, bu notlarını kolayca GitHub (repository) deposunda sergilemek isteyenler için pratik bir yoldan bahsedeceğim... </p>
     <a href="https://medium.com/@kagancansit/notion-i%CC%87le-markdown-dosyasi-olu%C5%9Fturmak-d1e725a021b1">Read more</a>
