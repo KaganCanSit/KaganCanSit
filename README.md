@@ -20,7 +20,8 @@
 <!-- BLOG POST -->
 <table>
 <h2 align="center"> Last Five of My Blog Posts <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="20" height="40"/> </h2>
-      
+
+<!-- Table Blog Num: 1 -->
 <tr>
   <td>
     <h3>:tr: Linux Kavramı ve Temel Linux Terminal Komutları</h3>
@@ -31,6 +32,8 @@
     <img src="https://miro.medium.com/max/700/0*pc6jbW4zQhXMar0b" alt="Banner" width="400px">
   </td>
 </tr>
+
+<!-- Table Blog Num: 2 -->
 <tr>
   <td>
     <h3>:tr: Github Profili İçin Readme Dosyası Oluşturma ve Özelleştirme</h3>
@@ -41,6 +44,8 @@
     <img src="https://miro.medium.com/max/1400/1*DgoOKLWPUa5RMQ3e0xW-qg.png" alt="Banner" width="400px">
   </td>
 </tr>
+
+<!-- Table Blog Num: 3 -->
 <tr>
   <td>
     <h3>:tr: Açık Kaynak Kavramı ve Açık Kaynağa Katkıda Bulunmaya Dair İlk Adımlar</h3>
@@ -51,7 +56,8 @@
     <img src="https://miro.medium.com/max/1400/1*4lJoDwMmJmE1TuLqvgk0_Q.jpeg" alt="Banner" width="400px">
   </td>
 </tr>
-<tr>
+
+<!-- Table Blog Num: 4 -->
 <tr>
   <td>
     <h3>:tr: Notion İle MarkDown Dosyası Oluşturma</h3>
@@ -62,6 +68,8 @@
     <img src="https://miro.medium.com/max/700/1*v6_Hx8lPcd2-pwWL8TIq_Q.jpeg" alt="Banner" width="400px">
   </td>
 </tr>
+
+<!-- Table Blog Num: 5 -->
 <tr>
   <td>
     <h3>:tr: Yeni Bilgiler Edinmek İçin YouTube Kanal Önerileri</h3>
