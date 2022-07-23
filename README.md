@@ -22,6 +22,11 @@
 <h2 align="center"> Last Five of My Blog Posts <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="20" height="40"/> </h2>
 <tr>
   <td>
+    <h3>:tr:Linux Kavramı ve Temel Linux Terminal Komutları</h3>
+    <p> Merhabalar, son dönemlerde Linux ile yolum kesişti ve yeni yeni öğrenmeye, kavramaya çalışıyorum. Bu sırada çıkardığım ve oluşturduğum notları paylaşmak istedim. Öğrenme aşamasından olduğum için mutlaka hatalarım bulunabilir. Lütfen ...</p>
+    <a href="https://medium.com/@kagancansit/linux-kavram%C4%B1-ve-temel-linux-terminal-komutlar%C4%B1-1046c70d06a">Read more</a>
+  </td>
+  <td>
     <h3>:tr: Github Profili İçin Readme Dosyası Oluşturma ve Özelleştirme</h3>
     <p> Merhabalar, bugün sizleri biraz kodlamadan uzak olan özelleştirme ve tasarıma yakın bir gezintiye çıkarmak istiyorum. Kişisel olarak günlük yaşamımız içerisinde sevdiğimiz renkler, sanatçılar, tasarımlar ...</p>
     <a href="https://medium.com/@kagancansit/github-profili-i%CC%87%C3%A7in-readme-dosyas%C4%B1-olu%C5%9Fturma-ve-%C3%B6zelle%C5%9Ftirme-dae2b45d56ad">Read more</a>
