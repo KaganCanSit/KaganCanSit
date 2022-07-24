@@ -6,7 +6,7 @@
       <h1>
             Hi Everyone! I'm Kağan Can Şit.
             <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/baby-yoda-so-cute.gif" height="40px" width="45px"/>
-            <img align="right" src="https://badges.pufler.dev/visits/kagancansit/kagancansit" />
+            <img align="right" src="https://komarev.com/ghpvc/?username=kagancansit&color=fa324b&style=for-the-badge" height="25px" width="135px" /> <!-- Since 24 - Jun 22 -->
       </h1>
  </div>
 <div class="about_me">
