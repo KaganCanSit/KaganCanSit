@@ -21,7 +21,19 @@
 <table>
 <h2 align="center"> Last Five of My Blog Posts <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="20" height="40"/> </h2>
 
-<!-- Table Blog Num: 1 -->
+<!-- Table Blog -->
+<tr>
+  <td>
+    <h3>:tr: Git, Git Flow, Github Kavramları ve Bazı Git Komutları</h3>
+    <p>Hoşgeldin, nasılsın? Bugün yazılımcıların baş köşesinde bulunan “Git” kavramı ve Github’a dair birkaç içeriği seninle paylaşmak istiyorum. Bu yazı içerisinde elbette hatalarım eksiklerim olabilir. Bana iletirsen, beraber düzeltebiliriz... </p>
+    <a href="https://medium.com/@kagancansit/git-kavram%C4%B1-ve-baz%C4%B1-git-komutlar%C4%B1-e9072ffc1b79">Read more</a>
+  </td>
+  <td>
+    <img src="https://miro.medium.com/max/700/0*BRBkFTZrp82IfHch" alt="Banner" width="400px">
+  </td>
+</tr>
+
+<!-- Table Blog-->
 <tr>
   <td>
     <h3>:tr: Linux Kavramı ve Temel Linux Terminal Komutları</h3>
@@ -33,7 +45,7 @@
   </td>
 </tr>
 
-<!-- Table Blog Num: 2 -->
+<!-- Table Blog -->
 <tr>
   <td>
     <h3>:tr: Github Profili İçin Readme Dosyası Oluşturma ve Özelleştirme</h3>
@@ -45,7 +57,7 @@
   </td>
 </tr>
 
-<!-- Table Blog Num: 3 -->
+<!-- Table Blog -->
 <tr>
   <td>
     <h3>:tr: Açık Kaynak Kavramı ve Açık Kaynağa Katkıda Bulunmaya Dair İlk Adımlar</h3>
@@ -57,7 +69,7 @@
   </td>
 </tr>
 
-<!-- Table Blog Num: 4 -->
+<!-- Table Blog -->
 <tr>
   <td>
     <h3>:tr: Notion İle MarkDown Dosyası Oluşturma</h3>
@@ -66,18 +78,6 @@
   </td>
   <td>
     <img src="https://miro.medium.com/max/700/1*v6_Hx8lPcd2-pwWL8TIq_Q.jpeg" alt="Banner" width="400px">
-  </td>
-</tr>
-
-<!-- Table Blog Num: 5 -->
-<tr>
-  <td>
-    <h3>:tr: Yeni Bilgiler Edinmek İçin YouTube Kanal Önerileri</h3>
-    <p>Her zaman bilgi ve tecrübe sahibi insanların önemli bir faktör olduğunu düşünmüşümdür. Kendi bilgi ve deneyimlerini başkalarına aktaran, yeni dünyalar için karanlığa ışık tutun insanlar... </p>
-    <a href="https://medium.com/@kagancansit/yeni-bilgiler-edinmek-i%CC%87%C3%A7in-youtube-kanal-%C3%B6nerileri-8a3aac7a4a14">Read more</a>
-  </td>
-  <td>
-    <img src="https://miro.medium.com/max/700/1*7qIToPGHzHmHiSuierEatA.jpeg" alt="Banner" width="400px">
   </td>
 </tr>
 </table>
