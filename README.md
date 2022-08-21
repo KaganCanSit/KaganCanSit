@@ -29,7 +29,7 @@
     <a href="https://medium.com/@kagancansit/git-kavram%C4%B1-ve-baz%C4%B1-git-komutlar%C4%B1-e9072ffc1b79">Read more</a>
   </td>
   <td>
-    <img src="https://miro.medium.com/max/700/0*BRBkFTZrp82IfHch" alt="Banner" width="400px">
+    <img src="https://kagancansit.github.io/pages/blogs/git_git_flow_github_kavramlar%C4%B1_ve_baz%C4%B1_git_komutlar%C4%B1.html" alt="Banner" width="400px">
   </td>
 </tr>
 
@@ -38,7 +38,7 @@
   <td>
     <h3>:tr: Linux Kavramı ve Temel Linux Terminal Komutları</h3>
     <p> Merhabalar, son dönemlerde Linux ile yolum kesişti ve yeni yeni öğrenmeye, kavramaya çalışıyorum. Bu sırada çıkardığım ve oluşturduğum notları paylaşmak istedim.Öğrenme aşamasından olduğum için mutlaka hatalarım bulunabilir. Lütfen bana bildirin, beraber ...</p>
-    <a href="https://medium.com/@kagancansit/linux-kavram%C4%B1-ve-temel-linux-terminal-komutlar%C4%B1-1046c70d06a">Read more</a>
+    <a href="https://kagancansit.github.io/pages/blogs/linux_kavrami_ve_temel_linux_terminal_komutlari.html">Read more</a>
   </td>
   <td>
     <img src="https://miro.medium.com/max/700/0*pc6jbW4zQhXMar0b" alt="Banner" width="400px">
@@ -50,7 +50,7 @@
   <td>
     <h3>:tr: Github Profili İçin Readme Dosyası Oluşturma ve Özelleştirme</h3>
     <p> Merhabalar, bugün sizleri biraz kodlamadan uzak olan özelleştirme ve tasarıma yakın bir gezintiye çıkarmak istiyorum. Kişisel olarak günlük yaşamımız içerisinde sevdiğimiz renkler, sanatçılar, tasarımlar ...</p>
-    <a href="https://medium.com/@kagancansit/github-profili-i%CC%87%C3%A7in-readme-dosyas%C4%B1-olu%C5%9Fturma-ve-%C3%B6zelle%C5%9Ftirme-dae2b45d56ad">Read more</a>
+    <a href="https://kagancansit.github.io/pages/blogs/github_profili__icin_readme_olusturma.html">Read more</a>
   </td>
   <td>
     <img src="https://miro.medium.com/max/1400/1*DgoOKLWPUa5RMQ3e0xW-qg.png" alt="Banner" width="400px">
@@ -62,7 +62,7 @@
   <td>
     <h3>:tr: Açık Kaynak Kavramı ve Açık Kaynağa Katkıda Bulunmaya Dair İlk Adımlar</h3>
     <p>Bir öğrenci ve mühendis adayı olarak açık kaynağa ve açık kaynağa katkıda bulunmaya dair araştırdığım ve edindiğim bilgiler üzerine “Açık kaynak nedir?”, “Neden katkıda bulunmalıyız?” ...</p>
-    <a href="https://medium.com/@kagancansit/a%C3%A7%C4%B1k-kaynak-kavram%C4%B1-ve-a%C3%A7%C4%B1k-kayna%C4%9Fa-katk%C4%B1da-bulunmaya-dair-i%CC%87lk-ad%C4%B1mlar-a0d3dceabab">Read more</a>
+    <a href="https://kagancansit.github.io/pages/blogs/acik_kaynaga_katkida_bulunmak.html">Read more</a>
   </td>
   <td>
     <img src="https://miro.medium.com/max/1400/1*4lJoDwMmJmE1TuLqvgk0_Q.jpeg" alt="Banner" width="400px">
@@ -74,14 +74,14 @@
   <td>
     <h3>:tr: Notion İle MarkDown Dosyası Oluşturma</h3>
     <p>Bugün Notion kullanarak çalışmalarına dair not almayı seven, bu notlarını kolayca GitHub (repository) deposunda sergilemek isteyenler için pratik bir yoldan bahsedeceğim... </p>
-    <a href="https://medium.com/@kagancansit/notion-i%CC%87le-markdown-dosyasi-olu%C5%9Fturmak-d1e725a021b1">Read more</a>
+    <a href="https://kagancansit.github.io/pages/blogs/notion_ile_markdown_dosyasi_olusturmak.html">Read more</a>
   </td>
   <td>
     <img src="https://miro.medium.com/max/700/1*v6_Hx8lPcd2-pwWL8TIq_Q.jpeg" alt="Banner" width="400px">
   </td>
 </tr>
 </table>
-<a href="https://medium.com/@kagancansit">:arrow_forward: Read All Blog Posts</a>
+<a href="https://kagancansit.github.io/index.html">:arrow_forward: Read All Blog Posts My Site</a>
 
 <!-- LANGUAGE AND TOOLS -->
 <div align="center" class="tools">   
