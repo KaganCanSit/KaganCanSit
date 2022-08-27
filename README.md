@@ -19,7 +19,7 @@
 
 <!-- BLOG POST -->
 <table>
-<h2 align="center"> Last Five of My Blog Posts <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="20" height="40"/> </h2>
+<h2 align="center"> My Last Blog Post <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="20" height="40"/> </h2>
 
 <!-- Table Blog -->
 <tr>
@@ -32,56 +32,8 @@
     <img src="https://miro.medium.com/max/700/0*BRBkFTZrp82IfHch" alt="Banner" width="400px">
   </td>
 </tr>
-
-<!-- Table Blog-->
-<tr>
-  <td>
-    <h3>:tr: Linux Kavramı ve Temel Linux Terminal Komutları</h3>
-    <p> Merhabalar, son dönemlerde Linux ile yolum kesişti ve yeni yeni öğrenmeye, kavramaya çalışıyorum. Bu sırada çıkardığım ve oluşturduğum notları paylaşmak istedim.Öğrenme aşamasından olduğum için mutlaka hatalarım bulunabilir. Lütfen bana bildirin, beraber ...</p>
-    <a href="https://kagancansit.github.io/pages/blogs/linux_kavrami_ve_temel_linux_terminal_komutlari.html">Read more</a>
-  </td>
-  <td>
-    <img src="https://miro.medium.com/max/700/0*pc6jbW4zQhXMar0b" alt="Banner" width="400px">
-  </td>
-</tr>
-
-<!-- Table Blog -->
-<tr>
-  <td>
-    <h3>:tr: Github Profili İçin Readme Dosyası Oluşturma ve Özelleştirme</h3>
-    <p> Merhabalar, bugün sizleri biraz kodlamadan uzak olan özelleştirme ve tasarıma yakın bir gezintiye çıkarmak istiyorum. Kişisel olarak günlük yaşamımız içerisinde sevdiğimiz renkler, sanatçılar, tasarımlar ...</p>
-    <a href="https://kagancansit.github.io/pages/blogs/github_profili__icin_readme_olusturma.html">Read more</a>
-  </td>
-  <td>
-    <img src="https://miro.medium.com/max/1400/1*DgoOKLWPUa5RMQ3e0xW-qg.png" alt="Banner" width="400px">
-  </td>
-</tr>
-
-<!-- Table Blog -->
-<tr>
-  <td>
-    <h3>:tr: Açık Kaynak Kavramı ve Açık Kaynağa Katkıda Bulunmaya Dair İlk Adımlar</h3>
-    <p>Bir öğrenci ve mühendis adayı olarak açık kaynağa ve açık kaynağa katkıda bulunmaya dair araştırdığım ve edindiğim bilgiler üzerine “Açık kaynak nedir?”, “Neden katkıda bulunmalıyız?” ...</p>
-    <a href="https://kagancansit.github.io/pages/blogs/acik_kaynaga_katkida_bulunmak.html">Read more</a>
-  </td>
-  <td>
-    <img src="https://miro.medium.com/max/1400/1*4lJoDwMmJmE1TuLqvgk0_Q.jpeg" alt="Banner" width="400px">
-  </td>
-</tr>
-
-<!-- Table Blog -->
-<tr>
-  <td>
-    <h3>:tr: Notion İle MarkDown Dosyası Oluşturma</h3>
-    <p>Bugün Notion kullanarak çalışmalarına dair not almayı seven, bu notlarını kolayca GitHub (repository) deposunda sergilemek isteyenler için pratik bir yoldan bahsedeceğim... </p>
-    <a href="https://kagancansit.github.io/pages/blogs/notion_ile_markdown_dosyasi_olusturmak.html">Read more</a>
-  </td>
-  <td>
-    <img src="https://miro.medium.com/max/700/1*v6_Hx8lPcd2-pwWL8TIq_Q.jpeg" alt="Banner" width="400px">
-  </td>
-</tr>
 </table>
-<a href="https://kagancansit.github.io/index.html">:arrow_forward: Read All Blog Posts My Site</a>
+<a href="https://kagancansit.github.io/index.html">:arrow_forward: Visit My Site To Read My Blog Contents And Get Information!</a>
 
 <!-- LANGUAGE AND TOOLS -->
 <div align="center" class="tools">   
