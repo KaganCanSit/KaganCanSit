@@ -10,10 +10,12 @@
       </h1>
  </div>
 <div class="about_me">
-      <p>I am one of the future software engineer candidates. I aim to improve myself in software, graphics and technology without staying within the boundaries of the school.</p>
-      <p>If I have to talk about myself briefly, my education and work discipline is usually based on self-learning and development. In addition to software, I have experience in many areas such as graphic design, social media management. I try to improve myself on platforms such as Youtube, Udemy, Kommunity, Codewars, HackerRank, StackOverflow, PatikaDev...</p>
-      <p>My purpose here is to show you the projects I have done and to see my own development over time. I love setting goals for the future, meeting new people and bringing new knowledge and experiences to my horizon.</p>
-      <p>Please feel free to suggest or message me. As people share and develop with each other, they can build tomorrow.</p>
+<p> I am a software engineering student at Manisa Celal Bayar University, one of the future engineer candidates. I am a person who likes to read content on software, to follow technological blogs, to spend time on design tools (Photoshop, Illustrator), to get lost in thoughts by listening to music, and to be silent. Here, I aim to consolidate what I have learned and to improve my progress by getting feedback from experienced people. </p>
+
+<p>I don't know what brought you to this page. Maybe a blog post, maybe some curiosity. But I hope you have reached content that will add new information to you. In addition, if you want to get clearer information about me, you can visit my Linkedin profile such as my education and business life.</p>
+
+<p>Please feel free to suggest or message me. As people share and develop with each other, they can build tomorrow.</p>
+<p><b>Thank you for your support. Best regards...</b></p>    
 </div>
 
 
