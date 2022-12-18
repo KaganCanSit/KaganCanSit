@@ -6,7 +6,7 @@
       <h1>
             Hi Everyone! I'm Kağan Can Şit.
             <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/baby-yoda-so-cute.gif" height="40px" width="45px"/>
-            <img align="right" src="https://komarev.com/ghpvc/?username=kagancansit&color=fa324b&style=for-the-badge" height="25px" width="135px" /> <!-- Since 24 - Jun 22 -->
+            <img align="right" src="https://komarev.com/ghpvc/?username=kagancansit&color=fa324b&style=for-the-badge" height="23px" width="130px" /> <!-- Since 24 - Jun 22 -->
       </h1>
  </div>
 <div class="about_me">
@@ -20,20 +20,20 @@
 
 
 <!-- BLOG POST -->
-<table>
 <h2 align="center"> My Last Blog Post <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="20" height="40"/> </h2>
 
 <!-- Table Blog -->
-<tr>
-  <td>
-    <h3>:tr: Git, Git Flow, Github Kavramları ve Bazı Git Komutları</h3>
-    <p>Hoşgeldin, nasılsın? Bugün yazılımcıların baş köşesinde bulunan “Git” kavramı ve Github’a dair birkaç içeriği seninle paylaşmak istiyorum. Bu yazı içerisinde elbette hatalarım eksiklerim olabilir. Bana iletirsen, beraber düzeltebiliriz... </p>
-    <a href="https://kagancansit.github.io/pages/blogs/git_git_flow_github_kavramlar%C4%B1_ve_baz%C4%B1_git_komutlar%C4%B1.html">Read more</a>
-  </td>
-  <td>
-    <img src="https://miro.medium.com/max/700/0*BRBkFTZrp82IfHch" alt="Banner" width="400px">
-  </td>
-</tr>
+<table>
+      <tr>
+        <td>
+          <h3>:tr: Git, Git Flow, Github Kavramları ve Bazı Git Komutları</h3>
+          <p>Hoşgeldin, nasılsın? Bugün yazılımcıların baş köşesinde bulunan “Git” kavramı ve Github’a dair birkaç içeriği seninle paylaşmak istiyorum. Bu yazı içerisinde elbette hatalarım eksiklerim olabilir. Bana iletirsen, beraber düzeltebiliriz... </p>
+          <a href="https://kagancansit.github.io/pages/blogs/git_git_flow_github_kavramlar%C4%B1_ve_baz%C4%B1_git_komutlar%C4%B1.html">Read more</a>
+        </td>
+        <td>
+          <img src="https://miro.medium.com/max/700/0*BRBkFTZrp82IfHch" alt="Banner" width="400px">
+        </td>
+      </tr>
 </table>
 <a href="https://kagancansit.github.io/index.html">:arrow_forward: Visit My Site To Read My Blog Contents And Get Information!</a>
 
@@ -41,14 +41,17 @@
 <div align="center" class="tools">   
   <h2>Languages and Tools
     <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/laptop.gif" width="40" height="40"/>
-  </h2>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/C.png" alt="C_ProgrammingLanguage" width="40" height="42"/>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/C%2B%2B.png" alt="C++_ProgrammingLanguage" width="40" height="40"/>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/C%23.png" width="40" height="40"/>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Java.png" width="40" height="40" />
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/SQL.png" alt="MSql_Language" width="40" height="40"/>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Photoshop.png" alt="Photoshop_Adobe" width="40" height="40"/>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Illustrator.png" alt="Illustrator_Adobe" width="40" height="40"/><br><br>
+  </h2>  
+  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/C_New.png" alt="C" width="40" height="42"/>
+  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/C%2B%2B.png" alt="C++" width="40" height="40"/>
+  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/C%23.png" alt "C#" width="40" height="40"/>
+  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/.NET%20Core.png" alt=".NET Core" width="40" height="40"/>
+  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Java.png" alt="Java" width="40" height="40" />
+  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/SQL.png" alt="MSQL_Language" width="40" height="40"/>
+  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Git.png" alt="Github" width="40" height="40"/>
+  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/git2.png" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Photoshop.png" alt="Photoshop" width="36" height="36"/>
+  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Illustrator.png" alt="Illustrator" width="36" height="36"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagancansit&hide=html,css,shaderlab,kotlin,hlsl&layout=compact&theme=radical">
 </div>
 
@@ -63,9 +66,14 @@
 <!-- CONTACT ME -->
 <div align="right" class="connect">
   <h2>Contact Me!</h2>
-  <a href="mailto:kagancansit@hotmail.com" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Outlook.png" alt="@kagancansit" width="40" height="40" /></a>
-  <a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Linked.png" alt="kagancansit" width="40" height="40" /></a>
-  <a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Twitter.png" alt="kagancansit" width="40" height="40" /></a>
-  <a href="https://www.instagram.com/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Instagram.png" alt="kagancansit" width="40" height="40" /></a>
-  <a href="https://www.behance.net/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Behance.png" alt="kagancansit" width="40" height="40" /></a>
+  <a href="mailto:kagancansit@hotmail.com" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Outlook.png" alt="@kagancansit" width="35" height="35" /></a>
+  <a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Linked.png" alt="kagancansit" width="35" height="35" /></a>
+  <a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Twitter.png" alt="kagancansit" width="35" height="35" /></a>
+  <a href="https://www.instagram.com/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Instagram.png" alt="kagancansit" width="35" height="35" /></a>
+  <a href="https://www.behance.net/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Behance.png" alt="kagancansit" width="35" height="35" /></a>
+</div>
+
+<div>
+      <br>
+                  <img align="right" src="https://img.shields.io/github/last-commit/KaganCanSit/KaganCanSit/master?label=Last%20updated&style=flat&color=fa324b" height="20px" width="120px"/>
 </div>
