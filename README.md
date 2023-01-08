@@ -60,7 +60,7 @@
   <h2> My Github Stats <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/Cat.gif" width="50" height="50"/> </h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kagancansit&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="400px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical" width="400px"><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=kagancansit&theme=redical" width="800px">
+  <!--<img src="https://activity-graph.herokuapp.com/graph?username=kagancansit&theme=redical" width="800px">-->
 </div>
 
 <!-- CONTACT ME -->
@@ -75,5 +75,5 @@
 
 <div>
       <br>
-                  <img align="right" src="https://img.shields.io/github/last-commit/KaganCanSit/KaganCanSit/master?label=Last%20updated&style=flat&color=fa324b" height="20px" width="120px"/>
+                  <img align="right" src="https://img.shields.io/github/last-commit/KaganCanSit/KaganCanSit/master?label=Last%20updated&style=flat&color=fa324b" height="auto" width="auto"/>
 </div>
