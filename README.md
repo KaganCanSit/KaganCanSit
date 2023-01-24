@@ -18,6 +18,11 @@
 <p><b>Thank you for your support. Best regards...</b></p>    
 </div>
 
+<!-- SONG -->
+<div align="center" class="sound">   
+  <h2>Listen to Song with Me</h2>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=qtc2yjlwvav1a9frts9pz9h73&count=1" width="400px"/>
+</div>
 
 <!-- BLOG POST -->
 <h2 align="center"> My Last Blog Post <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="20" height="40"/> </h2>
