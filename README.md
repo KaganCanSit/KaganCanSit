@@ -33,10 +33,10 @@
         <td>
           <h3>:tr: Git, Git Flow, Github Kavramları ve Bazı Git Komutları</h3>
           <p>Hoşgeldin, nasılsın? Bugün yazılımcıların baş köşesinde bulunan “Git” kavramı ve Github’a dair birkaç içeriği seninle paylaşmak istiyorum. Bu yazı içerisinde elbette hatalarım eksiklerim olabilir. Bana iletirsen, beraber düzeltebiliriz... </p>
-          <a href="https://kagancansit.github.io/pages/blogs/git_git_flow_github_kavramlar%C4%B1_ve_baz%C4%B1_git_komutlar%C4%B1.html">Read more</a>
+          <a href="https://kagancansit.github.io/pages/blogs/06.Git,_GitFlow_Github_ve_Bazi_Git_Kavramlari.html">Read more</a>
         </td>
         <td>
-          <img src="https://miro.medium.com/max/700/0*BRBkFTZrp82IfHch" alt="Banner" width="400px">
+          <img src="https://kagancansit.github.io/images/blogs/git_gitflow_github_kavramlari_ve_bazi_git_komutlari/header_image.png" alt="Banner" width="400px">
         </td>
       </tr>
 </table>
