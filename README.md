@@ -36,7 +36,7 @@
           <a href="https://kagancansit.github.io/pages/blogs/06.Git,_GitFlow_Github_ve_Bazi_Git_Kavramlari.html">Read more</a>
         </td>
         <td>
-          <img src="https://kagancansit.github.io/images/blogs/C++_Ile_Gelistirme_Yap._Neden_new_En_Aza_Ind/header_image.png" alt="Banner" width="400px">
+          <img src="https://kagancansit.github.io/pages/blogs/07.C++_Ile_Gelistirme_Yapilirken_Neden_new_Kullanimi_En_Aza_Indirgenmeli.html" alt="Banner" width="400px">
         </td>
       </tr>
 </table>
