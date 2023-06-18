@@ -10,7 +10,7 @@
       </h1>
  </div>
 <div class="about_me">
-<p> I am a software engineering student at Manisa Celal Bayar University, one of the future engineer candidates. I am a person who likes to read content on software, to follow technological blogs, to spend time on design tools (Photoshop, Illustrator), to get lost in thoughts by listening to music, and to be silent. Here, I aim to consolidate what I have learned and to improve my progress by getting feedback from experienced people. </p>
+<p> I am a Junior Software Engineer who has just graduated and stepped into the profession. I am a person who likes to read content on software, to follow technological blogs, to spend time on design tools (Photoshop, Illustrator), to get lost in thoughts by listening to music, and to be silent. Here, I aim to consolidate what I have learned and to improve my progress by getting feedback from experienced people. </p>
 
 <p>I don't know what brought you to this page. Maybe a blog post, maybe some curiosity. But I hope you have reached content that will add new information to you. In addition, if you want to get clearer information about me, you can visit my Linkedin profile such as my education and business life.</p>
 
