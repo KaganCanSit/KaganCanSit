@@ -74,8 +74,8 @@
   <a href="mailto:kagancansit@hotmail.com" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Outlook.png" alt="@kagancansit" width="35" height="35" /></a>
   <a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Linked.png" alt="kagancansit" width="35" height="35" /></a>
   <a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Twitter.png" alt="kagancansit" width="35" height="35" /></a>
-  <a href="https://www.instagram.com/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Instagram.png" alt="kagancansit" width="35" height="35" /></a>
-  <a href="https://www.behance.net/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Behance.png" alt="kagancansit" width="35" height="35" /></a>
+  <!--<a href="https://www.instagram.com/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Instagram.png" alt="kagancansit" width="35" height="35" /></a>
+  <a href="https://www.behance.net/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Behance.png" alt="kagancansit" width="35" height="35" /></a>-->
 </div>
 
 <div>
