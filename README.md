@@ -37,7 +37,7 @@
                 Bu blog yazısının ana amacı ise betik dosyası yazılırken ve kullanırken karşılaşılabilicek hatalar, nasıl
                 daha güvenli geliştirme yapılabileceği, kabuk dosyası yazılırken nelere dikkat edilmesi gerektiği noktaları üzerinden kısa bir bilgilendirme
                 şeklinde. Ayrıca bu blog içeriğinde "Bash" ile ilgili birçok kaynak ve örnekler bulabilirsiniz. </p>
-          <a href="https://kagancansit.github.io/pages/blogs/07.C++_Ile_Gelistirme_Yapilirken_Neden_new_Kullanimi_En_Aza_Indirgenmeli.html">Read more</a>
+          <a href="https://kagancansit.github.io/pages/blogs/08.yazilimcinin_otomasyoncusu_bash_betikleri_hakkinda_tuyolar.html">Read more</a>
         </td>
         <td>
           <img src="https://kagancansit.github.io/images/blogs/yazilimcinin_otomasyoncusu_bash_betikleri_hakkinda_tuyolar/header_image.png" alt="Banner" width="1200px">
