@@ -31,12 +31,16 @@
 <table>
       <tr>
         <td>
-          <h3>:tr: C++ İle Geliştirme Yapılırken Neden "new" Kullanımı En Aza İndirgenmeli?</h3>
-          <p>Merhaba, bugün C++ dilinde "new" kullanımının arkasında neler olduğuna dair bir bakış atacağız. C++ ve C, donanım tabanlı birçok amaç için kullanılabilen dillerdir ve bellek yönetimi konusunda biraz daha açık... </p>
+          <h3>:tr: Yazılımcının Otomasyoncusu Bash Betikleri Hakkında Tüyolar</h3>
+          <p>Yazılım geliştirmenin en temel prensiplerinden biri, tekrarlayan işleri otomatikleştirerek zaman ve maliyet
+                tasarrufu sağlamaktır. Bu amaçla "Bash" ile yazılmış betik dosyaları, geliştiriciler tarafından sıklıkla kullanılır.
+                Bu blog yazısının ana amacı ise betik dosyası yazılırken ve kullanırken karşılaşılabilicek hatalar, nasıl
+                daha güvenli geliştirme yapılabileceği, kabuk dosyası yazılırken nelere dikkat edilmesi gerektiği noktaları üzerinden kısa bir bilgilendirme
+                şeklinde. Ayrıca bu blog içeriğinde "Bash" ile ilgili birçok kaynak ve örnekler bulabilirsiniz. </p>
           <a href="https://kagancansit.github.io/pages/blogs/07.C++_Ile_Gelistirme_Yapilirken_Neden_new_Kullanimi_En_Aza_Indirgenmeli.html">Read more</a>
         </td>
         <td>
-          <img src="https://kagancansit.github.io/images/blogs/C++_Ile_Gelistirme_Yap._Neden_new_En_Aza_Ind/header_image.png" alt="Banner" width="400px">
+          <img src="https://kagancansit.github.io/images/blogs/yazilimcinin_otomasyoncusu_bash_betikleri_hakkinda_tuyolar/header_image.png" alt="Banner" width="1200px">
         </td>
       </tr>
 </table>
