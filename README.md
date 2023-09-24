@@ -31,16 +31,16 @@
 <table>
       <tr>
         <td>
-          <h3>:tr: Yazılımcının Otomasyoncusu Bash Betikleri Hakkında Tüyolar</h3>
-          <p>Yazılım geliştirmenin en temel prensiplerinden biri, tekrarlayan işleri otomatikleştirerek zaman ve maliyet
-                tasarrufu sağlamaktır. Bu amaçla "Bash" ile yazılmış betik dosyaları, geliştiriciler tarafından sıklıkla kullanılır.
-                Bu blog yazısının ana amacı ise betik dosyası yazılırken ve kullanırken karşılaşılabilicek hatalar, nasıl
-                daha güvenli geliştirme yapılabileceği, kabuk dosyası yazılırken nelere dikkat edilmesi gerektiği noktaları üzerinden kısa bir bilgilendirme
-                şeklinde. Ayrıca bu blog içeriğinde "Bash" ile ilgili birçok kaynak ve örnekler bulabilirsiniz. </p>
-          <a href="https://kagancansit.github.io/pages/blogs/08.yazilimcinin_otomasyoncusu_bash_betikleri_hakkinda_tuyolar.html">Read more</a>
+          <h3>:tr: Dahi Programcı Efsanesi ve Yetersizlik Hissi</h3>
+          <p> Çağımızda teknolojinin gelişme hızını göz önünde bulundurduğumuzda hata yapmadan ilerlemek mümkün mü? Peki, geçmişten 
+                gelen bilgi birikimlerimiz olmasa teknoloji bu kadar ilerler miydi? İnsan, hata yapmamak için neden temkinlidir? 
+                Gelişmek ve ilerlemenin getirdiği yetersizlik hissi neden oluşur? Daha nice çeşitli sorularımızın cevabını Brian 
+                Fitzpatrick ve Collins Sussman'ın 2009'da gerçekleştirdiği "Google I/O 2009 - The Myth of the Genius Programmer" 
+                konuşması başta olmak üzere çeşitli kaynaklara dayandırarak beraber arıyoruz. </p>
+          <a href="https://kagancansit.github.io/pages/blogs/09.dahi_yazilimci_efsanesi&&yetersizlik_hissi.html">Read more</a>
         </td>
         <td>
-          <img src="https://kagancansit.github.io/images/blogs/yazilimcinin_otomasyoncusu_bash_betikleri_hakkinda_tuyolar/header_image.png" alt="Banner" width="1200px">
+          <img src="https://kagancansit.github.io/images/blogs/dahi_yazilimci_efsanesi&&yetersizlik%20hissi/header_image.png" alt="Banner" width="1200px">
         </td>
       </tr>
 </table>
