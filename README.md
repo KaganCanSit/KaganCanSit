@@ -5,7 +5,7 @@
 <div align="left" class="header">
       <h1>
             Hi! I'm Kağan Can Şit.
-            <img align="right" src="https://komarev.com/ghpvc/?username=kagancansit&color=0079FF&style=for-the-badge" /> <!-- Since 24 - Jun 22 -->            
+            <img align="right" src="https://komarev.com/ghpvc/?username=kagancansit&color=0079FF&style=for-the-badge" height="22px" width="130px" /> <!-- Since 24 - Jun 22 -->            
       </h1>
 </div>
 
