@@ -1,11 +1,11 @@
 <!-- BANNER IMAGE -->
-<img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/Github%20Banner.gif">
+<img src="ImageFiles/Gif/banner.gif">
 
 <!-- HEADER AND ABOUT ME -->
 <div align="left" class="header">
       <h1>
             Hi! I'm Kağan Can Şit.
-            <img align="right" src="https://komarev.com/ghpvc/?username=kagancansit&color=fa324b&style=for-the-badge" height="23px" width="130px" /> <!-- Since 24 - Jun 22 -->
+            <img align="right" src="https://komarev.com/ghpvc/?username=kagancansit&color=0079FF&style=for-the-badge" /> <!-- Since 24 - Jun 22 -->            
       </h1>
 </div>
 
@@ -84,13 +84,13 @@
 <!-- CONTACT ME -->
 <div align="right" class="connect">
   <h2>Contact Me!</h2>
-  <a href="mailto:kagancansit@hotmail.com" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Outlook.png" alt="@kagancansit" width="33" height="33" /></a>
-  <a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Linked.png" alt="kagancansit" width="35" height="35" /></a>
-  <a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Twitter.png" alt="kagancansit" width="35" height="35" /></a>
+  <a href="mailto:kagancansit@hotmail.com" target="blank"><img align="center" src="ImageFiles/SocialMediaPng/Outlook.png" alt="@kagancansit" width="40" height="40" /></a>
+  <a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="ImageFiles/SocialMediaPng/Linked.png" alt="kagancansit" width="40" height="40" /></a>
+  <a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="ImageFiles/SocialMediaPng/Twitter.png" alt="kagancansit" width="40" height="40" /></a>
 </div>
 
 <!-- LAST EDITED TIME -->
 <div>
   <br>
-  <img align="right" src="https://img.shields.io/github/last-commit/KaganCanSit/KaganCanSit/master?label=Last%20updated&style=flat&color=fa324b" height="auto" width="auto"/>
+  <img align="right" src="https://img.shields.io/github/last-commit/KaganCanSit/KaganCanSit/master?label=Last%20updated&style=flat&color=0079FF"/>
 </div>
