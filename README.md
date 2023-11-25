@@ -4,18 +4,23 @@
 <!-- HEADER AND ABOUT ME -->
 <div align="left" class="header">
       <h1>
-            Hi Everyone! I'm Kağan Can Şit.
-            <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/baby-yoda-so-cute.gif" height="40px" width="45px"/>
+            Hi! I'm Kağan Can Şit.
             <img align="right" src="https://komarev.com/ghpvc/?username=kagancansit&color=fa324b&style=for-the-badge" height="23px" width="130px" /> <!-- Since 24 - Jun 22 -->
       </h1>
- </div>
+</div>
+
 <div class="about_me">
-<p> I am a Junior Software Engineer who has just graduated and stepped into the profession. I am a person who likes to read content on software, to follow technological blogs, to spend time on design tools (Photoshop, Illustrator), to get lost in thoughts by listening to music, and to be silent. Here, I aim to consolidate what I have learned and to improve my progress by getting feedback from experienced people. </p>
+  <h3>Who am I?</h3>
+  <p> I am a person who loves reading and producing software content, following technological blogs, spending time with design tools (Photoshop, Illustrator), thinking and silence while listening to music. I am currently working as a software engineer. </p>
 
-<p>I don't know what brought you to this page. Maybe a blog post, maybe some curiosity. But I hope you have reached content that will add new information to you. In addition, if you want to get clearer information about me, you can visit my Linkedin profile such as my education and business life.</p>
+  <h3>Why are you on Github?</h3>
+  <p>I aim to reinforce what I have learned here and improve myself by getting feedback from experienced people. I also love and respect the open source world of software. I aim to help with various global problems such as energy, transportation and communications..</p>
 
-<p>Please feel free to suggest or message me. As people share and develop with each other, they can build tomorrow.</p>
-<p><b>Thank you for your support. Best regards...</b></p>    
+  <h3>What would you like to tell me?</h3>
+  <p> I don't know what brought you to this page. Maybe a blog post, maybe a little curiosity. I hope we can find new information and solve problems together. If you want to get more detailed information about me, such as my education and business life, you can also visit my Linkedin profile. </p>
+
+  <p>Please feel free to suggest or message me. As people share and develop with each other, they can build tomorrow.</p>
+  <p><b>Thank you for your support. Best regards...</b></p>
 </div>
 
 <!-- SONG -->
@@ -47,25 +52,30 @@
 
 <!-- LANGUAGE AND TOOLS -->
 <div align="center" class="tools">   
-  <h2>Languages and Tools
-    <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/laptop.gif" width="40" height="40"/>
-  </h2>  
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/C_New.png" alt="C" width="40" height="42"/>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/C%2B%2B.png" alt="C++" width="40" height="40"/>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/C%23.png" alt "C#" width="40" height="40"/>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/.NET%20Core.png" alt=".NET Core" width="40" height="40"/>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Java.png" alt="Java" width="40" height="40" />
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/SQL.png" alt="MSQL_Language" width="40" height="40"/>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Git.png" alt="Github" width="40" height="40"/>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/git2.png" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Photoshop.png" alt="Photoshop" width="36" height="36"/>
-  <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Image/Illustrator.png" alt="Illustrator" width="36" height="36"/><br><br>
+  <h2>OS, Programming Languages and Tools</h2>
+  <p> It can be said that the language and technology I use most is C++. I have used most of the tools below in my work and school life. But the ones I actively use are the first ones. Although they do not have icons, I also use various side tools such as cppCheck and ShellCheck.</p>
+  <img src="ImageFiles/Image/Cpp.png" alt="C++" width="40" height="40"/>
+  <img src="ImageFiles/Image/bash_script.png" alt="Linux" width="40" height="40"/>
+  <img src="ImageFiles/Image/sqlite.png" alt="Sqlite3" width="40" height="40">
+  <img src="ImageFiles/Image/git.png" alt="Git" width="40" height="40"/>
+  <img src="ImageFiles/Image/github.png" alt="Github" width="40" height="40"/>
+  <img src="ImageFiles/Image/atlassian.png" alt="Atlassian" width="38" height="38"/>
+  <img src="ImageFiles/Image/linux.png" alt="Linux" width="40" height="40"/>
+  <img src="ImageFiles/Image/windows.png" alt="Windows" width="40" height="40"/>
+
+  <img src="ImageFiles/Image/c.png" alt="C" width="40" height="40"/>
+  <img src="ImageFiles/Image/c_sharp.png" alt="C#" width="40" height="40"/>
+  <img src="ImageFiles/Image/.net_core.png" alt=".NET Core" width="40" height="40"/>
+  <img src="ImageFiles/Image/java.png" alt="Java" width="40" height="40" />
+  <img src="ImageFiles/Image/sql.png" alt="MSQL_Language" width="40" height="40"/>
+  <img src="ImageFiles/Image/adobe_photoshop.png" alt="Photoshop" width="40" height="40"/>
+  <img src="ImageFiles/Image/adobe_illustration.png" alt="Illustrator" width="40" height="40"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagancansit&hide=html,css,shaderlab,kotlin,hlsl&layout=compact&theme=radical">
 </div>
 
 <!-- GİHUB STATS -->
 <div align="center" class="github_stats">
-  <h2> My Github Stats <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/Cat.gif" width="50" height="50"/> </h2>
+  <h2> My Github Stats</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kagancansit&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="400px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical" width="400px"><br>
   <!--<img src="https://activity-graph.herokuapp.com/graph?username=kagancansit&theme=redical" width="800px">-->
@@ -74,14 +84,13 @@
 <!-- CONTACT ME -->
 <div align="right" class="connect">
   <h2>Contact Me!</h2>
-  <a href="mailto:kagancansit@hotmail.com" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Outlook.png" alt="@kagancansit" width="35" height="35" /></a>
+  <a href="mailto:kagancansit@hotmail.com" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Outlook.png" alt="@kagancansit" width="33" height="33" /></a>
   <a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Linked.png" alt="kagancansit" width="35" height="35" /></a>
   <a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Twitter.png" alt="kagancansit" width="35" height="35" /></a>
-  <!--<a href="https://www.instagram.com/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Instagram.png" alt="kagancansit" width="35" height="35" /></a>
-  <a href="https://www.behance.net/kagancansit" target="blank"><img align="center" src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/SocialMediaPng/Behance.png" alt="kagancansit" width="35" height="35" /></a>-->
 </div>
 
+<!-- LAST EDITED TIME -->
 <div>
-      <br>
-                  <img align="right" src="https://img.shields.io/github/last-commit/KaganCanSit/KaganCanSit/master?label=Last%20updated&style=flat&color=fa324b" height="auto" width="auto"/>
+  <br>
+  <img align="right" src="https://img.shields.io/github/last-commit/KaganCanSit/KaganCanSit/master?label=Last%20updated&style=flat&color=fa324b" height="auto" width="auto"/>
 </div>
