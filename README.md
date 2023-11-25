@@ -54,20 +54,20 @@
 <div align="center" class="tools">   
   <h2>OS, Programming Languages and Tools</h2>
   <p> It can be said that the language and technology I use most is C++. I have used most of the tools below in my work and school life. But the ones I actively use are the first ones. Although they do not have icons, I also use various side tools such as cppCheck and ShellCheck.</p>
-  <img src="ImageFiles/Image/Cpp.png" alt="C++" width="40" height="40"/>
-  <img src="ImageFiles/Image/bash_script.png" alt="Linux" width="40" height="40"/>
+  <img src="ImageFiles/Image/cpp.png" alt="C++" width="40" height="40"/>
+  <img src="ImageFiles/Image/bash_script.png" alt="Bash Script" width="40" height="40"/>
   <img src="ImageFiles/Image/sqlite.png" alt="Sqlite3" width="40" height="40">
-  <img src="ImageFiles/Image/git.png" alt="Git" width="40" height="40"/>
+  <img src="ImageFiles/Image/Git.png" alt="Git" width="40" height="40"/>
   <img src="ImageFiles/Image/github.png" alt="Github" width="40" height="40"/>
   <img src="ImageFiles/Image/atlassian.png" alt="Atlassian" width="38" height="38"/>
   <img src="ImageFiles/Image/linux.png" alt="Linux" width="40" height="40"/>
   <img src="ImageFiles/Image/windows.png" alt="Windows" width="40" height="40"/>
-
+  <br>
   <img src="ImageFiles/Image/c.png" alt="C" width="40" height="40"/>
   <img src="ImageFiles/Image/c_sharp.png" alt="C#" width="40" height="40"/>
   <img src="ImageFiles/Image/.net_core.png" alt=".NET Core" width="40" height="40"/>
-  <img src="ImageFiles/Image/java.png" alt="Java" width="40" height="40" />
-  <img src="ImageFiles/Image/sql.png" alt="MSQL_Language" width="40" height="40"/>
+  <img src="ImageFiles/Image/Java.png" alt="Java" width="40" height="40" />
+  <img src="ImageFiles/Image/SQL.png" alt="MSQL_Language" width="40" height="40"/>
   <img src="ImageFiles/Image/adobe_photoshop.png" alt="Photoshop" width="40" height="40"/>
   <img src="ImageFiles/Image/adobe_illustration.png" alt="Illustrator" width="40" height="40"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagancansit&hide=html,css,shaderlab,kotlin,hlsl&layout=compact&theme=radical">
