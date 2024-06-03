@@ -11,15 +11,22 @@
 
 <div class="about_me">
   <h3>Who am I?</h3>
-  <p> I am a person who loves reading and producing software content, following technological blogs, spending time with design tools (Photoshop, Illustrator), thinking and silence while listening to music. I am currently working as a software engineer. </p>
+  <p>I am a software engineer working on software technologies, especially C++. </p>
+
+   <h3>What are my hobbies?</h3>
+   <ul>
+      <li>Spending time on the computer with music</li>
+      <li>Following technological blogs</li>
+      <li>Reading and creating software content</li>
+      <li>Spending time outdoors with my friends</li>   
+    </ul>
 
   <h3>Why are you on Github?</h3>
-  <p>I aim to reinforce what I have learned here and improve myself by getting feedback from experienced people. I also love and respect the open source world of software. I aim to help with various global problems such as energy, transportation and communications..</p>
+  <p>I aim to improve my knowledge and skills by getting feedback from experienced people. I love and support open source software. That's why I try to support these projects to improve myself and find solutions to problems.</p>
 
   <h3>What would you like to tell me?</h3>
-  <p> I don't know what brought you to this page. Maybe a blog post, maybe a little curiosity. I hope we can find new information and solve problems together. If you want to get more detailed information about me, such as my education and business life, you can also visit my Linkedin profile. </p>
-
-  <p>Please feel free to suggest or message me. As people share and develop with each other, they can build tomorrow.</p>
+  <p>I'm not sure what brought you to this page; It could be a blog post or simple curiosity. I hope we can discover new knowledge and solve problems together. </p>
+  <p>Please feel free to reach out or send me a message. We can build a better tomorrow by sharing and developing ideas together.</p>
   <p><b>Thank you for your support. Best regards...</b></p>
 </div>
 
