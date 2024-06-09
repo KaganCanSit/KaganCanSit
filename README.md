@@ -1,25 +1,20 @@
 <!-- BANNER IMAGE -->
-<img src="ImageFiles/Gif/banner.gif">
+<img src="ImageFiles/Gif/banner.gif" style="width: 100%; height: auto;">
 
-<!-- HEADER AND ABOUT ME -->
-<div align="left" class="header">
-      <h1>
-            Hi! I'm Kağan Can Şit.
-            <img align="right" src="https://komarev.com/ghpvc/?username=kagancansit&color=0079FF&style=for-the-badge" height="22px" width="130px" /> <!-- Since 24 - Jun 22 -->            
-      </h1>
+<!-- HEADER -->
+<div>
+  <h1>
+    Hi! I'm Kağan Can Şit.
+    <img align="right" src="https://komarev.com/ghpvc/?username=kagancansit&color=0079FF"/> <!-- Since 24 - Jun 22 -->
+    <br>            
+    <img align="right" src="https://img.shields.io/github/last-commit/KaganCanSit/KaganCanSit/master?label=Last%20updated&style=flat&color=0079FF"/>
+  </h1>
 </div>
 
-<div class="about_me">
+<!-- ABOUT ME -->
+<div>
   <h3>Who am I?</h3>
   <p>I am a software engineer working on software technologies, especially C++. </p>
-
-   <h3>What are my hobbies?</h3>
-   <ul>
-      <li>Spending time on the computer with music</li>
-      <li>Following technological blogs</li>
-      <li>Reading and creating software content</li>
-      <li>Spending time outdoors with my friends</li>   
-    </ul>
 
   <h3>Why are you on Github?</h3>
   <p>I aim to improve my knowledge and skills by getting feedback from experienced people. I love and support open source software. That's why I try to support these projects to improve myself and find solutions to problems.</p>
@@ -31,38 +26,30 @@
 </div>
 
 <!-- SONG -->
-<div align="center" class="sound">   
+<div align="center">   
   <h2>Listen to Song with Me</h2>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=qtc2yjlwvav1a9frts9pz9h73&count=1" width="400px"/>
 </div>
 
 <!-- BLOG POST -->
 <h2 align="center"> My Last Blog Post <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="20" height="40"/> </h2>
-
-<!-- Table Blog -->
 <table>
-      <tr>
-        <td>
-          <h3>:tr: <a href="https://kagancansit.github.io/pages/blogs/09.dahi_yazilimci_efsanesi&&yetersizlik_hissi.html">Dahi Programcı Efsanesi ve Yetersizlik Hissi</a></h3>
-          <p> Çağımızda teknolojinin gelişme hızını göz önünde bulundurduğumuzda hata yapmadan ilerlemek mümkün mü? Peki, geçmişten 
-                gelen bilgi birikimlerimiz olmasa teknoloji bu kadar ilerler miydi? İnsan, hata yapmamak için neden temkinlidir? 
-                Gelişmek ve ilerlemenin getirdiği yetersizlik hissi neden oluşur? Daha nice çeşitli sorularımızın cevabını Brian 
-                Fitzpatrick ve Collins Sussman'ın 2009'da gerçekleştirdiği "Google I/O 2009 - The Myth of the Genius Programmer" 
-                konuşması başta olmak üzere çeşitli kaynaklara dayandırarak beraber arıyoruz. </p>
-        </td>
-        <td>
-          <img src="https://kagancansit.github.io/images/blogs/dahi_yazilimci_efsanesi&&yetersizlik%20hissi/header_image.png" alt="Banner" width="1200px">
-        </td>
-      </tr>
+  <tr>
+    <td>
+      <h3>:tr: <a href="https://kagancansit.github.io/pages/blogs/09.dahi_yazilimci_efsanesi&&yetersizlik_hissi.html">Dahi Programcı Efsanesi ve Yetersizlik Hissi</a></h3>
+      <p>Çağımızda teknolojinin gelişme hızını göz önünde bulundurduğumuzda hata yapmadan ilerlemek mümkün mü? Peki, geçmişten gelen bilgi birikimlerimiz olmasa teknoloji bu kadar ilerler miydi? İnsan, hata yapmamak için neden temkinlidir? Gelişmek ve ilerlemenin getirdiği yetersizlik hissi neden oluşur? Daha nice çeşitli sorularımızın cevabını Brian Fitzpatrick ve Collins Sussman'ın 2009'da gerçekleştirdiği "Google I/O 2009 - The Myth of the Genius Programmer" konuşması başta olmak üzere çeşitli kaynaklara dayandırarak beraber arıyoruz.</p>
+    </td>
+    <td>
+      <img src="https://kagancansit.github.io/images/blogs/dahi_yazilimci_efsanesi&&yetersizlik%20hissi/header_image.png" alt="Banner">
+    </td>
+  </tr>
 </table>
-<a href="https://kagancansit.github.io/index.html">:arrow_forward: Visit My Site To Read My Blog Contents And Get Information!</a>
 
 <!-- LANGUAGE AND TOOLS -->
-<div align="center" class="tools">   
+<div align="center">   
   <h2>OS, Programming Languages and Tools</h2>
-  <p> It can be said that the language and technology I use most is C++. I have used most of the tools below in my work and school life.</p>
-
-  <table style="width:100%">
+  <p>It can be said that the language and technology I use most is C++. I have used most of the tools below in my work and school life.</p>
+  <table style="width: 100%;">
     <tr>
       <th>Programming Languages</th>
       <td> 
@@ -118,24 +105,9 @@
   </table>  
 </div>
 
-<!-- GİHUB STATS -->
-<div align="center" class="github_stats">
-  <h2> My Github Stats</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kagancansit&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical" width="400px"><br>
-  <!--<img src="https://activity-graph.herokuapp.com/graph?username=kagancansit&theme=redical" width="800px">-->
-</div>
-
-<!-- CONTACT ME -->
-<div align="right" class="connect">
-  <h2>Contact Me!</h2>
-  <a href="mailto:kagancansit@hotmail.com" target="blank"><img align="center" src="ImageFiles/SocialMediaPng/Outlook.png" alt="@kagancansit" width="40" height="40" /></a>
-  <a href="https://linkedin.com/in/kagancansit" target="blank"><img align="center" src="ImageFiles/SocialMediaPng/Linked.png" alt="kagancansit" width="40" height="40" /></a>
-  <a href="https://twitter.com/kagancansit" target="blank"><img align="center" src="ImageFiles/SocialMediaPng/Twitter.png" alt="kagancansit" width="40" height="40" /></a>
-</div>
-
-<!-- LAST EDITED TIME -->
-<div>
-  <br>
-  <img align="right" src="https://img.shields.io/github/last-commit/KaganCanSit/KaganCanSit/master?label=Last%20updated&style=flat&color=0079FF"/>
+<!-- GITHUB STATS -->
+<div align="center">
+  <h2>My Github Stats</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kagancansit&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" style="width: 400px;"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical" style="width: 400px;">
 </div>
