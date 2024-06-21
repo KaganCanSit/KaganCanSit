@@ -5,9 +5,9 @@
 <div>
   <h1>
     Hi! I'm Kağan Can Şit.
-    <img align="right" src="https://komarev.com/ghpvc/?username=kagancansit&color=0079FF"/> <!-- Since 24 - Jun 22 -->
-    <br>            
-    <img align="right" src="https://img.shields.io/github/last-commit/KaganCanSit/KaganCanSit/master?label=Last%20updated&style=flat&color=0079FF"/>
+    <a href="https://visitcount.itsvg.in">
+      <img align="right" src="https://visitcount.itsvg.in/api?id=kagancansit&label=Profile%20Views&color=1&icon=3&pretty=true" />
+    </a>
   </h1>
 </div>
 
