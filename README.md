@@ -40,7 +40,7 @@
       <p>Çağımızda teknolojinin gelişme hızını göz önünde bulundurduğumuzda hata yapmadan ilerlemek mümkün mü? Peki, geçmişten gelen bilgi birikimlerimiz olmasa teknoloji bu kadar ilerler miydi? İnsan, hata yapmamak için neden temkinlidir? Gelişmek ve ilerlemenin getirdiği yetersizlik hissi neden oluşur? Daha nice çeşitli sorularımızın cevabını Brian Fitzpatrick ve Collins Sussman'ın 2009'da gerçekleştirdiği "Google I/O 2009 - The Myth of the Genius Programmer" konuşması başta olmak üzere çeşitli kaynaklara dayandırarak beraber arıyoruz.</p>
     </td>
     <td>
-      <img src="https://kagancansit.github.io/images/blogs/dahi_yazilimci_efsanesi&&yetersizlik%20hissi/header_image.png" alt="Banner">
+      <img src="https://raw.githubusercontent.com/KaganCanSit/kagancansit.github.io/main/images/blogs/dahi_yazilimci_efsanesi%26%26yetersizlik%20hissi/header_image.webp" alt="Banner">
     </td>
   </tr>
 </table>
