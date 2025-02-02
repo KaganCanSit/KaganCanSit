@@ -5,8 +5,8 @@
 <div>
   <h1>
     Hi! I'm Kağan Can Şit.
-    <a href="https://visitcount.itsvg.in">
-      <img align="right" src="https://visitcount.itsvg.in/api?id=kagancansit&label=Profile%20Views&color=1&icon=3&pretty=true" />
+    <a>
+      <img align="right" src="https://komarev.com/ghpvc/?username=kagancansit" alt="View Counter">
     </a>
   </h1>
 </div>
