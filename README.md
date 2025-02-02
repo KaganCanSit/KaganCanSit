@@ -1,38 +1,54 @@
-<!-- BANNER IMAGE -->
-<img src="ImageFiles/Gif/banner.gif" style="width: 100%; height: auto;">
+<img src="ImageFiles/Gif/banner.gif" style="width: 100%; height: auto;" alt="Banner Image">
 
-<!-- HEADER -->
-<div>
+<div alt="Personel Information">
   <h1>
     Hi! I'm Kağan Can Şit.
-    <a href="https://visitcount.itsvg.in">
-      <img align="right" src="https://visitcount.itsvg.in/api?id=kagancansit&label=Profile%20Views&color=1&icon=3&pretty=true" />
+    <a>
+      <img align="right" src="https://komarev.com/ghpvc/?username=kagancansit" alt="View Counter">
     </a>
   </h1>
 </div>
 
-<!-- ABOUT ME -->
-<div>
+<div alt="About Me">
   <h3>Who am I?</h3>
   <p>I am a software engineer working on software technologies, especially C++. </p>
 
   <h3>Why are you on Github?</h3>
-  <p>I aim to improve my knowledge and skills by getting feedback from experienced people. I love and support open source software. That's why I try to support these projects to improve myself and find solutions to problems.</p>
+  <p>I believe in the power of open source and knowledge sharing. My goal is to contribute to projects that make a difference while continuously learning from the community. I'm particularly interested in security-focused software development and system optimization.</p>
 
   <h3>What would you like to tell me?</h3>
-  <p>I'm not sure what brought you to this page; It could be a blog post or simple curiosity. I hope we can discover new knowledge and solve problems together. </p>
-  <p>Please feel free to reach out or send me a message. We can build a better tomorrow by sharing and developing ideas together.</p>
+  <p>
+    Whether you're here for technical discussions, collaboration opportunities, or just curiosity, I'm always open to connecting with fellow developers. I'm passionate about creating secure, efficient software solutions and sharing knowledge with the community. We can build a better tomorrow by sharing and developing ideas together.
+  </p>
   <p><b>Thank you for your support. Best regards...</b></p>
 </div>
 
-<!-- SONG -->
-<div align="center">   
-  <h2>Listen to Song with Me</h2>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=qtc2yjlwvav1a9frts9pz9h73&count=1" width="400px"/>
+<div align="center" alt="Open Source Contributions">
+  <h2>Recent Three Open Source Contributions</h2>
+  
+  <table>
+    <tr>
+      <td><b>⛓️‍💥 Broken Links</b></td>
+      <td>
+        Some broken links found and removed it <a href="https://github.com/LuNiZz/siber-guvenlik-sss">siber-guvenlik-sss</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>⛓️‍💥 Broken Links</b></td>
+      <td>
+        Broken links were discovered and fixed for <a href="https://github.com/rubytr/ruby-tr">ruby-tr</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td><b>📚 Store Package</b></td>
+      <td>
+        "Sky Perspective" photo packages added and Mustafa Kemal Atatürk Queto typo fault fixed for <a href="https://github.com/mue/marketplace">Mue Marketplace</a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- BLOG POST -->
-<h2 align="center"> My Last Blog Post <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="20" height="40"/> </h2>
+<h2 align="center" alt="Latest Blog"> My Last Blog Post <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="20" height="40"/> </h2>
 <table>
   <tr>
     <td>
@@ -45,69 +61,55 @@
   </tr>
 </table>
 
-<!-- LANGUAGE AND TOOLS -->
-<div align="center">   
-  <h2>OS, Programming Languages and Tools</h2>
-  <p>It can be said that the language and technology I use most is C++. I have used most of the tools below in my work and school life.</p>
-  <table style="width: 100%;">
-    <tr>
-      <th>Programming Languages</th>
-      <td> 
-        <img src="ImageFiles/Image/cpp.png" alt="C++" width="40" height="40"/>
-        <img src="ImageFiles/Image/c.png" alt="C" width="40" height="40"/>
-        <img src="ImageFiles/Image/c_sharp.png" alt="C#" width="40" height="40"/>
-        <img src="ImageFiles/Image/.net_core.png" alt=".NET Core" width="40" height="40"/>
-        <img src="ImageFiles/Image/Java.png" alt="Java" width="40" height="40" />      
-      </td>
-    </tr>
-    <tr>
-      <th>Libraries</th>
-      <td>
-        <img src="https://img.shields.io/badge/-Botan Crypto Library-blue">
-        <img src="https://img.shields.io/badge/-PKCS11 Library-blue">
-        <img src="https://img.shields.io/badge/-GnuTLS-blue">
-      </td>
-    </tr>
-    <tr>
-      <th>Databases</th>
-      <td>
-        <img src="ImageFiles/Image/sqlite.png" alt="Sqlite3" width="40" height="40">
-        <img src="ImageFiles/Image/SQL.png" alt="MSQL_Language" width="40" height="40"/>
-      </td>
-    </tr>
-    <tr>
-      <th>Automate, Deploy, Platform & Tools</th>
-      <td>
-        <img src="ImageFiles/Image/bash_script.png" alt="Bash Script" width="40" height="40"/>
-        <img src="ImageFiles/Image/Git.png" alt="Git" width="40" height="40"/>
-        <img src="ImageFiles/Image/github.png" alt="Github" width="40" height="40"/>
-        <img src="ImageFiles/Image/atlassian.png" alt="Atlassian" width="38" height="38"/>
-        <img src="ImageFiles/Image/wireshark.png" alt="Wireshark" width="40" height="40" /> 
-      </td>
-    </tr>
-    <tr>
-      <th>Operating Systems</th>
-      <td>
-        <img src="ImageFiles/Image/linux.png" alt="Linux" width="40" height="40"/>
-        <img src="ImageFiles/Image/windows.png" alt="Windows" width="40" height="40"/>
-      </td>
-    </tr>
-    <tr>
-      <th>Others</th>
-      <td>
-        <img src="https://img.shields.io/badge/-ShellCheck-blue">
-        <img src="https://img.shields.io/badge/-CppCheck-blue">
-        <br>
-        <img src="ImageFiles/Image/adobe_photoshop.png" alt="Photoshop" width="40" height="40"/>
-        <img src="ImageFiles/Image/adobe_illustration.png" alt="Illustrator" width="40" height="40"/>
-      </td>
-    </tr>
-  </table>  
+<div alt="Language and Tools" align="center">   
+  <h2>Technologies & Tools</h2>
+  
+  <h4>Core Technologies & Tools</h4>
+
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![Valgrind](https://img.shields.io/badge/Valgrind-DDB6F2?style=flat-square&logo=v&logoColor=black)
+  ![GDB](https://img.shields.io/badge/GDB-08B135?style=flat-square&logo=gnu&logoColor=white)
+  ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+  ![CppCheck](https://img.shields.io/badge/CppCheck-00008B?style=flat-square&logo=checkmarx&logoColor=white)
+  ![ShellCheck](https://img.shields.io/badge/ShellCheck-4EAA25?style=flat-square&logo=shell&logoColor=white)
+  
+  <h4>Cryptography & Security</h4>
+  
+  ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)
+  ![GnuTLS](https://img.shields.io/badge/GnuTLS-A42E2B?style=flat-square&logo=gnu&logoColor=white)
+  ![PKCS11](https://img.shields.io/badge/PKCS11-384D54?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwwIDIsMTJBMTAsMTAgMCAwLDAgMTIsMjJBMTAsMTAgMCAwLDAgMjIsMTJBMTAsMTAgMCAwLDAgMTIsMk0xOCwxMkEyLDIgMCAwLDEgMjAsMTRBMiwyIDAgMCwxIDE4LDE2QTIsMiAwIDAsMSAxNiwxNFYxMkgxOFoiLz48L3N2Zz4=)
+  ![Botan](https://img.shields.io/badge/Botan_Crypto-3670A0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwwIDIsMTJBMTAsMTAgMCAwLDAgMTIsMjJBMTAsMTAgMCAwLDAgMjIsMTJBMTAsMTAgMCAwLDAgMTIsMk0xMiw5QTMsMyAwIDAsMSAxNSwxMkEzLDMgMCAwLDEgMTIsMTVBMywzIDAgMCwxIDksOSIvPjwvc3ZnPg==)
+  
+  <h4>Standards & Certifications Experience</h4>
+  
+  ![PCI](https://img.shields.io/badge/PCI-FF6B6B?style=flat-square&logo=pcisecuritystandards&logoColor=white)
+  ![ISO](https://img.shields.io/badge/ISO19790_Level--3-DC1B52?style=flat-square&logo=iso&logoColor=white)
+  ![CC](https://img.shields.io/badge/Common_Criteria_EAL4+-FF4B4B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwwIDIsMTJBMTAsMTAgMCAwLDAgMTIsMjJBMTAsMTAgMCAwLDAgMjIsMTJBMTAsMTAgMCAwLDAgMTIsMk0xMiw1QTMsMyAwIDAsMSAxNSw4QTMsMyAwIDAsMSAxMiwxMUEzLDMgMCAwLDEgOSw4QTMsMyAwIDAsMSAxMiw1WiIvPjwvc3ZnPg==)
+  
+  <h4>Version Control & Project Management</h4>
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  ![Atlassian](https://img.shields.io/badge/Atlassian_Tools-0052CC?style=flat-square&logo=atlassian&logoColor=white)
+  
+  <h4>Additional Skills / Tools</h4>
+  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+  ![Adobe PS](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+  ![Adobe AI](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 </div>
 
-<!-- GITHUB STATS -->
-<div align="center">
+<div align="center" alt="Github Stats">
   <h2>My Github Stats</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kagancansit&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" style="width: 400px;"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical" style="width: 400px;">
+  
+  <!-- Github Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kagancansit&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=DDDDDD" width="100%">
+  
+  <!-- Github Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=DDDDDD" width="100%">
 </div>
