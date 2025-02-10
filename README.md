@@ -24,9 +24,21 @@
 </div>
 
 <div align="center" alt="Open Source Contributions">
-  <h2>Recent Three Open Source Contributions</h2>
+  <h2>Recent Five Open Source Contributions</h2>
   
   <table>
+    <tr>
+      <td><b>⛓️‍💥 Broken Links</b></td>
+      <td>
+        Fix Broken Frida SSL Unpinning Link in docs/Mobil_Malware/0x02_Mobil_Zararli_Analizi_Arac_Gerecleri/README.md <a href="https://github.com/mdisec/mdisec-twitch-yayinlari/pull/128#event-16243056525">mdisec-twitch-yayinlari</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>⛓️‍💥 Broken Links</b></td>
+      <td>
+        Fix Broken LDAP Wiki Link in HTTP Headers and Cookies/README.md <a href="Fix Broken LDAP Wiki Link in HTTP Headers and Cookies/README.md">topluluk-makale</a>
+      </td>
+    </tr>
     <tr>
       <td><b>⛓️‍💥 Broken Links</b></td>
       <td>
