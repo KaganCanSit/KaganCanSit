@@ -36,7 +36,7 @@
     <tr>
       <td><b>⛓️‍💥 Broken Links</b></td>
       <td>
-        Fix Broken LDAP Wiki Link in HTTP Headers and Cookies/README.md <a href="Fix Broken LDAP Wiki Link in HTTP Headers and Cookies/README.md">topluluk-makale</a>
+        Fix Broken LDAP Wiki Link in HTTP Headers and Cookies/README.md <a href="https://github.com/mdisec/topluluk-makale/pull/28">topluluk-makale</a>
       </td>
     </tr>
     <tr>
