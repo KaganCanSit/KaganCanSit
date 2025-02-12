@@ -30,6 +30,12 @@
     <tr>
       <td><b>⛓️‍💥 Broken Links</b></td>
       <td>
+        Rechecking & Cleaning Up Broken Links (Follow-up to Previous Fix) <a href="https://github.com/LuNiZz/siber-guvenlik-sss/pull/157">siber-guvenlik-sss</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>⛓️‍💥 Broken Links</b></td>
+      <td>
         Fix Broken Frida SSL Unpinning Link in docs/Mobil_Malware/0x02_Mobil_Zararli_Analizi_Arac_Gerecleri/README.md <a href="https://github.com/mdisec/mdisec-twitch-yayinlari/pull/128#event-16243056525">mdisec-twitch-yayinlari</a>
       </td>
     </tr>
@@ -49,12 +55,6 @@
       <td><b>⛓️‍💥 Broken Links</b></td>
       <td>
         Broken links were discovered and fixed for <a href="https://github.com/rubytr/ruby-tr">ruby-tr</a><br>
-      </td>
-    </tr>
-    <tr>
-      <td><b>📚 Store Package</b></td>
-      <td>
-        "Sky Perspective" photo packages added and Mustafa Kemal Atatürk Queto typo fault fixed for <a href="https://github.com/mue/marketplace">Mue Marketplace</a>
       </td>
     </tr>
   </table>
