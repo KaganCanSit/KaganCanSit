@@ -25,8 +25,20 @@
 
 <div align="center" alt="Open Source Contributions">
   <h2>Recent Five Open Source Contributions</h2>
-  
+
   <table>
+    <tr>
+      <td><b>🛠️ Edit for C++20 Support</b></td>
+      <td>
+        Fixed the use of C++20 functions with updated Android NDK and XCode versions. <a href="https://github.com/randombit/botan/pull/4811">Botan</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>⛓️‍💥 Broken Links</b></td>
+      <td>
+        Rechecking & Cleaning Up Broken Links (Follow-up to Previous Fix) <a href="https://github.com/LuNiZz/siber-guvenlik-sss/pull/157">siber-guvenlik-sss</a>
+      </td>
+    </tr>
     <tr>
       <td><b>⛓️‍💥 Broken Links</b></td>
       <td>
@@ -43,18 +55,6 @@
       <td><b>⛓️‍💥 Broken Links</b></td>
       <td>
         Some broken links found and removed it <a href="https://github.com/LuNiZz/siber-guvenlik-sss">siber-guvenlik-sss</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>⛓️‍💥 Broken Links</b></td>
-      <td>
-        Broken links were discovered and fixed for <a href="https://github.com/rubytr/ruby-tr">ruby-tr</a><br>
-      </td>
-    </tr>
-    <tr>
-      <td><b>📚 Store Package</b></td>
-      <td>
-        "Sky Perspective" photo packages added and Mustafa Kemal Atatürk Queto typo fault fixed for <a href="https://github.com/mue/marketplace">Mue Marketplace</a>
       </td>
     </tr>
   </table>
