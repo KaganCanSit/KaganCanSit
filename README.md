@@ -30,32 +30,37 @@
     <tr>
       <td><b>🛠️ Edit for C++20 Support</b></td>
       <td>
-        Fixed the use of C++20 functions with updated Android NDK and XCode versions. <a href="https://github.com/randombit/botan/pull/4811">Botan</a>
+        Fixed the use of C++20 functions with updated Android NDK and XCode versions.
       </td>
+      <td><a href="https://github.com/randombit/botan/pull/4811">Botan</a></td>
     </tr>
     <tr>
       <td><b>⛓️‍💥 Broken Links</b></td>
       <td>
-        Rechecking & Cleaning Up Broken Links (Follow-up to Previous Fix) <a href="https://github.com/LuNiZz/siber-guvenlik-sss/pull/157">siber-guvenlik-sss</a>
+        Rechecking & Cleaning Up Broken Links (Follow-up to Previous Fix)
       </td>
+      <td><a href="https://github.com/LuNiZz/siber-guvenlik-sss/pull/157">siber-guvenlik-sss</a></td>
     </tr>
     <tr>
       <td><b>⛓️‍💥 Broken Links</b></td>
       <td>
-        Fix Broken Frida SSL Unpinning Link in docs/Mobil_Malware/0x02_Mobil_Zararli_Analizi_Arac_Gerecleri/README.md <a href="https://github.com/mdisec/mdisec-twitch-yayinlari/pull/128#event-16243056525">mdisec-twitch-yayinlari</a>
+        Fix Broken Frida SSL Unpinning Link in docs/Mobil_Malware/0x02_Mobil_Zararli_Analizi_Arac_Gerecleri/README.md
       </td>
+      <td><a href="https://github.com/mdisec/mdisec-twitch-yayinlari/pull/128#event-16243056525">mdisec-twitch-yayinlari</a></td>
     </tr>
     <tr>
       <td><b>⛓️‍💥 Broken Links</b></td>
       <td>
-        Fix Broken LDAP Wiki Link in HTTP Headers and Cookies/README.md <a href="https://github.com/mdisec/topluluk-makale/pull/28">topluluk-makale</a>
+        Fix Broken LDAP Wiki Link in HTTP Headers and Cookies/README.md
       </td>
+      <td><a href="https://github.com/mdisec/topluluk-makale/pull/28">topluluk-makale</a></td>
     </tr>
     <tr>
       <td><b>⛓️‍💥 Broken Links</b></td>
       <td>
-        Some broken links found and removed it <a href="https://github.com/LuNiZz/siber-guvenlik-sss">siber-guvenlik-sss</a>
+        Some broken links found and removed it
       </td>
+      <td><a href="https://github.com/LuNiZz/siber-guvenlik-sss">siber-guvenlik-sss</a></td>
     </tr>
   </table>
 </div>
