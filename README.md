@@ -20,10 +20,10 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 I joined GitHub 5 years ago and since then I have:
 
-- 📝 Pushed 1089 commits
+- 📝 Pushed 1091 commits
 - 🐛 Opened 29 issues
 - 🚀 Submitted 63 pull requests
-- 🌟 Received 0 stars across 20 personal projects
+- 🌟 Received 35 stars across 32 personal projects
 - 🔧 Contributed to 11 public repositories
 
 ## Technologies & Tools
