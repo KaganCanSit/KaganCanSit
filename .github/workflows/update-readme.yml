@@ -1,0 +1,75 @@
+name: Readme Stat Updater
+
+on:
+  schedule:
+    - cron: '0 0 * * *'    # It works every day at midnight UTC (00:00)
+  workflow_dispatch:       # Manually trigger the workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Get Latest 10 Pull Requests
+        uses: actions/github-script@v6
+        id: fetch_prs
+        with:
+          script: |
+            const { data: events } = await github.rest.activity.listPublicEventsForUser({
+              username: 'KaganCanSit',
+              per_page: 100
+            });
+            // Sadece PullRequest etkinliklerini filtrele
+            const prs = events.filter(e => e.type === 'PullRequestEvent').slice(0, 10);
+            const prList = prs.map(pr => `- [${pr.payload.pull_request.title}](${pr.payload.pull_request.html_url})`).join('\n');
+            return prList;
+
+      - name: Get Latest 10 Activities
+        uses: actions/github-script@v6
+        id: fetch_activities
+        with:
+          script: |
+            const { data: events } = await github.rest.activity.listPublicEventsForUser({
+              username: 'KaganCanSit',
+              per_page: 100
+            });
+            // PullRequestEvent dışındaki etkinlikleri filtrele
+            const activities = events.filter(e => e.type !== 'PullRequestEvent').slice(0, 10);
+            const activityList = activities.map(act => {
+              let desc = '';
+              switch(act.type) {
+                case 'IssuesEvent':
+                  desc = `Issue: [${act.payload.issue.title}](${act.payload.issue.html_url})`;
+                  break;
+                case 'IssueCommentEvent':
+                  desc = `Commented on Issue: [${act.payload.issue.title}](${act.payload.issue.html_url})`;
+                  break;
+                case 'PushEvent':
+                  desc = `Pushed to [${act.repo.name}](https://github.com/${act.repo.name})`;
+                  break;
+                case 'WatchEvent':
+                  desc = `Starred [${act.repo.name}](https://github.com/${act.repo.name})`;
+                  break;
+                default:
+                  desc = `${act.type} on [${act.repo.name}](https://github.com/${act.repo.name})`;
+              }
+              return `- ${desc}`;
+            }).join('\n');
+            return activityList;
+
+      - name: Update README.md File
+        env:
+          PR_SECTION: ${{ steps.fetch_prs.outputs.result }}
+          ACTIVITY_SECTION: ${{ steps.fetch_activities.outputs.result }}
+        run: |
+          # Mevcut README içinde marker aralıklarını yeni içerikle değiştir
+          sed -i '/<!--START_SECTION:pr-->/,/<!--END_SECTION:pr-->/c\<!--START_SECTION:pr-->\n'"$PR_SECTION"'\n<!--END_SECTION:pr-->' README.md
+          sed -i '/<!--START_SECTION:activity-->/,/<!--END_SECTION:activity-->/c\<!--START_SECTION:activity-->\n'"$ACTIVITY_SECTION"'\n<!--END_SECTION:activity-->' README.md
+
+      - name: Commit and Push Changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "README.md"
+          message: ":memo: README Contribution and Activity Update"
