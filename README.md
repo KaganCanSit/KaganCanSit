@@ -16,11 +16,7 @@ I believe in the power of open source and knowledge sharing. My goal is to contr
 
 Whether you're here for technical discussions, collaboration opportunities, or just curiosity, I'm always open to connecting with fellow developers. I'm passionate about creating secure, efficient software solutions and sharing knowledge with the community. We can build a better tomorrow by sharing and developing ideas together.
 
-### Recent Open Source Contributions
-<!--START_SECTION:pr-->
-<!--END_SECTION:pr-->
-
-### Recent Open Source Activities
+### Recent Activities
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 

@@ -14,13 +14,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Get Latest Pull Requests and Activities (10 each)
+      - name: Get Latest Activities
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: KaganCanSit
-          COMMIT_NAME: github-actions[bot]-github-activity-readme
-          COMMIT_MSG: README Contribution and Activity Update
-          MAX_LINES: 10
+          COMMIT_NAME: Github Activity Readme
+          COMMIT_MSG: "README Contribution and Activity Update"
+          MAX_LINES: 25
           TARGET_FILE: README.md
