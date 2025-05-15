@@ -1,39 +1,30 @@
-<img src="ImageFiles/Gif/banner.gif" style="width: 100%; height: auto;" alt="Banner Image">
+![Banner Image](ImageFiles/Gif/banner.gif)
 
-<div alt="Personel Information">
-  <h1>
-    Hi! I'm Kağan Can Şit.
-    <a>
-      <img align="right" src="https://komarev.com/ghpvc/?username=kagancansit" alt="View Counter">
-    </a>
-  </h1>
-</div>
+![View Counter](https://komarev.com/ghpvc/?username=kagancansit)
 
-<div alt="About Me">
-  <h3>Who am I?</h3>
-  <p>I am a software engineer working on software technologies, especially C++. </p>
+## Hi! I'm Kağan Can Şit.
 
-  <h3>Why are you on Github?</h3>
-  <p>I believe in the power of open source and knowledge sharing. My goal is to contribute to projects that make a difference while continuously learning from the community. I'm particularly interested in security-focused software development and system optimization.</p>
+### Who am I?
 
-  <h3>What would you like to tell me?</h3>
-  <p>
-    Whether you're here for technical discussions, collaboration opportunities, or just curiosity, I'm always open to connecting with fellow developers. I'm passionate about creating secure, efficient software solutions and sharing knowledge with the community. We can build a better tomorrow by sharing and developing ideas together.
-  </p>
-  <p><b>Thank you for your support. Best regards...</b></p>
-</div>
+I am a software engineer working on software technologies, especially C++.
 
-<div align="center" alt="Open Source Contributions">
-  <h2>Recent Ten Open Source Contributions</h2>
-  <!--START_SECTION:pr-->
-  <!--END_SECTION:pr-->
-</div>
+### Why are you on Github?
 
-<div align="center" alt="Github Activity Without Pull Request">
-  <h2>Recent Ten Activity</h2>
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-</div>
+I believe in the power of open source and knowledge sharing. My goal is to contribute to projects that make a difference while continuously learning from the community. I'm particularly interested in security-focused software development and system optimization.
+
+### What would you like to tell me?
+
+Whether you're here for technical discussions, collaboration opportunities, or just curiosity, I'm always open to connecting with fellow developers. I'm passionate about creating secure, efficient software solutions and sharing knowledge with the community. We can build a better tomorrow by sharing and developing ideas together.
+
+### Recent Open Source Contributions
+<!--START_SECTION:pr-->
+<!--END_SECTION:pr-->
+
+### Recent Open Source Activities
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+Thank you for your support. Best regards...
 
 <h2 align="center" alt="Latest Blog"> My Last Blog Post <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="20" height="40"/> </h2>
 <table>
