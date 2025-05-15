@@ -28,6 +28,13 @@
 
   <table>
     <tr>
+      <td><b>⛓️‍💥 Broken Links</b></td>
+      <td>
+        Fix Broken and Inaccessible Links in Documentation
+      </td>
+      <td><a href="https://github.com/randombit/botan/pull/4867">Botan</a></td>
+    </tr>
+    <tr>
       <td><b>🛠️ Edit for C++20 Support</b></td>
       <td>
         Fixed the use of C++20 functions with updated Android NDK and XCode versions.
@@ -54,13 +61,6 @@
         Fix Broken LDAP Wiki Link in HTTP Headers and Cookies/README.md
       </td>
       <td><a href="https://github.com/mdisec/topluluk-makale/pull/28">topluluk-makale</a></td>
-    </tr>
-    <tr>
-      <td><b>⛓️‍💥 Broken Links</b></td>
-      <td>
-        Some broken links found and removed it
-      </td>
-      <td><a href="https://github.com/LuNiZz/siber-guvenlik-sss">siber-guvenlik-sss</a></td>
     </tr>
   </table>
 </div>
