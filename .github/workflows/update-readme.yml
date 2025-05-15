@@ -5,7 +5,7 @@ on:
   workflow_dispatch:       # Manually trigger the workflow
 jobs:
   update-readme:
-    name: Update README with PRs and Activities
+    name: Update README Activities Area
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -14,13 +14,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Get Latest Activities
+      - name: Get Latest Activities with GitHub Activity Readme
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          MAX_LINES: 25
-          GH_USERNAME: KaganCanSit
-          COMMIT_NAME: Github Activity Readme
-          COMMIT_MSG: "README Activity Update"
-          TARGET_FILE: README.md
+          COMMIT_MSG: "Readme activity check and update [bot]"
+          MAX_LINES: 15
+          COMMIT_NAME: GitHub Activity - Readme Update [bot]
