@@ -24,45 +24,15 @@
 </div>
 
 <div align="center" alt="Open Source Contributions">
-  <h2>Recent Five Open Source Contributions</h2>
+  <h2>Recent Ten Open Source Contributions</h2>
+  <!--START_SECTION:pr-->
+  <!--END_SECTION:pr-->
+</div>
 
-  <table>
-    <tr>
-      <td><b>⛓️‍💥 Broken Links</b></td>
-      <td>
-        Fix Broken and Inaccessible Links in Documentation
-      </td>
-      <td><a href="https://github.com/randombit/botan/pull/4867">Botan</a></td>
-    </tr>
-    <tr>
-      <td><b>🛠️ Edit for C++20 Support</b></td>
-      <td>
-        Fixed the use of C++20 functions with updated Android NDK and XCode versions.
-      </td>
-      <td><a href="https://github.com/randombit/botan/pull/4811">Botan</a></td>
-    </tr>
-    <tr>
-      <td><b>⛓️‍💥 Broken Links</b></td>
-      <td>
-        Rechecking & Cleaning Up Broken Links (Follow-up to Previous Fix)
-      </td>
-      <td><a href="https://github.com/LuNiZz/siber-guvenlik-sss/pull/157">siber-guvenlik-sss</a></td>
-    </tr>
-    <tr>
-      <td><b>⛓️‍💥 Broken Links</b></td>
-      <td>
-        Fix Broken Frida SSL Unpinning Link in docs/Mobil_Malware/0x02_Mobil_Zararli_Analizi_Arac_Gerecleri/README.md
-      </td>
-      <td><a href="https://github.com/mdisec/mdisec-twitch-yayinlari/pull/128#event-16243056525">mdisec-twitch-yayinlari</a></td>
-    </tr>
-    <tr>
-      <td><b>⛓️‍💥 Broken Links</b></td>
-      <td>
-        Fix Broken LDAP Wiki Link in HTTP Headers and Cookies/README.md
-      </td>
-      <td><a href="https://github.com/mdisec/topluluk-makale/pull/28">topluluk-makale</a></td>
-    </tr>
-  </table>
+<div align="center" alt="Github Activity Without Pull Request">
+  <h2>Recent Ten Activity</h2>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 </div>
 
 <h2 align="center" alt="Latest Blog"> My Last Blog Post <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="20" height="40"/> </h2>
