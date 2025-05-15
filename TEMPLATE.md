@@ -16,13 +16,14 @@ I believe in the power of open source and knowledge sharing. My goal is to contr
 
 Whether you're here for technical discussions, collaboration opportunities, or just curiosity, I'm always open to connecting with fellow developers. I'm passionate about creating secure, efficient software solutions and sharing knowledge with the community. We can build a better tomorrow by sharing and developing ideas together.
 
-### What is your background and stats on Github?
+### What is your background and stats on Github? (Github Stats)
 
 I joined GitHub {{ ACCOUNT_AGE }} years ago and since then I have:
 
 - 📝 Pushed {{ COMMITS }} commits
 - 🐛 Opened {{ ISSUES }} issues
 - 🚀 Submitted {{ PULL_REQUESTS }} pull requests
+- 🔍 Reviewed {{ CODE_REVIEWS }} pull request
 - 🌟 Received {{ STARS }} stars across {{ REPOSITORIES }} personal projects
 - 🔧 Contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories
 

@@ -1,4 +1,4 @@
-name: Readme Stat Updater
+name: Readme Activity Updater
 on:
   schedule:
     - cron: '0 0 * * *'    # It works every day at midnight UTC (00:00)

@@ -1,0 +1,28 @@
+name: Readme Stats Updater
+on:
+  schedule:
+    - cron: '0 0 * * *'    # It works every day at midnight UTC (00:00)
+  workflow_dispatch:       # Manually trigger the workflow
+jobs:
+  publish:
+    name: Update README Stats Values
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+            fetch-depth: 0
+
+      - name: Get Stats Values and Update README
+        uses: teoxoy/profile-readme-stats@v3
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+      - name: Update README.md
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name KaganCanSit
+            git config user.email kagancansit@hotmail.com
+            git add *.md
+            git commit -m "Update README.md file Github stats"
+            git push
+          fi
