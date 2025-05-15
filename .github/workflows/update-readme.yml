@@ -15,10 +15,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Get Latest Activities with GitHub Activity Readme
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: RecapTime/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "Readme activity check and update [bot]"
           MAX_LINES: 15
-          COMMIT_NAME: GitHub Activity - Readme Update [bot]
