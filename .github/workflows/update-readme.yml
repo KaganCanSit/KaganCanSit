@@ -19,6 +19,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Readme activity check and update [bot]"
+          COMMIT_MSG: "Update README.md file Github Activity"
           MAX_LINES: 15
           COMMIT_NAME: GitHub Activity - Readme Update [bot]
