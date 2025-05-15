@@ -30,9 +30,8 @@ I joined GitHub {{ ACCOUNT_AGE }} years ago and since then I have:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-Thank you for your support. Best regards...
+###  My Last Blog Post
 
-<h2 align="center" alt="Latest Blog"> My Last Blog Post <img src="https://media2.giphy.com/media/XHp04JU3R4SSkpTcbq/giphy.gif?cid=ecf05e47eg18pw9oeocck9umagbdz3i6ewz57wl9ks1assb6&rid=giphy.gif&ct=s" width="20" height="40"/> </h2>
 <table>
   <tr>
     <td>
@@ -88,17 +87,9 @@ Thank you for your support. Best regards...
   ![Adobe AI](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 </div>
 
-<div align="center" alt="Github Stats">
-  <h2>My Github Stats</h2>
-  
-  <!-- Github Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kagancansit&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=DDDDDD" style="width: 400px;">
-  
-  <!-- Github Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kagancansit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=DDDDDD" style="width: 400px;">
-</div>
-
 <div alt="Song" align="center">   
   <h2>Listen to Song with Me</h2>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=qtc2yjlwvav1a9frts9pz9h73&count=1" width="400px"/>
 </div>
+
+Thank you for your support. Best regards...
