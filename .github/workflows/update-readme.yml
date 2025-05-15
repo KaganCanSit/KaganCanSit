@@ -19,8 +19,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          MAX_LINES: 25
           GH_USERNAME: KaganCanSit
           COMMIT_NAME: Github Activity Readme
-          COMMIT_MSG: "README Contribution and Activity Update"
-          MAX_LINES: 25
+          COMMIT_MSG: "README Activity Update"
           TARGET_FILE: README.md
