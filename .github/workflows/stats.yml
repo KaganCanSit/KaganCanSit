@@ -1,8 +1,8 @@
 name: Readme Stats Updater
 on:
   schedule:
-    - cron: '0 0 * * *'    # It works every day at midnight UTC (00:00)
-  workflow_dispatch:       # Manually trigger the workflow
+    - cron: '58 23 * * *'   # It works every day at midnight UTC (23:58)
+  workflow_dispatch:        # Manually trigger the workflow
 
 jobs:
   publish:
