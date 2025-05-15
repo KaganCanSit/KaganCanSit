@@ -18,13 +18,13 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 ### What is your background and stats on Github?
 
-I joined GitHub {{ ACCOUNT_AGE }} years ago and since then I have:
+I joined GitHub 5 years ago and since then I have:
 
-- 📝 Pushed {{ COMMITS }} commits
-- 🐛 Opened {{ ISSUES }} issues
-- 🚀 Submitted {{ PULL_REQUESTS }} pull requests
-- 🌟 Received {{ STARS }} stars across {{ REPOSITORIES }} personal projects
-- 🔧 Contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories
+- 📝 Pushed 1087 commits
+- 🐛 Opened 29 issues
+- 🚀 Submitted 63 pull requests
+- 🌟 Received 35 stars across 32 personal projects
+- 🔧 Contributed to 11 public repositories
 
 ## Technologies & Tools
 

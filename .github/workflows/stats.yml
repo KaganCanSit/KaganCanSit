@@ -16,7 +16,8 @@ jobs:
       - name: Get Stats Values and Update README
         uses: teoxoy/profile-readme-stats@master
         with:
-          token: ${{ secrets.STATS }}
+            token: ${{ secrets.STATS }}
+            includeForks: true
       - name: Update README.md
         shell: bash
         run: |
