@@ -20,7 +20,7 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 I joined GitHub 5 years ago and since then I have:
 
-- 📝 Pushed 1098 commits
+- 📝 Pushed 1099 commits
 - 🐛 Opened 29 issues
 - 🚀 Submitted 63 pull requests
 - 🌟 Received 35 stars across 32 personal projects
@@ -69,11 +69,6 @@ I joined GitHub 5 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4867](https://github.com/randombit/botan/pull/4867#issuecomment-2873129393) in [randombit/botan](https://github.com/randombit/botan)
-2. 🗣 Commented on [#4867](https://github.com/randombit/botan/pull/4867#issuecomment-2870684978) in [randombit/botan](https://github.com/randombit/botan)
-3. 💪 Opened PR [#4867](https://github.com/randombit/botan/pull/4867) in [randombit/botan](https://github.com/randombit/botan)
-4. 🗣 Commented on [#4814](https://github.com/randombit/botan/pull/4814#issuecomment-2865924282) in [randombit/botan](https://github.com/randombit/botan)
-5. 🗣 Commented on [#4814](https://github.com/randombit/botan/pull/4814#issuecomment-2847125758) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 ##  My Last Blog Post
