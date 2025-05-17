@@ -69,6 +69,13 @@ I joined GitHub 5 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/KaganCanSit/KaganCanSit/pull/1) in [KaganCanSit/KaganCanSit](https://github.com/KaganCanSit/KaganCanSit)
+2. 💪 Opened PR [#1](https://github.com/KaganCanSit/KaganCanSit/pull/1) in [KaganCanSit/KaganCanSit](https://github.com/KaganCanSit/KaganCanSit)
+3. 🗣 Commented on [#4867](https://github.com/randombit/botan/pull/4867#issuecomment-2873129393) in [randombit/botan](https://github.com/randombit/botan)
+4. 🗣 Commented on [#4867](https://github.com/randombit/botan/pull/4867#issuecomment-2870684978) in [randombit/botan](https://github.com/randombit/botan)
+5. 💪 Opened PR [#4867](https://github.com/randombit/botan/pull/4867) in [randombit/botan](https://github.com/randombit/botan)
+6. 🗣 Commented on [#4814](https://github.com/randombit/botan/pull/4814#issuecomment-2865924282) in [randombit/botan](https://github.com/randombit/botan)
+7. 🗣 Commented on [#4814](https://github.com/randombit/botan/pull/4814#issuecomment-2847125758) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 ##  My Last Blog Post
