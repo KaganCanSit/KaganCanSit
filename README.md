@@ -20,7 +20,7 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 I joined GitHub 5 years ago and since then I have:
 
-- 📝 Pushed 1108 commits
+- 📝 Pushed 1111 commits
 - 🐛 Opened 29 issues
 - 🚀 Submitted 65 pull requests
 - 🌟 Received 35 stars across 32 personal projects
@@ -69,17 +69,6 @@ I joined GitHub 5 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4876](https://github.com/randombit/botan/pull/4876) in [randombit/botan](https://github.com/randombit/botan)
-2. 🗣 Commented on [#4873](https://github.com/randombit/botan/pull/4873#issuecomment-2890850970) in [randombit/botan](https://github.com/randombit/botan)
-3. 🗣 Commented on [#4873](https://github.com/randombit/botan/pull/4873#issuecomment-2887719014) in [randombit/botan](https://github.com/randombit/botan)
-4. 💪 Opened PR [#4874](https://github.com/randombit/botan/pull/4874) in [randombit/botan](https://github.com/randombit/botan)
-5. 🎉 Merged PR [#1](https://github.com/KaganCanSit/KaganCanSit/pull/1) in [KaganCanSit/KaganCanSit](https://github.com/KaganCanSit/KaganCanSit)
-6. 💪 Opened PR [#1](https://github.com/KaganCanSit/KaganCanSit/pull/1) in [KaganCanSit/KaganCanSit](https://github.com/KaganCanSit/KaganCanSit)
-7. 🗣 Commented on [#4867](https://github.com/randombit/botan/pull/4867#issuecomment-2873129393) in [randombit/botan](https://github.com/randombit/botan)
-8. 🗣 Commented on [#4867](https://github.com/randombit/botan/pull/4867#issuecomment-2870684978) in [randombit/botan](https://github.com/randombit/botan)
-9. 💪 Opened PR [#4867](https://github.com/randombit/botan/pull/4867) in [randombit/botan](https://github.com/randombit/botan)
-10. 🗣 Commented on [#4814](https://github.com/randombit/botan/pull/4814#issuecomment-2865924282) in [randombit/botan](https://github.com/randombit/botan)
-11. 🗣 Commented on [#4814](https://github.com/randombit/botan/pull/4814#issuecomment-2847125758) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 ##  My Last Blog Post
