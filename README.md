@@ -69,6 +69,16 @@ I joined GitHub 5 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/gozdedemirertugrul/gozdedemirertugrul.github.io/pull/1) in [gozdedemirertugrul/gozdedemirertugrul.github.io](https://github.com/gozdedemirertugrul/gozdedemirertugrul.github.io)
+2. 🗣 Commented on [#4876](https://github.com/randombit/botan/pull/4876#issuecomment-2902383700) in [randombit/botan](https://github.com/randombit/botan)
+3. 💪 Opened PR [#4876](https://github.com/randombit/botan/pull/4876) in [randombit/botan](https://github.com/randombit/botan)
+4. 🗣 Commented on [#4873](https://github.com/randombit/botan/pull/4873#issuecomment-2890850970) in [randombit/botan](https://github.com/randombit/botan)
+5. 🗣 Commented on [#4873](https://github.com/randombit/botan/pull/4873#issuecomment-2887719014) in [randombit/botan](https://github.com/randombit/botan)
+6. 💪 Opened PR [#4874](https://github.com/randombit/botan/pull/4874) in [randombit/botan](https://github.com/randombit/botan)
+7. 🎉 Merged PR [#1](https://github.com/KaganCanSit/KaganCanSit/pull/1) in [KaganCanSit/KaganCanSit](https://github.com/KaganCanSit/KaganCanSit)
+8. 💪 Opened PR [#1](https://github.com/KaganCanSit/KaganCanSit/pull/1) in [KaganCanSit/KaganCanSit](https://github.com/KaganCanSit/KaganCanSit)
+9. 🗣 Commented on [#4867](https://github.com/randombit/botan/pull/4867#issuecomment-2873129393) in [randombit/botan](https://github.com/randombit/botan)
+10. 🗣 Commented on [#4867](https://github.com/randombit/botan/pull/4867#issuecomment-2870684978) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 ##  My Last Blog Post
