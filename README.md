@@ -20,11 +20,11 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 I joined GitHub 5 years ago and since then I have:
 
-- 📝 Pushed 1136 commits
+- 📝 Pushed 1137 commits
 - 🐛 Opened 29 issues
 - 🚀 Submitted 67 pull requests
 - 🌟 Received 35 stars across 33 personal projects
-- 🔧 Contributed to 12 public repositories
+- 🔧 Contributed to 11 public repositories
 
 ## Technologies & Tools
 
@@ -69,17 +69,6 @@ I joined GitHub 5 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/KaganCanSit/kagancansit.github.io/pull/23) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-2. 💪 Opened PR [#23](https://github.com/KaganCanSit/kagancansit.github.io/pull/23) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-3. 🗣 Commented on [#4876](https://github.com/randombit/botan/pull/4876#issuecomment-2907783146) in [randombit/botan](https://github.com/randombit/botan)
-4. 🗣 Commented on [#4876](https://github.com/randombit/botan/pull/4876#issuecomment-2907738976) in [randombit/botan](https://github.com/randombit/botan)
-5. 🗣 Commented on [#4814](https://github.com/randombit/botan/pull/4814#issuecomment-2907634272) in [randombit/botan](https://github.com/randombit/botan)
-6. 💪 Opened PR [#1](https://github.com/gozdedemirertugrul/gozdedemirertugrul.github.io/pull/1) in [gozdedemirertugrul/gozdedemirertugrul.github.io](https://github.com/gozdedemirertugrul/gozdedemirertugrul.github.io)
-7. 🗣 Commented on [#4876](https://github.com/randombit/botan/pull/4876#issuecomment-2902383700) in [randombit/botan](https://github.com/randombit/botan)
-8. 💪 Opened PR [#4876](https://github.com/randombit/botan/pull/4876) in [randombit/botan](https://github.com/randombit/botan)
-9. 🗣 Commented on [#4873](https://github.com/randombit/botan/pull/4873#issuecomment-2890850970) in [randombit/botan](https://github.com/randombit/botan)
-10. 🗣 Commented on [#4873](https://github.com/randombit/botan/pull/4873#issuecomment-2887719014) in [randombit/botan](https://github.com/randombit/botan)
-11. 💪 Opened PR [#4874](https://github.com/randombit/botan/pull/4874) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 ##  My Last Blog Post
