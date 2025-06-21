@@ -69,6 +69,20 @@ I joined GitHub 5 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#4723](https://github.com/randombit/botan/pull/4723#issuecomment-2977861324) in [randombit/botan](https://github.com/randombit/botan)
+2. 🗣 Commented on [#4914](https://github.com/randombit/botan/issues/4914#issuecomment-2973273750) in [randombit/botan](https://github.com/randombit/botan)
+3. 💪 Opened PR [#19](https://github.com/mue/marketplace/pull/19) in [mue/marketplace](https://github.com/mue/marketplace)
+4. 🗣 Commented on [#23](https://github.com/oasis-tcs/pkcs11/pull/23#issuecomment-2927772730) in [oasis-tcs/pkcs11](https://github.com/oasis-tcs/pkcs11)
+5. 🗣 Commented on [#17](https://github.com/oasis-tcs/pkcs11/issues/17#issuecomment-2927748683) in [oasis-tcs/pkcs11](https://github.com/oasis-tcs/pkcs11)
+6. 💪 Opened PR [#23](https://github.com/oasis-tcs/pkcs11/pull/23) in [oasis-tcs/pkcs11](https://github.com/oasis-tcs/pkcs11)
+7. 🗣 Commented on [#4874](https://github.com/randombit/botan/pull/4874#issuecomment-2926987478) in [randombit/botan](https://github.com/randombit/botan)
+8. 🎉 Merged PR [#23](https://github.com/KaganCanSit/kagancansit.github.io/pull/23) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+9. 💪 Opened PR [#23](https://github.com/KaganCanSit/kagancansit.github.io/pull/23) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+10. 🗣 Commented on [#4876](https://github.com/randombit/botan/pull/4876#issuecomment-2907783146) in [randombit/botan](https://github.com/randombit/botan)
+11. 🗣 Commented on [#4876](https://github.com/randombit/botan/pull/4876#issuecomment-2907738976) in [randombit/botan](https://github.com/randombit/botan)
+12. 🗣 Commented on [#4814](https://github.com/randombit/botan/pull/4814#issuecomment-2907634272) in [randombit/botan](https://github.com/randombit/botan)
+13. 💪 Opened PR [#1](https://github.com/gozdedemirertugrul/gozdedemirertugrul.github.io/pull/1) in [gozdedemirertugrul/gozdedemirertugrul.github.io](https://github.com/gozdedemirertugrul/gozdedemirertugrul.github.io)
+14. 🗣 Commented on [#4876](https://github.com/randombit/botan/pull/4876#issuecomment-2902383700) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 ##  My Last Blog Post
