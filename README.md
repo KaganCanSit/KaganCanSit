@@ -69,6 +69,21 @@ I joined GitHub 5 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#4939](https://github.com/randombit/botan/pull/4939) in [randombit/botan](https://github.com/randombit/botan)
+2. ❌ Closed PR [#4938](https://github.com/randombit/botan/pull/4938) in [randombit/botan](https://github.com/randombit/botan)
+3. 💪 Opened PR [#4938](https://github.com/randombit/botan/pull/4938) in [randombit/botan](https://github.com/randombit/botan)
+4. 🗣 Commented on [#4874](https://github.com/randombit/botan/pull/4874#issuecomment-2993602909) in [randombit/botan](https://github.com/randombit/botan)
+5. 🗣 Commented on [#4723](https://github.com/randombit/botan/pull/4723#issuecomment-2977861324) in [randombit/botan](https://github.com/randombit/botan)
+6. 🗣 Commented on [#4914](https://github.com/randombit/botan/issues/4914#issuecomment-2973273750) in [randombit/botan](https://github.com/randombit/botan)
+7. 💪 Opened PR [#19](https://github.com/mue/marketplace/pull/19) in [mue/marketplace](https://github.com/mue/marketplace)
+8. 🗣 Commented on [#23](https://github.com/oasis-tcs/pkcs11/pull/23#issuecomment-2927772730) in [oasis-tcs/pkcs11](https://github.com/oasis-tcs/pkcs11)
+9. 🗣 Commented on [#17](https://github.com/oasis-tcs/pkcs11/issues/17#issuecomment-2927748683) in [oasis-tcs/pkcs11](https://github.com/oasis-tcs/pkcs11)
+10. 💪 Opened PR [#23](https://github.com/oasis-tcs/pkcs11/pull/23) in [oasis-tcs/pkcs11](https://github.com/oasis-tcs/pkcs11)
+11. 🗣 Commented on [#4874](https://github.com/randombit/botan/pull/4874#issuecomment-2926987478) in [randombit/botan](https://github.com/randombit/botan)
+12. 🎉 Merged PR [#23](https://github.com/KaganCanSit/kagancansit.github.io/pull/23) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+13. 💪 Opened PR [#23](https://github.com/KaganCanSit/kagancansit.github.io/pull/23) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+14. 🗣 Commented on [#4876](https://github.com/randombit/botan/pull/4876#issuecomment-2907783146) in [randombit/botan](https://github.com/randombit/botan)
+15. 🗣 Commented on [#4876](https://github.com/randombit/botan/pull/4876#issuecomment-2907738976) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 ##  My Last Blog Post
