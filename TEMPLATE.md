@@ -23,6 +23,7 @@ I joined GitHub {{ ACCOUNT_AGE }} years ago and since then I have:
 - 📝 Pushed {{ COMMITS }} commits
 - 🐛 Opened {{ ISSUES }} issues
 - 🚀 Submitted {{ PULL_REQUESTS }} pull requests
+- 🔍 Performed {{ CODE_REVIEWS }} code reviews
 - 🌟 Received {{ STARS }} stars across {{ REPOSITORIES }} personal projects
 - 🔧 Contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories
 
