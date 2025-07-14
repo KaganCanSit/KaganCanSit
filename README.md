@@ -69,6 +69,21 @@ I joined GitHub 5 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#4783](https://github.com/randombit/botan/pull/4783#issuecomment-3067037734) in [randombit/botan](https://github.com/randombit/botan)
+2. 🗣 Commented on [#4660](https://github.com/randombit/botan/pull/4660#issuecomment-3053812735) in [randombit/botan](https://github.com/randombit/botan)
+3. 🗣 Commented on [#4772](https://github.com/randombit/botan/pull/4772#issuecomment-3053809999) in [randombit/botan](https://github.com/randombit/botan)
+4. 💪 Opened PR [#4967](https://github.com/randombit/botan/pull/4967) in [randombit/botan](https://github.com/randombit/botan)
+5. 🗣 Commented on [#4049](https://github.com/randombit/botan/issues/4049#issuecomment-3025228653) in [randombit/botan](https://github.com/randombit/botan)
+6. 🗣 Commented on [#4049](https://github.com/randombit/botan/issues/4049#issuecomment-3025217364) in [randombit/botan](https://github.com/randombit/botan)
+7. 🗣 Commented on [#3975](https://github.com/randombit/botan/issues/3975#issuecomment-3025072340) in [randombit/botan](https://github.com/randombit/botan)
+8. 💪 Opened PR [#4951](https://github.com/randombit/botan/pull/4951) in [randombit/botan](https://github.com/randombit/botan)
+9. 🗣 Commented on [#4892](https://github.com/randombit/botan/pull/4892#issuecomment-3006964927) in [randombit/botan](https://github.com/randombit/botan)
+10. 🗣 Commented on [#1](https://github.com/barracuda156/botan/pull/1#issuecomment-3006942893) in [barracuda156/botan](https://github.com/barracuda156/botan)
+11. 💪 Opened PR [#1](https://github.com/barracuda156/botan/pull/1) in [barracuda156/botan](https://github.com/barracuda156/botan)
+12. 🗣 Commented on [#3776](https://github.com/randombit/botan/issues/3776#issuecomment-3001833106) in [randombit/botan](https://github.com/randombit/botan)
+13. 🗣 Commented on [#4772](https://github.com/randombit/botan/pull/4772#issuecomment-2994451448) in [randombit/botan](https://github.com/randombit/botan)
+14. 🗣 Commented on [#4660](https://github.com/randombit/botan/pull/4660#issuecomment-2994426887) in [randombit/botan](https://github.com/randombit/botan)
+15. 🗣 Commented on [#4783](https://github.com/randombit/botan/pull/4783#issuecomment-2994417567) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 ##  My Last Blog Post
