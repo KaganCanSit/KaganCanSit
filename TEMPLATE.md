@@ -37,12 +37,7 @@ I joined GitHub {{ ACCOUNT_AGE }} years ago and since then I have:
 | **Version Control & Project Management**    | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Atlassian](https://img.shields.io/badge/Atlassian_Tools-0052CC?style=flat-square&logo=atlassian&logoColor=white) |
 | **Additional Skills / Tools** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Adobe PS](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Adobe AI](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) |
 
-## Recent Activities
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ##  My Last Blog Post
-
 <table>
   <tr>
     <td>
@@ -54,6 +49,10 @@ I joined GitHub {{ ACCOUNT_AGE }} years ago and since then I have:
     </td>
   </tr>
 </table>
+
+## Recent Activities
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <div alt="Song" align="center">   
   <h2>Listen to Song with Me</h2>
