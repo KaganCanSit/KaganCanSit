@@ -20,9 +20,9 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 I joined GitHub 5 years ago and since then I have:
 
-- 📝 Pushed 1209 commits
+- 📝 Pushed 1212 commits
 - 🐛 Opened 29 issues
-- 🚀 Submitted 78 pull requests
+- 🚀 Submitted 80 pull requests
 - 🔍 Performed 1 code reviews
 - 🌟 Received 36 stars across 33 personal projects
 - 🔧 Contributed to 10 public repositories
@@ -37,32 +37,7 @@ I joined GitHub 5 years ago and since then I have:
 | **Version Control & Project Management**    | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Atlassian](https://img.shields.io/badge/Atlassian_Tools-0052CC?style=flat-square&logo=atlassian&logoColor=white) |
 | **Additional Skills / Tools** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Adobe PS](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Adobe AI](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) |
 
-## Recent Activities
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#4783](https://github.com/randombit/botan/pull/4783#issuecomment-3069611419) in [randombit/botan](https://github.com/randombit/botan)
-2. 🗣 Commented on [#4783](https://github.com/randombit/botan/pull/4783#issuecomment-3067037734) in [randombit/botan](https://github.com/randombit/botan)
-3. 🗣 Commented on [#4660](https://github.com/randombit/botan/pull/4660#issuecomment-3053812735) in [randombit/botan](https://github.com/randombit/botan)
-4. 🗣 Commented on [#4772](https://github.com/randombit/botan/pull/4772#issuecomment-3053809999) in [randombit/botan](https://github.com/randombit/botan)
-5. 💪 Opened PR [#4967](https://github.com/randombit/botan/pull/4967) in [randombit/botan](https://github.com/randombit/botan)
-6. 🗣 Commented on [#4049](https://github.com/randombit/botan/issues/4049#issuecomment-3025228653) in [randombit/botan](https://github.com/randombit/botan)
-7. 🗣 Commented on [#4049](https://github.com/randombit/botan/issues/4049#issuecomment-3025217364) in [randombit/botan](https://github.com/randombit/botan)
-8. 🗣 Commented on [#3975](https://github.com/randombit/botan/issues/3975#issuecomment-3025072340) in [randombit/botan](https://github.com/randombit/botan)
-9. 💪 Opened PR [#4951](https://github.com/randombit/botan/pull/4951) in [randombit/botan](https://github.com/randombit/botan)
-10. 🗣 Commented on [#4892](https://github.com/randombit/botan/pull/4892#issuecomment-3006964927) in [randombit/botan](https://github.com/randombit/botan)
-11. 🗣 Commented on [#1](https://github.com/barracuda156/botan/pull/1#issuecomment-3006942893) in [barracuda156/botan](https://github.com/barracuda156/botan)
-12. 💪 Opened PR [#1](https://github.com/barracuda156/botan/pull/1) in [barracuda156/botan](https://github.com/barracuda156/botan)
-13. 🗣 Commented on [#3776](https://github.com/randombit/botan/issues/3776#issuecomment-3001833106) in [randombit/botan](https://github.com/randombit/botan)
-14. 🗣 Commented on [#4772](https://github.com/randombit/botan/pull/4772#issuecomment-2994451448) in [randombit/botan](https://github.com/randombit/botan)
-15. 🗣 Commented on [#4660](https://github.com/randombit/botan/pull/4660#issuecomment-2994426887) in [randombit/botan](https://github.com/randombit/botan)
-16. 🗣 Commented on [#4783](https://github.com/randombit/botan/pull/4783#issuecomment-2994417567) in [randombit/botan](https://github.com/randombit/botan)
-17. 🗣 Commented on [#4874](https://github.com/randombit/botan/pull/4874#issuecomment-2994359939) in [randombit/botan](https://github.com/randombit/botan)
-18. 🗣 Commented on [#4942](https://github.com/randombit/botan/pull/4942#issuecomment-2994197561) in [randombit/botan](https://github.com/randombit/botan)
-19. 🗣 Commented on [#4874](https://github.com/randombit/botan/pull/4874#issuecomment-2994150230) in [randombit/botan](https://github.com/randombit/botan)
-20. 💪 Opened PR [#4942](https://github.com/randombit/botan/pull/4942) in [randombit/botan](https://github.com/randombit/botan)
-<!--END_SECTION:activity-->
-
 ##  My Last Blog Post
-
 <table>
   <tr>
     <td>
@@ -74,6 +49,10 @@ I joined GitHub 5 years ago and since then I have:
     </td>
   </tr>
 </table>
+
+## Recent Activities
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <div alt="Song" align="center">   
   <h2>Listen to Song with Me</h2>
