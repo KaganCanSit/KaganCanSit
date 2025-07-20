@@ -20,7 +20,7 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 I joined GitHub 5 years ago and since then I have:
 
-- 📝 Pushed 1215 commits
+- 📝 Pushed 1216 commits
 - 🐛 Opened 29 issues
 - 🚀 Submitted 80 pull requests
 - 🔍 Performed 1 code reviews
@@ -52,26 +52,6 @@ I joined GitHub 5 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4995](https://github.com/randombit/botan/pull/4995) in [randombit/botan](https://github.com/randombit/botan)
-2. 🎉 Merged PR [#4](https://github.com/KaganCanSit/Cross-Compatible-FileLock-Windows-and-Linux/pull/4) in [KaganCanSit/Cross-Compatible-FileLock-Windows-and-Linux](https://github.com/KaganCanSit/Cross-Compatible-FileLock-Windows-and-Linux)
-3. 💪 Opened PR [#4](https://github.com/KaganCanSit/Cross-Compatible-FileLock-Windows-and-Linux/pull/4) in [KaganCanSit/Cross-Compatible-FileLock-Windows-and-Linux](https://github.com/KaganCanSit/Cross-Compatible-FileLock-Windows-and-Linux)
-4. 🗣 Commented on [#4783](https://github.com/randombit/botan/pull/4783#issuecomment-3069611419) in [randombit/botan](https://github.com/randombit/botan)
-5. 🗣 Commented on [#4783](https://github.com/randombit/botan/pull/4783#issuecomment-3067037734) in [randombit/botan](https://github.com/randombit/botan)
-6. 🗣 Commented on [#4660](https://github.com/randombit/botan/pull/4660#issuecomment-3053812735) in [randombit/botan](https://github.com/randombit/botan)
-7. 🗣 Commented on [#4772](https://github.com/randombit/botan/pull/4772#issuecomment-3053809999) in [randombit/botan](https://github.com/randombit/botan)
-8. 💪 Opened PR [#4967](https://github.com/randombit/botan/pull/4967) in [randombit/botan](https://github.com/randombit/botan)
-9. 🗣 Commented on [#4049](https://github.com/randombit/botan/issues/4049#issuecomment-3025228653) in [randombit/botan](https://github.com/randombit/botan)
-10. 🗣 Commented on [#4049](https://github.com/randombit/botan/issues/4049#issuecomment-3025217364) in [randombit/botan](https://github.com/randombit/botan)
-11. 🗣 Commented on [#3975](https://github.com/randombit/botan/issues/3975#issuecomment-3025072340) in [randombit/botan](https://github.com/randombit/botan)
-12. 💪 Opened PR [#4951](https://github.com/randombit/botan/pull/4951) in [randombit/botan](https://github.com/randombit/botan)
-13. 🗣 Commented on [#4892](https://github.com/randombit/botan/pull/4892#issuecomment-3006964927) in [randombit/botan](https://github.com/randombit/botan)
-14. 🗣 Commented on [#1](https://github.com/barracuda156/botan/pull/1#issuecomment-3006942893) in [barracuda156/botan](https://github.com/barracuda156/botan)
-15. 💪 Opened PR [#1](https://github.com/barracuda156/botan/pull/1) in [barracuda156/botan](https://github.com/barracuda156/botan)
-16. 🗣 Commented on [#3776](https://github.com/randombit/botan/issues/3776#issuecomment-3001833106) in [randombit/botan](https://github.com/randombit/botan)
-17. 🗣 Commented on [#4772](https://github.com/randombit/botan/pull/4772#issuecomment-2994451448) in [randombit/botan](https://github.com/randombit/botan)
-18. 🗣 Commented on [#4660](https://github.com/randombit/botan/pull/4660#issuecomment-2994426887) in [randombit/botan](https://github.com/randombit/botan)
-19. 🗣 Commented on [#4783](https://github.com/randombit/botan/pull/4783#issuecomment-2994417567) in [randombit/botan](https://github.com/randombit/botan)
-20. 🗣 Commented on [#4874](https://github.com/randombit/botan/pull/4874#issuecomment-2994359939) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 <div alt="Song" align="center">   
