@@ -1,0 +1,48 @@
+name: README Stats and Activity Updater
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Daily at 23:58 UTC
+  workflow_dispatch:      # Manual trigger
+jobs:
+  update-readme:
+    name: Update README Stats and Activities
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      # First: Update Stats
+      - name: Get Stats Values and Update README
+        uses: teoxoy/profile-readme-stats@master
+        with:
+          token: ${{ secrets.STATS }}
+      
+      - name: Commit Stats Changes
+        shell: bash
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name kagancansit
+            git config user.email kagancansit@hotmail.com
+            git add *.md
+            git commit -m "Update README.md file Github stats [bot]"
+            git push
+          fi
+      
+      # Second: Update Activity (after stats)
+      - name: Checkout Latest Changes
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+      
+      - name: Get Latest Activities with GitHub Activity Readme
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Update README.md file Github Activity"
+          MAX_LINES: 20
+          COMMIT_NAME: GitHub Activity - Readme Update [bot]
