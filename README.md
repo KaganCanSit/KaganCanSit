@@ -20,9 +20,9 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 I joined GitHub 5 years ago and since then I have:
 
-- 📝 Pushed 1276 commits
+- 📝 Pushed 1278 commits
 - 🐛 Opened 29 issues
-- 🚀 Submitted 83 pull requests
+- 🚀 Submitted 84 pull requests
 - 🔍 Performed 2 code reviews
 - 🌟 Received 36 stars across 33 personal projects
 - 🔧 Contributed to 11 public repositories
@@ -52,18 +52,6 @@ I joined GitHub 5 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5062](https://github.com/randombit/botan/pull/5062#issuecomment-3207916323) in [randombit/botan](https://github.com/randombit/botan)
-2. 🗣 Commented on [#5062](https://github.com/randombit/botan/pull/5062#issuecomment-3201775397) in [randombit/botan](https://github.com/randombit/botan)
-3. 🗣 Commented on [#5063](https://github.com/randombit/botan/pull/5063#issuecomment-3194371168) in [randombit/botan](https://github.com/randombit/botan)
-4. ❌ Closed PR [#5063](https://github.com/randombit/botan/pull/5063) in [randombit/botan](https://github.com/randombit/botan)
-5. 🗣 Commented on [#5063](https://github.com/randombit/botan/pull/5063#issuecomment-3194351481) in [randombit/botan](https://github.com/randombit/botan)
-6. 💪 Opened PR [#5063](https://github.com/randombit/botan/pull/5063) in [randombit/botan](https://github.com/randombit/botan)
-7. 💪 Opened PR [#5062](https://github.com/randombit/botan/pull/5062) in [randombit/botan](https://github.com/randombit/botan)
-8. 🗣 Commented on [#4995](https://github.com/randombit/botan/pull/4995#issuecomment-3193892088) in [randombit/botan](https://github.com/randombit/botan)
-9. 🗣 Commented on [#4901](https://github.com/randombit/botan/issues/4901#issuecomment-3161197858) in [randombit/botan](https://github.com/randombit/botan)
-10. 🗣 Commented on [#4995](https://github.com/randombit/botan/pull/4995#issuecomment-3148446710) in [randombit/botan](https://github.com/randombit/botan)
-11. 🗣 Commented on [#4660](https://github.com/randombit/botan/pull/4660#issuecomment-3146383902) in [randombit/botan](https://github.com/randombit/botan)
-12. 💪 Opened PR [#4](https://github.com/LaurieWired/InfiniteRadio/pull/4) in [LaurieWired/InfiniteRadio](https://github.com/LaurieWired/InfiniteRadio)
 <!--END_SECTION:activity-->
 
 <div alt="Song" align="center">   
