@@ -16,61 +16,42 @@ on:
 
 jobs:
   update-readme:
-    name: Update README Stats and Activities
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
-      
-      # First: Update Stats
-      - name: Get Stats Values and Update README
-        if: ${{ inputs.update_type == 'both' || inputs.update_type == 'stats' || github.event_name == 'schedule' }}
+
+      - name: Hash BEFORE (README)
+        id: hash_before
+        run: |
+          echo "val=$(sha256sum README.md | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
+
+      - name: Update Stats in README
         uses: teoxoy/profile-readme-stats@master
         with:
           token: ${{ secrets.STATS }}
-      
-      - name: Commit Stats Changes
-        if: ${{ inputs.update_type == 'both' || inputs.update_type == 'stats' || github.event_name == 'schedule' }}
-        shell: bash
-        run: |
-          git config --local user.name "kagancansit"
-          git config --local user.email "kagancansit@hotmail.com"
-          
-          if [[ "$(git status --porcelain)" != "" ]]; then
-            git add README.md
-            git commit -m "chore: update README stats [skip ci]"
-            git push
-            echo "Stats updated and committed"
-          else
-            echo "No stats changes to commit"
-          fi
-      
-      # Second: Update Activity (after stats)
-      - name: Pull Latest Changes
-        if: ${{ inputs.update_type == 'both' || inputs.update_type == 'activity' || github.event_name == 'schedule' }}
-        run: git pull origin ${{ github.ref_name }}
-      
-      - name: Get Latest Activities
-        if: ${{ inputs.update_type == 'both' || inputs.update_type == 'activity' || github.event_name == 'schedule' }}
+
+      - name: Update Activity in README
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "chore: update README activity [skip ci]"
           MAX_LINES: 20
-          COMMIT_NAME: "kagancansit"
-          COMMIT_EMAIL: "kagancansit@hotmail.com"
-      
-      # Optional: Verify final state
-      - name: Verify Updates
-        if: ${{ github.event_name == 'workflow_dispatch' }}
+          # COMMIT_MSG, COMMIT_NAME, COMMIT_EMAIL not give (don't want commit)
+
+      - name: Hash AFTER (README)
+        id: hash_after
         run: |
-          echo "=== Final README state ==="
-          git log --oneline -5
-          echo "=== Working directory status ==="
-          git status --porcelain
+          echo "val=$(sha256sum README.md | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
+
+      - name: Commit & Push if README changed
+        if: ${{ steps.hash_before.outputs.val != steps.hash_after.outputs.val }}
+        run: |
+          git config --local user.name "kagancansit"
+          git config --local user.email "kagancansit@hotmail.com"
+          git add README.md
+          git commit -m "chore: update README [skip ci]"
+          git push
