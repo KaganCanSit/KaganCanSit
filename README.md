@@ -20,9 +20,9 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 I joined GitHub 5 years ago and since then I have:
 
-- 📝 Pushed 1298 commits
+- 📝 Pushed 1300 commits
 - 🐛 Opened 29 issues
-- 🚀 Submitted 85 pull requests
+- 🚀 Submitted 87 pull requests
 - 🔍 Performed 2 code reviews
 - 🌟 Received 33 stars across 33 personal projects
 - 🔧 Contributed to 11 public repositories
@@ -52,23 +52,25 @@ I joined GitHub 5 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/KaganCanSit/kagancansit.github.io/pull/24) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-2. 💪 Opened PR [#24](https://github.com/KaganCanSit/kagancansit.github.io/pull/24) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-3. 🗣 Commented on [#5073](https://github.com/randombit/botan/pull/5073#issuecomment-3217269399) in [randombit/botan](https://github.com/randombit/botan)
-4. 💪 Opened PR [#5073](https://github.com/randombit/botan/pull/5073) in [randombit/botan](https://github.com/randombit/botan)
-5. ❌ Closed PR [#5062](https://github.com/randombit/botan/pull/5062) in [randombit/botan](https://github.com/randombit/botan)
-6. 🗣 Commented on [#5062](https://github.com/randombit/botan/pull/5062#issuecomment-3207916323) in [randombit/botan](https://github.com/randombit/botan)
-7. 🗣 Commented on [#5062](https://github.com/randombit/botan/pull/5062#issuecomment-3201775397) in [randombit/botan](https://github.com/randombit/botan)
-8. 🗣 Commented on [#5063](https://github.com/randombit/botan/pull/5063#issuecomment-3194371168) in [randombit/botan](https://github.com/randombit/botan)
-9. ❌ Closed PR [#5063](https://github.com/randombit/botan/pull/5063) in [randombit/botan](https://github.com/randombit/botan)
-10. 🗣 Commented on [#5063](https://github.com/randombit/botan/pull/5063#issuecomment-3194351481) in [randombit/botan](https://github.com/randombit/botan)
-11. 💪 Opened PR [#5063](https://github.com/randombit/botan/pull/5063) in [randombit/botan](https://github.com/randombit/botan)
-12. 💪 Opened PR [#5062](https://github.com/randombit/botan/pull/5062) in [randombit/botan](https://github.com/randombit/botan)
-13. 🗣 Commented on [#4995](https://github.com/randombit/botan/pull/4995#issuecomment-3193892088) in [randombit/botan](https://github.com/randombit/botan)
-14. 🗣 Commented on [#4901](https://github.com/randombit/botan/issues/4901#issuecomment-3161197858) in [randombit/botan](https://github.com/randombit/botan)
-15. 🗣 Commented on [#4995](https://github.com/randombit/botan/pull/4995#issuecomment-3148446710) in [randombit/botan](https://github.com/randombit/botan)
-16. 🗣 Commented on [#4660](https://github.com/randombit/botan/pull/4660#issuecomment-3146383902) in [randombit/botan](https://github.com/randombit/botan)
-17. 💪 Opened PR [#4](https://github.com/LaurieWired/InfiniteRadio/pull/4) in [LaurieWired/InfiniteRadio](https://github.com/LaurieWired/InfiniteRadio)
+1. 🗣 Commented on [#5084](https://github.com/randombit/botan/pull/5084#issuecomment-3241091741) in [randombit/botan](https://github.com/randombit/botan)
+2. 🗣 Commented on [#5084](https://github.com/randombit/botan/pull/5084#issuecomment-3240890632) in [randombit/botan](https://github.com/randombit/botan)
+3. 💪 Opened PR [#5084](https://github.com/randombit/botan/pull/5084) in [randombit/botan](https://github.com/randombit/botan)
+4. 🎉 Merged PR [#24](https://github.com/KaganCanSit/kagancansit.github.io/pull/24) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+5. 💪 Opened PR [#24](https://github.com/KaganCanSit/kagancansit.github.io/pull/24) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+6. 🗣 Commented on [#5073](https://github.com/randombit/botan/pull/5073#issuecomment-3217269399) in [randombit/botan](https://github.com/randombit/botan)
+7. 💪 Opened PR [#5073](https://github.com/randombit/botan/pull/5073) in [randombit/botan](https://github.com/randombit/botan)
+8. ❌ Closed PR [#5062](https://github.com/randombit/botan/pull/5062) in [randombit/botan](https://github.com/randombit/botan)
+9. 🗣 Commented on [#5062](https://github.com/randombit/botan/pull/5062#issuecomment-3207916323) in [randombit/botan](https://github.com/randombit/botan)
+10. 🗣 Commented on [#5062](https://github.com/randombit/botan/pull/5062#issuecomment-3201775397) in [randombit/botan](https://github.com/randombit/botan)
+11. 🗣 Commented on [#5063](https://github.com/randombit/botan/pull/5063#issuecomment-3194371168) in [randombit/botan](https://github.com/randombit/botan)
+12. ❌ Closed PR [#5063](https://github.com/randombit/botan/pull/5063) in [randombit/botan](https://github.com/randombit/botan)
+13. 🗣 Commented on [#5063](https://github.com/randombit/botan/pull/5063#issuecomment-3194351481) in [randombit/botan](https://github.com/randombit/botan)
+14. 💪 Opened PR [#5063](https://github.com/randombit/botan/pull/5063) in [randombit/botan](https://github.com/randombit/botan)
+15. 💪 Opened PR [#5062](https://github.com/randombit/botan/pull/5062) in [randombit/botan](https://github.com/randombit/botan)
+16. 🗣 Commented on [#4995](https://github.com/randombit/botan/pull/4995#issuecomment-3193892088) in [randombit/botan](https://github.com/randombit/botan)
+17. 🗣 Commented on [#4901](https://github.com/randombit/botan/issues/4901#issuecomment-3161197858) in [randombit/botan](https://github.com/randombit/botan)
+18. 🗣 Commented on [#4995](https://github.com/randombit/botan/pull/4995#issuecomment-3148446710) in [randombit/botan](https://github.com/randombit/botan)
+19. 🗣 Commented on [#4660](https://github.com/randombit/botan/pull/4660#issuecomment-3146383902) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 <div alt="Song" align="center">   
