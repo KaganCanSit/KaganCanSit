@@ -20,11 +20,11 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 I joined GitHub 5 years ago and since then I have:
 
-- 📝 Pushed 1300 commits
+- 📝 Pushed 1310 commits
 - 🐛 Opened 29 issues
-- 🚀 Submitted 87 pull requests
+- 🚀 Submitted 89 pull requests
 - 🔍 Performed 2 code reviews
-- 🌟 Received 33 stars across 33 personal projects
+- 🌟 Received 33 stars across 34 personal projects
 - 🔧 Contributed to 11 public repositories
 
 ## Technologies & Tools
@@ -58,11 +58,6 @@ I joined GitHub 5 years ago and since then I have:
 4. 🗣 Commented on [#5084](https://github.com/randombit/botan/pull/5084#issuecomment-3241091741) in [randombit/botan](https://github.com/randombit/botan)
 5. 🗣 Commented on [#5084](https://github.com/randombit/botan/pull/5084#issuecomment-3240890632) in [randombit/botan](https://github.com/randombit/botan)
 6. 💪 Opened PR [#5084](https://github.com/randombit/botan/pull/5084) in [randombit/botan](https://github.com/randombit/botan)
-7. 🎉 Merged PR [#24](https://github.com/KaganCanSit/kagancansit.github.io/pull/24) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-8. 💪 Opened PR [#24](https://github.com/KaganCanSit/kagancansit.github.io/pull/24) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-9. 🗣 Commented on [#5073](https://github.com/randombit/botan/pull/5073#issuecomment-3217269399) in [randombit/botan](https://github.com/randombit/botan)
-10. 💪 Opened PR [#5073](https://github.com/randombit/botan/pull/5073) in [randombit/botan](https://github.com/randombit/botan)
-11. ❌ Closed PR [#5062](https://github.com/randombit/botan/pull/5062) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 <div alt="Song" align="center">   
