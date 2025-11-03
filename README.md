@@ -67,8 +67,6 @@ I joined GitHub 5 years ago and since then I have:
 13. 🗣 Commented on [#5120](https://github.com/randombit/botan/pull/5120#issuecomment-3400104990) in [randombit/botan](https://github.com/randombit/botan)
 14. 💪 Opened PR [#5120](undefined) in [randombit/botan](https://github.com/randombit/botan)
 15. 🗣 Commented on [#5115](https://github.com/randombit/botan/pull/5115#issuecomment-3398592868) in [randombit/botan](https://github.com/randombit/botan)
-16. 🗣 Commented on [#5117](https://github.com/randombit/botan/pull/5117#issuecomment-3397190227) in [randombit/botan](https://github.com/randombit/botan)
-17. 🗣 Commented on [#5118](https://github.com/randombit/botan/pull/5118#issuecomment-3396174180) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 <div alt="Song" align="center">   
