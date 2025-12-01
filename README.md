@@ -56,11 +56,6 @@ I joined GitHub 5 years ago and since then I have:
 2. 💪 Opened PR [#5168](undefined) in [randombit/botan](https://github.com/randombit/botan)
 3. 🗣 Commented on [#5153](https://github.com/randombit/botan/pull/5153#issuecomment-3523449530) in [randombit/botan](https://github.com/randombit/botan)
 4. 💪 Opened PR [#5153](undefined) in [randombit/botan](https://github.com/randombit/botan)
-5. 🗣 Commented on [#5117](https://github.com/randombit/botan/pull/5117#issuecomment-3476322796) in [randombit/botan](https://github.com/randombit/botan)
-6. 🗣 Commented on [#4995](https://github.com/randombit/botan/pull/4995#issuecomment-3474925110) in [randombit/botan](https://github.com/randombit/botan)
-7. 🗣 Commented on [#5127](https://github.com/randombit/botan/pull/5127#issuecomment-3460411598) in [randombit/botan](https://github.com/randombit/botan)
-8. 💪 Opened PR [#5127](undefined) in [randombit/botan](https://github.com/randombit/botan)
-9. 💪 Opened PR [#5126](undefined) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 <div alt="Song" align="center">   
