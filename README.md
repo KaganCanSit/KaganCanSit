@@ -20,7 +20,7 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 I joined GitHub 5 years ago and since then I have:
 
-- 📝 Pushed 1325 commits
+- 📝 Pushed 1328 commits
 - 🐛 Opened 30 issues
 - 🚀 Submitted 99 pull requests
 - 🔍 Performed 4 code reviews
@@ -55,8 +55,6 @@ I joined GitHub 5 years ago and since then I have:
 1. ❌ Merged PR [#1](undefined) in [gozdedemirertugrul/gozdedemirertugrul.github.io](https://github.com/gozdedemirertugrul/gozdedemirertugrul.github.io)
 2. 🗣 Commented on [#5168](https://github.com/randombit/botan/pull/5168#issuecomment-3566771008) in [randombit/botan](https://github.com/randombit/botan)
 3. 💪 Opened PR [#5168](undefined) in [randombit/botan](https://github.com/randombit/botan)
-4. 🗣 Commented on [#5153](https://github.com/randombit/botan/pull/5153#issuecomment-3523449530) in [randombit/botan](https://github.com/randombit/botan)
-5. 💪 Opened PR [#5153](undefined) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 <div alt="Song" align="center">   
