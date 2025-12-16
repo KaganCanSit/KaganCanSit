@@ -20,7 +20,7 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 I joined GitHub 5 years ago and since then I have:
 
-- 📝 Pushed 1328 commits
+- 📝 Pushed 1329 commits
 - 🐛 Opened 30 issues
 - 🚀 Submitted 99 pull requests
 - 🔍 Performed 4 code reviews
@@ -52,9 +52,13 @@ I joined GitHub 5 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [gozdedemirertugrul/gozdedemirertugrul.github.io](https://github.com/gozdedemirertugrul/gozdedemirertugrul.github.io)
-2. 🗣 Commented on [#5168](https://github.com/randombit/botan/pull/5168#issuecomment-3566771008) in [randombit/botan](https://github.com/randombit/botan)
-3. 💪 Opened PR [#5168](undefined) in [randombit/botan](https://github.com/randombit/botan)
+1. 🗣 Commented on [#1](https://github.com/tarikguney/jira-slack-bot/pull/1#issuecomment-3661222955) in [tarikguney/jira-slack-bot](https://github.com/tarikguney/jira-slack-bot)
+2. ❌ Closed PR [#1](undefined) in [tarikguney/jira-slack-bot](https://github.com/tarikguney/jira-slack-bot)
+3. 🗣 Commented on [#23](https://github.com/oasis-tcs/pkcs11/pull/23#issuecomment-3661177771) in [oasis-tcs/pkcs11](https://github.com/oasis-tcs/pkcs11)
+4. ❌ Closed PR [#23](undefined) in [oasis-tcs/pkcs11](https://github.com/oasis-tcs/pkcs11)
+5. ❌ Merged PR [#1](undefined) in [gozdedemirertugrul/gozdedemirertugrul.github.io](https://github.com/gozdedemirertugrul/gozdedemirertugrul.github.io)
+6. 🗣 Commented on [#5168](https://github.com/randombit/botan/pull/5168#issuecomment-3566771008) in [randombit/botan](https://github.com/randombit/botan)
+7. 💪 Opened PR [#5168](undefined) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 <div alt="Song" align="center">   
