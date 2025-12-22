@@ -18,9 +18,9 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 ## What is your background and stats on Github?
 
-I joined GitHub 5 years ago and since then I have:
+I joined GitHub 6 years ago and since then I have:
 
-- 📝 Pushed 1329 commits
+- 📝 Pushed 1330 commits
 - 🐛 Opened 30 issues
 - 🚀 Submitted 99 pull requests
 - 🔍 Performed 4 code reviews
