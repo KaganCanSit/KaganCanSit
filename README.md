@@ -20,12 +20,12 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 I joined GitHub 6 years ago and since then I have:
 
-- 📝 Pushed 1337 commits
+- 📝 Pushed 1339 commits
 - 🐛 Opened 30 issues
-- 🚀 Submitted 99 pull requests
+- 🚀 Submitted 100 pull requests
 - 🔍 Performed 4 code reviews
 - 🌟 Received 33 stars across 35 personal projects
-- 🔧 Contributed to 11 public repositories
+- 🔧 Contributed to 12 public repositories
 
 ## Technologies & Tools
 
@@ -52,11 +52,17 @@ I joined GitHub 6 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/tarikguney/jira-slack-bot/pull/1#issuecomment-3661222955) in [tarikguney/jira-slack-bot](https://github.com/tarikguney/jira-slack-bot)
-2. ❌ Closed PR [#1](undefined) in [tarikguney/jira-slack-bot](https://github.com/tarikguney/jira-slack-bot)
-3. 🗣 Commented on [#23](https://github.com/oasis-tcs/pkcs11/pull/23#issuecomment-3661177771) in [oasis-tcs/pkcs11](https://github.com/oasis-tcs/pkcs11)
-4. ❌ Closed PR [#23](undefined) in [oasis-tcs/pkcs11](https://github.com/oasis-tcs/pkcs11)
-5. ❌ Merged PR [#1](undefined) in [gozdedemirertugrul/gozdedemirertugrul.github.io](https://github.com/gozdedemirertugrul/gozdedemirertugrul.github.io)
+1. 🗣 Commented on [#5164](https://github.com/randombit/botan/issues/5164#issuecomment-3706159457) in [randombit/botan](https://github.com/randombit/botan)
+2. 🎉 Merged PR [#1](https://github.com/necatiergin/MART-2026-CPP-KURSU/pull/1) in [necatiergin/MART-2026-CPP-KURSU](https://github.com/necatiergin/MART-2026-CPP-KURSU)
+3. 💪 Opened PR [#1](https://github.com/necatiergin/MART-2026-CPP-KURSU/pull/1) in [necatiergin/MART-2026-CPP-KURSU](https://github.com/necatiergin/MART-2026-CPP-KURSU)
+4. 🗣 Commented on [#4783](https://github.com/randombit/botan/pull/4783#issuecomment-3704011148) in [randombit/botan](https://github.com/randombit/botan)
+5. 🗣 Commented on [#3262](https://github.com/ruby/www.ruby-lang.org/pull/3262#issuecomment-3703980285) in [ruby/www.ruby-lang.org](https://github.com/ruby/www.ruby-lang.org)
+6. ❌ Closed PR [#3262](https://github.com/ruby/www.ruby-lang.org/pull/3262) in [ruby/www.ruby-lang.org](https://github.com/ruby/www.ruby-lang.org)
+7. 🗣 Commented on [#1](https://github.com/tarikguney/jira-slack-bot/pull/1#issuecomment-3661222955) in [tarikguney/jira-slack-bot](https://github.com/tarikguney/jira-slack-bot)
+8. ❌ Closed PR [#1](https://github.com/tarikguney/jira-slack-bot/pull/1) in [tarikguney/jira-slack-bot](https://github.com/tarikguney/jira-slack-bot)
+9. 🗣 Commented on [#23](https://github.com/oasis-tcs/pkcs11/pull/23#issuecomment-3661177771) in [oasis-tcs/pkcs11](https://github.com/oasis-tcs/pkcs11)
+10. ❌ Closed PR [#23](https://github.com/oasis-tcs/pkcs11/pull/23) in [oasis-tcs/pkcs11](https://github.com/oasis-tcs/pkcs11)
+11. 🎉 Merged PR [#1](https://github.com/gozdedemirertugrul/gozdedemirertugrul.github.io/pull/1) in [gozdedemirertugrul/gozdedemirertugrul.github.io](https://github.com/gozdedemirertugrul/gozdedemirertugrul.github.io)
 <!--END_SECTION:activity-->
 
 <div alt="Song" align="center">   
