@@ -20,7 +20,7 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 I joined GitHub 6 years ago and since then I have:
 
-- 📝 Pushed 1341 commits
+- 📝 Pushed 1344 commits
 - 🐛 Opened 30 issues
 - 🚀 Submitted 105 pull requests
 - 🔍 Performed 4 code reviews
@@ -51,16 +51,16 @@ I joined GitHub 6 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3509](https://github.com/gabime/spdlog/pull/3509) in [gabime/spdlog](https://github.com/gabime/spdlog)
-2. 💪 Opened PR [#5207](https://github.com/randombit/botan/pull/5207) in [randombit/botan](https://github.com/randombit/botan)
-3. 💪 Opened PR [#5206](https://github.com/randombit/botan/pull/5206) in [randombit/botan](https://github.com/randombit/botan)
-4. 🗣 Commented on [#5205](https://github.com/randombit/botan/pull/5205#issuecomment-3707312436) in [randombit/botan](https://github.com/randombit/botan)
-5. 💪 Opened PR [#5205](https://github.com/randombit/botan/pull/5205) in [randombit/botan](https://github.com/randombit/botan)
-6. 🎉 Merged PR [#5204](https://github.com/randombit/botan/pull/5204) in [randombit/botan](https://github.com/randombit/botan)
-7. 💪 Opened PR [#5204](https://github.com/randombit/botan/pull/5204) in [randombit/botan](https://github.com/randombit/botan)
-8. 🗣 Commented on [#5164](https://github.com/randombit/botan/issues/5164#issuecomment-3706159457) in [randombit/botan](https://github.com/randombit/botan)
-9. 🎉 Merged PR [#1](https://github.com/necatiergin/MART-2026-CPP-KURSU/pull/1) in [necatiergin/MART-2026-CPP-KURSU](https://github.com/necatiergin/MART-2026-CPP-KURSU)
-10. 💪 Opened PR [#1](https://github.com/necatiergin/MART-2026-CPP-KURSU/pull/1) in [necatiergin/MART-2026-CPP-KURSU](https://github.com/necatiergin/MART-2026-CPP-KURSU)
+1. 🎉 Merged PR [#5206](https://github.com/randombit/botan/pull/5206) in [randombit/botan](https://github.com/randombit/botan)
+2. 🗣 Commented on [#5205](https://github.com/randombit/botan/pull/5205#issuecomment-3709747402) in [randombit/botan](https://github.com/randombit/botan)
+3. 🗣 Commented on [#3509](https://github.com/gabime/spdlog/pull/3509#issuecomment-3708380336) in [gabime/spdlog](https://github.com/gabime/spdlog)
+4. 🎉 Merged PR [#3509](https://github.com/gabime/spdlog/pull/3509) in [gabime/spdlog](https://github.com/gabime/spdlog)
+5. 💪 Opened PR [#3509](https://github.com/gabime/spdlog/pull/3509) in [gabime/spdlog](https://github.com/gabime/spdlog)
+6. 💪 Opened PR [#5207](https://github.com/randombit/botan/pull/5207) in [randombit/botan](https://github.com/randombit/botan)
+7. 💪 Opened PR [#5206](https://github.com/randombit/botan/pull/5206) in [randombit/botan](https://github.com/randombit/botan)
+8. 🗣 Commented on [#5205](https://github.com/randombit/botan/pull/5205#issuecomment-3707312436) in [randombit/botan](https://github.com/randombit/botan)
+9. 💪 Opened PR [#5205](https://github.com/randombit/botan/pull/5205) in [randombit/botan](https://github.com/randombit/botan)
+10. 🎉 Merged PR [#5204](https://github.com/randombit/botan/pull/5204) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 <div alt="Song" align="center">   
