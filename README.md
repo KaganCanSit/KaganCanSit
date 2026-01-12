@@ -20,11 +20,11 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 I joined GitHub 6 years ago and since then I have:
 
-- 📝 Pushed 1344 commits
+- 📝 Pushed 1354 commits
 - 🐛 Opened 30 issues
-- 🚀 Submitted 105 pull requests
-- 🔍 Performed 4 code reviews
-- 🌟 Received 33 stars across 35 personal projects
+- 🚀 Submitted 111 pull requests
+- 🔍 Performed 5 code reviews
+- 🌟 Received 34 stars across 35 personal projects
 - 🔧 Contributed to 13 public repositories
 
 ## Technologies & Tools
@@ -51,16 +51,16 @@ I joined GitHub 6 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5206](https://github.com/randombit/botan/pull/5206) in [randombit/botan](https://github.com/randombit/botan)
-2. 🗣 Commented on [#5205](https://github.com/randombit/botan/pull/5205#issuecomment-3709747402) in [randombit/botan](https://github.com/randombit/botan)
-3. 🗣 Commented on [#3509](https://github.com/gabime/spdlog/pull/3509#issuecomment-3708380336) in [gabime/spdlog](https://github.com/gabime/spdlog)
-4. 🎉 Merged PR [#3509](https://github.com/gabime/spdlog/pull/3509) in [gabime/spdlog](https://github.com/gabime/spdlog)
-5. 💪 Opened PR [#3509](https://github.com/gabime/spdlog/pull/3509) in [gabime/spdlog](https://github.com/gabime/spdlog)
-6. 💪 Opened PR [#5207](https://github.com/randombit/botan/pull/5207) in [randombit/botan](https://github.com/randombit/botan)
-7. 💪 Opened PR [#5206](https://github.com/randombit/botan/pull/5206) in [randombit/botan](https://github.com/randombit/botan)
-8. 🗣 Commented on [#5205](https://github.com/randombit/botan/pull/5205#issuecomment-3707312436) in [randombit/botan](https://github.com/randombit/botan)
-9. 💪 Opened PR [#5205](https://github.com/randombit/botan/pull/5205) in [randombit/botan](https://github.com/randombit/botan)
-10. 🎉 Merged PR [#5204](https://github.com/randombit/botan/pull/5204) in [randombit/botan](https://github.com/randombit/botan)
+1. 🗣 Commented on [#3520](https://github.com/gabime/spdlog/pull/3520#issuecomment-3737215737) in [gabime/spdlog](https://github.com/gabime/spdlog)
+2. 🎉 Merged PR [#3520](https://github.com/gabime/spdlog/pull/3520) in [gabime/spdlog](https://github.com/gabime/spdlog)
+3. 🗣 Commented on [#3520](https://github.com/gabime/spdlog/pull/3520#issuecomment-3736952246) in [gabime/spdlog](https://github.com/gabime/spdlog)
+4. 🎉 Merged PR [#3519](https://github.com/gabime/spdlog/pull/3519) in [gabime/spdlog](https://github.com/gabime/spdlog)
+5. 💪 Opened PR [#3520](https://github.com/gabime/spdlog/pull/3520) in [gabime/spdlog](https://github.com/gabime/spdlog)
+6. 💪 Opened PR [#3519](https://github.com/gabime/spdlog/pull/3519) in [gabime/spdlog](https://github.com/gabime/spdlog)
+7. 🎉 Merged PR [#3516](https://github.com/gabime/spdlog/pull/3516) in [gabime/spdlog](https://github.com/gabime/spdlog)
+8. 🎉 Merged PR [#3515](https://github.com/gabime/spdlog/pull/3515) in [gabime/spdlog](https://github.com/gabime/spdlog)
+9. 💪 Opened PR [#3516](https://github.com/gabime/spdlog/pull/3516) in [gabime/spdlog](https://github.com/gabime/spdlog)
+10. 💪 Opened PR [#3515](https://github.com/gabime/spdlog/pull/3515) in [gabime/spdlog](https://github.com/gabime/spdlog)
 <!--END_SECTION:activity-->
 
 <div alt="Song" align="center">   
