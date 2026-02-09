@@ -20,12 +20,12 @@ Whether you're here for technical discussions, collaboration opportunities, or j
 
 I joined GitHub 6 years ago and since then I have:
 
-- 📝 Pushed 1345 commits
+- 📝 Pushed 1349 commits
 - 🐛 Opened 31 issues
-- 🚀 Submitted 123 pull requests
-- 🔍 Performed 5 code reviews
+- 🚀 Submitted 125 pull requests
+- 🔍 Performed 6 code reviews
 - 🌟 Received 34 stars across 33 personal projects
-- 🔧 Contributed to 15 public repositories
+- 🔧 Contributed to 12 public repositories
 
 ## Technologies & Tools
 
@@ -51,16 +51,16 @@ I joined GitHub 6 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/Mastercard/pkcs11-tools/pull/72) in [Mastercard/pkcs11-tools](https://github.com/Mastercard/pkcs11-tools)
-2. 🗣 Commented on [#5164](https://github.com/randombit/botan/issues/5164#issuecomment-3835539931) in [randombit/botan](https://github.com/randombit/botan)
-3. 🎉 Merged PR [#5274](https://github.com/randombit/botan/pull/5274) in [randombit/botan](https://github.com/randombit/botan)
-4. 💪 Opened PR [#5274](https://github.com/randombit/botan/pull/5274) in [randombit/botan](https://github.com/randombit/botan)
-5. ℹ️ Labeled issue [#1143](https://github.com/mue/mue/issues/1143) in [mue/mue](https://github.com/mue/mue)
-6. ❗ Opened issue [#1143](https://github.com/mue/mue/issues/1143) in [mue/mue](https://github.com/mue/mue)
-7. 🗣 Commented on [#289](https://github.com/mue/mue/issues/289#issuecomment-3827962693) in [mue/mue](https://github.com/mue/mue)
-8. 🎉 Merged PR [#5261](https://github.com/randombit/botan/pull/5261) in [randombit/botan](https://github.com/randombit/botan)
-9. 🗣 Commented on [#5168](https://github.com/randombit/botan/pull/5168#issuecomment-3796334135) in [randombit/botan](https://github.com/randombit/botan)
-10. ❌ Closed PR [#5168](https://github.com/randombit/botan/pull/5168) in [randombit/botan](https://github.com/randombit/botan)
+1. 💪 Opened PR [#5304](https://github.com/randombit/botan/pull/5304) in [randombit/botan](https://github.com/randombit/botan)
+2. 🗣 Commented on [#72](https://github.com/Mastercard/pkcs11-tools/pull/72#issuecomment-3872207811) in [Mastercard/pkcs11-tools](https://github.com/Mastercard/pkcs11-tools)
+3. 🎉 Merged PR [#72](https://github.com/Mastercard/pkcs11-tools/pull/72) in [Mastercard/pkcs11-tools](https://github.com/Mastercard/pkcs11-tools)
+4. 🗣 Commented on [#5300](https://github.com/randombit/botan/pull/5300#issuecomment-3868247707) in [randombit/botan](https://github.com/randombit/botan)
+5. 🎉 Merged PR [#5300](https://github.com/randombit/botan/pull/5300) in [randombit/botan](https://github.com/randombit/botan)
+6. 💪 Opened PR [#5300](https://github.com/randombit/botan/pull/5300) in [randombit/botan](https://github.com/randombit/botan)
+7. 🎉 Merged PR [#5259](https://github.com/randombit/botan/pull/5259) in [randombit/botan](https://github.com/randombit/botan)
+8. 💪 Opened PR [#72](https://github.com/Mastercard/pkcs11-tools/pull/72) in [Mastercard/pkcs11-tools](https://github.com/Mastercard/pkcs11-tools)
+9. 🗣 Commented on [#5164](https://github.com/randombit/botan/issues/5164#issuecomment-3835539931) in [randombit/botan](https://github.com/randombit/botan)
+10. 🎉 Merged PR [#5274](https://github.com/randombit/botan/pull/5274) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
 <div alt="Song" align="center">   
