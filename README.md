@@ -27,7 +27,7 @@ I joined GitHub 6 years ago and since then I have:
 - 📝 Pushed 1379 commits
 - 🐛 Opened 33 issues
 - 🚀 Submitted 142 pull requests
-- 🔍 Performed 7 code reviews
+- 🔍 Performed 8 code reviews
 - 🌟 Received 35 stars across 34 personal projects
 - 🔧 Contributed to 13 public repositories
 
