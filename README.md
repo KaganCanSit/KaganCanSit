@@ -26,7 +26,7 @@ I joined GitHub 6 years ago and since then I have:
 
 - 📝 Pushed 1379 commits
 - 🐛 Opened 33 issues
-- 🚀 Submitted 142 pull requests
+- 🚀 Submitted 143 pull requests
 - 🔍 Performed 8 code reviews
 - 🌟 Received 35 stars across 34 personal projects
 - 🔧 Contributed to 13 public repositories
@@ -57,12 +57,17 @@ I joined GitHub 6 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4729](https://github.com/fmtlib/fmt/pull/4729) in [fmtlib/fmt](https://github.com/fmtlib/fmt)
-2. 🗣 Commented on [#4729](https://github.com/fmtlib/fmt/pull/4729#issuecomment-4186789924) in [fmtlib/fmt](https://github.com/fmtlib/fmt)
-3. 🗣 Commented on [#4729](https://github.com/fmtlib/fmt/pull/4729#issuecomment-4185187523) in [fmtlib/fmt](https://github.com/fmtlib/fmt)
-4. 💪 Opened PR [#4729](https://github.com/fmtlib/fmt/pull/4729) in [fmtlib/fmt](https://github.com/fmtlib/fmt)
-5. 💪 Opened PR [#5495](https://github.com/randombit/botan/pull/5495) in [randombit/botan](https://github.com/randombit/botan)
-6. 🗣 Commented on [#5435](https://github.com/randombit/botan/issues/5435#issuecomment-4110720774) in [randombit/botan](https://github.com/randombit/botan)
-7. 🎉 Merged PR [#5438](https://github.com/randombit/botan/pull/5438) in [randombit/botan](https://github.com/randombit/botan)
+1. ❌ Closed PR [#4951](https://github.com/randombit/botan/pull/4951) in [randombit/botan](https://github.com/randombit/botan)
+2. 🗣 Commented on [#4951](https://github.com/randombit/botan/pull/4951#issuecomment-4318192165) in [randombit/botan](https://github.com/randombit/botan)
+3. ❌ Closed PR [#4772](https://github.com/randombit/botan/pull/4772) in [randombit/botan](https://github.com/randombit/botan)
+4. 🗣 Commented on [#4772](https://github.com/randombit/botan/pull/4772#issuecomment-4318189065) in [randombit/botan](https://github.com/randombit/botan)
+5. 🗣 Commented on [#4660](https://github.com/randombit/botan/pull/4660#issuecomment-4318185367) in [randombit/botan](https://github.com/randombit/botan)
+6. ❌ Closed PR [#4660](https://github.com/randombit/botan/pull/4660) in [randombit/botan](https://github.com/randombit/botan)
+7. 💪 Opened PR [#5544](https://github.com/randombit/botan/pull/5544) in [randombit/botan](https://github.com/randombit/botan)
+8. 🎉 Merged PR [#4729](https://github.com/fmtlib/fmt/pull/4729) in [fmtlib/fmt](https://github.com/fmtlib/fmt)
+9. 🗣 Commented on [#4729](https://github.com/fmtlib/fmt/pull/4729#issuecomment-4186789924) in [fmtlib/fmt](https://github.com/fmtlib/fmt)
+10. 🗣 Commented on [#4729](https://github.com/fmtlib/fmt/pull/4729#issuecomment-4185187523) in [fmtlib/fmt](https://github.com/fmtlib/fmt)
+11. 💪 Opened PR [#4729](https://github.com/fmtlib/fmt/pull/4729) in [fmtlib/fmt](https://github.com/fmtlib/fmt)
+12. 💪 Opened PR [#5495](https://github.com/randombit/botan/pull/5495) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
