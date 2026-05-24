@@ -24,12 +24,12 @@ If you're working on C++ systems, low-level software, or cryptographic infrastru
 
 I joined GitHub 6 years ago and since then I have:
 
-- 📝 Pushed 1389 commits
+- 📝 Pushed 1390 commits
 - 🐛 Opened 33 issues
 - 🚀 Submitted 147 pull requests
 - 🔍 Performed 8 code reviews
 - 🌟 Received 35 stars across 35 personal projects
-- 🔧 Contributed to 13 public repositories
+- 🔧 Contributed to 12 public repositories
 
 ## Technologies & Tools
 
@@ -57,7 +57,7 @@ I joined GitHub 6 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5495](https://github.com/randombit/botan/pull/5495#issuecomment-4390693469) in [randombit/botan](https://github.com/randombit/botan)
+1. 🎉 Merged PR [#5549](https://github.com/randombit/botan/pull/5549) in [randombit/botan](https://github.com/randombit/botan)
 2. 🗣 Commented on [#4995](https://github.com/randombit/botan/pull/4995#issuecomment-4373946788) in [randombit/botan](https://github.com/randombit/botan)
 3. 🎉 Merged PR [#4758](https://github.com/fmtlib/fmt/pull/4758) in [fmtlib/fmt](https://github.com/fmtlib/fmt)
 4. 🗣 Commented on [#4758](https://github.com/fmtlib/fmt/pull/4758#issuecomment-4349491608) in [fmtlib/fmt](https://github.com/fmtlib/fmt)
