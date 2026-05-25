@@ -24,7 +24,7 @@ If you're working on C++ systems, low-level software, or cryptographic infrastru
 
 I joined GitHub 6 years ago and since then I have:
 
-- 📝 Pushed 1390 commits
+- 📝 Pushed 1391 commits
 - 🐛 Opened 33 issues
 - 🚀 Submitted 147 pull requests
 - 🔍 Performed 8 code reviews
@@ -65,12 +65,5 @@ I joined GitHub 6 years ago and since then I have:
 6. 💪 Opened PR [#5549](https://github.com/randombit/botan/pull/5549) in [randombit/botan](https://github.com/randombit/botan)
 7. 🗣 Commented on [#4758](https://github.com/fmtlib/fmt/pull/4758#issuecomment-4320147243) in [fmtlib/fmt](https://github.com/fmtlib/fmt)
 8. 💪 Opened PR [#4758](https://github.com/fmtlib/fmt/pull/4758) in [fmtlib/fmt](https://github.com/fmtlib/fmt)
-9. 🗣 Commented on [#47](https://github.com/orhun/git-cliff-action/pull/47#issuecomment-4319575962) in [orhun/git-cliff-action](https://github.com/orhun/git-cliff-action)
-10. ❌ Closed PR [#47](https://github.com/orhun/git-cliff-action/pull/47) in [orhun/git-cliff-action](https://github.com/orhun/git-cliff-action)
-11. 🗣 Commented on [#46](https://github.com/orhun/git-cliff-action/pull/46#issuecomment-4319575696) in [orhun/git-cliff-action](https://github.com/orhun/git-cliff-action)
-12. ❌ Closed PR [#46](https://github.com/orhun/git-cliff-action/pull/46) in [orhun/git-cliff-action](https://github.com/orhun/git-cliff-action)
-13. 🗣 Commented on [#5548](https://github.com/randombit/botan/pull/5548#issuecomment-4319571237) in [randombit/botan](https://github.com/randombit/botan)
-14. 🎉 Merged PR [#5548](https://github.com/randombit/botan/pull/5548) in [randombit/botan](https://github.com/randombit/botan)
-15. 💪 Opened PR [#5548](https://github.com/randombit/botan/pull/5548) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
