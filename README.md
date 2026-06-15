@@ -29,7 +29,7 @@ I joined GitHub 6 years ago and since then I have:
 - 🚀 Submitted 148 pull requests
 - 🔍 Performed 8 code reviews
 - 🌟 Received 35 stars across 35 personal projects
-- 🔧 Contributed to 11 public repositories
+- 🔧 Contributed to 10 public repositories
 
 ## Technologies & Tools
 
