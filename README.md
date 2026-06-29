@@ -29,7 +29,7 @@ I joined GitHub 6 years ago and since then I have:
 - 🚀 Submitted 148 pull requests
 - 🔍 Performed 8 code reviews
 - 🌟 Received 35 stars across 35 personal projects
-- 🔧 Contributed to 10 public repositories
+- 🔧 Contributed to 9 public repositories
 
 ## Technologies & Tools
 
@@ -59,10 +59,5 @@ I joined GitHub 6 years ago and since then I have:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5642](https://github.com/randombit/botan/pull/5642#issuecomment-4625999025) in [randombit/botan](https://github.com/randombit/botan)
 2. 🗣 Commented on [#5642](https://github.com/randombit/botan/pull/5642#issuecomment-4615709802) in [randombit/botan](https://github.com/randombit/botan)
-3. 🗣 Commented on [#5547](https://github.com/randombit/botan/pull/5547#issuecomment-4565772611) in [randombit/botan](https://github.com/randombit/botan)
-4. 🎉 Merged PR [#5624](https://github.com/randombit/botan/pull/5624) in [randombit/botan](https://github.com/randombit/botan)
-5. 🗣 Commented on [#5624](https://github.com/randombit/botan/pull/5624#issuecomment-4543885357) in [randombit/botan](https://github.com/randombit/botan)
-6. 🗣 Commented on [#5624](https://github.com/randombit/botan/pull/5624#issuecomment-4543700160) in [randombit/botan](https://github.com/randombit/botan)
-7. 💪 Opened PR [#5624](https://github.com/randombit/botan/pull/5624) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
