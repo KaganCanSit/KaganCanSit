@@ -24,9 +24,9 @@ If you're working on C++ systems, low-level software, or cryptographic infrastru
 
 I joined GitHub 6 years ago and since then I have:
 
-- 📝 Pushed 1392 commits
+- 📝 Pushed 1395 commits
 - 🐛 Opened 33 issues
-- 🚀 Submitted 148 pull requests
+- 🚀 Submitted 150 pull requests
 - 🔍 Performed 8 code reviews
 - 🌟 Received 35 stars across 35 personal projects
 - 🔧 Contributed to 9 public repositories
@@ -57,7 +57,9 @@ I joined GitHub 6 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5642](https://github.com/randombit/botan/pull/5642#issuecomment-4625999025) in [randombit/botan](https://github.com/randombit/botan)
-2. 🗣 Commented on [#5642](https://github.com/randombit/botan/pull/5642#issuecomment-4615709802) in [randombit/botan](https://github.com/randombit/botan)
+1. 🎉 Merged PR [#26](https://github.com/KaganCanSit/kagancansit.github.io/pull/26) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+2. 💪 Opened PR [#26](https://github.com/KaganCanSit/kagancansit.github.io/pull/26) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+3. 🎉 Merged PR [#25](https://github.com/KaganCanSit/kagancansit.github.io/pull/25) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+4. 💪 Opened PR [#25](https://github.com/KaganCanSit/kagancansit.github.io/pull/25) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
 <!--END_SECTION:activity-->
 
