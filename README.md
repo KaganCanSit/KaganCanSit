@@ -24,9 +24,9 @@ If you're working on C++ systems, low-level software, or cryptographic infrastru
 
 I joined GitHub 6 years ago and since then I have:
 
-- 📝 Pushed 1395 commits
+- 📝 Pushed 1397 commits
 - 🐛 Opened 33 issues
-- 🚀 Submitted 150 pull requests
+- 🚀 Submitted 151 pull requests
 - 🔍 Performed 8 code reviews
 - 🌟 Received 35 stars across 35 personal projects
 - 🔧 Contributed to 9 public repositories
@@ -57,9 +57,11 @@ I joined GitHub 6 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/KaganCanSit/kagancansit.github.io/pull/26) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-2. 💪 Opened PR [#26](https://github.com/KaganCanSit/kagancansit.github.io/pull/26) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-3. 🎉 Merged PR [#25](https://github.com/KaganCanSit/kagancansit.github.io/pull/25) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-4. 💪 Opened PR [#25](https://github.com/KaganCanSit/kagancansit.github.io/pull/25) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+1. 🎉 Merged PR [#27](https://github.com/KaganCanSit/kagancansit.github.io/pull/27) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+2. 💪 Opened PR [#27](https://github.com/KaganCanSit/kagancansit.github.io/pull/27) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+3. 🎉 Merged PR [#26](https://github.com/KaganCanSit/kagancansit.github.io/pull/26) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+4. 💪 Opened PR [#26](https://github.com/KaganCanSit/kagancansit.github.io/pull/26) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+5. 🎉 Merged PR [#25](https://github.com/KaganCanSit/kagancansit.github.io/pull/25) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+6. 💪 Opened PR [#25](https://github.com/KaganCanSit/kagancansit.github.io/pull/25) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
 <!--END_SECTION:activity-->
 
