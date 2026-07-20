@@ -24,9 +24,9 @@ If you're working on C++ systems, low-level software, or cryptographic infrastru
 
 I joined GitHub 6 years ago and since then I have:
 
-- 📝 Pushed 1397 commits
+- 📝 Pushed 1407 commits
 - 🐛 Opened 33 issues
-- 🚀 Submitted 151 pull requests
+- 🚀 Submitted 156 pull requests
 - 🔍 Performed 8 code reviews
 - 🌟 Received 35 stars across 35 personal projects
 - 🔧 Contributed to 9 public repositories
@@ -57,11 +57,20 @@ I joined GitHub 6 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/KaganCanSit/kagancansit.github.io/pull/27) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-2. 💪 Opened PR [#27](https://github.com/KaganCanSit/kagancansit.github.io/pull/27) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-3. 🎉 Merged PR [#26](https://github.com/KaganCanSit/kagancansit.github.io/pull/26) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-4. 💪 Opened PR [#26](https://github.com/KaganCanSit/kagancansit.github.io/pull/26) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-5. 🎉 Merged PR [#25](https://github.com/KaganCanSit/kagancansit.github.io/pull/25) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-6. 💪 Opened PR [#25](https://github.com/KaganCanSit/kagancansit.github.io/pull/25) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+1. 🎉 Merged PR [#38](https://github.com/KaganCanSit/kagancansit.github.io/pull/38) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+2. 💪 Opened PR [#38](https://github.com/KaganCanSit/kagancansit.github.io/pull/38) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+3. 🎉 Merged PR [#37](https://github.com/KaganCanSit/kagancansit.github.io/pull/37) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+4. 💪 Opened PR [#37](https://github.com/KaganCanSit/kagancansit.github.io/pull/37) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+5. 🎉 Merged PR [#35](https://github.com/KaganCanSit/kagancansit.github.io/pull/35) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+6. 💪 Opened PR [#35](https://github.com/KaganCanSit/kagancansit.github.io/pull/35) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+7. 🎉 Merged PR [#34](https://github.com/KaganCanSit/kagancansit.github.io/pull/34) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+8. 💪 Opened PR [#34](https://github.com/KaganCanSit/kagancansit.github.io/pull/34) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+9. 🎉 Merged PR [#33](https://github.com/KaganCanSit/kagancansit.github.io/pull/33) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+10. 💪 Opened PR [#33](https://github.com/KaganCanSit/kagancansit.github.io/pull/33) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+11. 🎉 Merged PR [#27](https://github.com/KaganCanSit/kagancansit.github.io/pull/27) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+12. 💪 Opened PR [#27](https://github.com/KaganCanSit/kagancansit.github.io/pull/27) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+13. 🎉 Merged PR [#26](https://github.com/KaganCanSit/kagancansit.github.io/pull/26) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+14. 💪 Opened PR [#26](https://github.com/KaganCanSit/kagancansit.github.io/pull/26) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+15. 🎉 Merged PR [#25](https://github.com/KaganCanSit/kagancansit.github.io/pull/25) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
 <!--END_SECTION:activity-->
 
