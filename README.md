@@ -24,7 +24,7 @@ If you're working on C++ systems, low-level software, or cryptographic infrastru
 
 I joined GitHub 6 years ago and since then I have:
 
-- 📝 Pushed 1407 commits
+- 📝 Pushed 1408 commits
 - 🐛 Opened 33 issues
 - 🚀 Submitted 156 pull requests
 - 🔍 Performed 8 code reviews
@@ -70,7 +70,5 @@ I joined GitHub 6 years ago and since then I have:
 11. 🎉 Merged PR [#27](https://github.com/KaganCanSit/kagancansit.github.io/pull/27) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
 12. 💪 Opened PR [#27](https://github.com/KaganCanSit/kagancansit.github.io/pull/27) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
 13. 🎉 Merged PR [#26](https://github.com/KaganCanSit/kagancansit.github.io/pull/26) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-14. 💪 Opened PR [#26](https://github.com/KaganCanSit/kagancansit.github.io/pull/26) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-15. 🎉 Merged PR [#25](https://github.com/KaganCanSit/kagancansit.github.io/pull/25) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
 <!--END_SECTION:activity-->
 
