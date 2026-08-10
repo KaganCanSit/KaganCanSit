@@ -26,8 +26,8 @@ I joined GitHub 6 years ago and since then I have:
 
 - 📝 Pushed 1412 commits
 - 🐛 Opened 33 issues
-- 🚀 Submitted 158 pull requests
-- 🔍 Performed 8 code reviews
+- 🚀 Submitted 159 pull requests
+- 🔍 Performed 9 code reviews
 - 🌟 Received 35 stars across 35 personal projects
 - 🔧 Contributed to 8 public repositories
 
@@ -57,20 +57,20 @@ I joined GitHub 6 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5779](https://github.com/randombit/botan/pull/5779#issuecomment-5151416098) in [randombit/botan](https://github.com/randombit/botan)
-2. 🎉 Merged PR [#5779](https://github.com/randombit/botan/pull/5779) in [randombit/botan](https://github.com/randombit/botan)
-3. 💪 Opened PR [#5779](https://github.com/randombit/botan/pull/5779) in [randombit/botan](https://github.com/randombit/botan)
-4. 🎉 Merged PR [#40](https://github.com/KaganCanSit/kagancansit.github.io/pull/40) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-5. 💪 Opened PR [#40](https://github.com/KaganCanSit/kagancansit.github.io/pull/40) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-6. 🎉 Merged PR [#38](https://github.com/KaganCanSit/kagancansit.github.io/pull/38) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-7. 💪 Opened PR [#38](https://github.com/KaganCanSit/kagancansit.github.io/pull/38) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-8. 🎉 Merged PR [#37](https://github.com/KaganCanSit/kagancansit.github.io/pull/37) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-9. 💪 Opened PR [#37](https://github.com/KaganCanSit/kagancansit.github.io/pull/37) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-10. 🎉 Merged PR [#35](https://github.com/KaganCanSit/kagancansit.github.io/pull/35) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-11. 💪 Opened PR [#35](https://github.com/KaganCanSit/kagancansit.github.io/pull/35) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-12. 🎉 Merged PR [#34](https://github.com/KaganCanSit/kagancansit.github.io/pull/34) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-13. 💪 Opened PR [#34](https://github.com/KaganCanSit/kagancansit.github.io/pull/34) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-14. 🎉 Merged PR [#33](https://github.com/KaganCanSit/kagancansit.github.io/pull/33) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-15. 💪 Opened PR [#33](https://github.com/KaganCanSit/kagancansit.github.io/pull/33) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+1. ❌ Closed PR [#5828](https://github.com/randombit/botan/pull/5828) in [randombit/botan](https://github.com/randombit/botan)
+2. 🗣 Commented on [#5828](https://github.com/randombit/botan/pull/5828#issuecomment-5242526634) in [randombit/botan](https://github.com/randombit/botan)
+3. 💪 Opened PR [#5828](https://github.com/randombit/botan/pull/5828) in [randombit/botan](https://github.com/randombit/botan)
+4. 🗣 Commented on [#5779](https://github.com/randombit/botan/pull/5779#issuecomment-5151416098) in [randombit/botan](https://github.com/randombit/botan)
+5. 🎉 Merged PR [#5779](https://github.com/randombit/botan/pull/5779) in [randombit/botan](https://github.com/randombit/botan)
+6. 💪 Opened PR [#5779](https://github.com/randombit/botan/pull/5779) in [randombit/botan](https://github.com/randombit/botan)
+7. 🎉 Merged PR [#40](https://github.com/KaganCanSit/kagancansit.github.io/pull/40) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+8. 💪 Opened PR [#40](https://github.com/KaganCanSit/kagancansit.github.io/pull/40) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+9. 🎉 Merged PR [#38](https://github.com/KaganCanSit/kagancansit.github.io/pull/38) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+10. 💪 Opened PR [#38](https://github.com/KaganCanSit/kagancansit.github.io/pull/38) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+11. 🎉 Merged PR [#37](https://github.com/KaganCanSit/kagancansit.github.io/pull/37) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+12. 💪 Opened PR [#37](https://github.com/KaganCanSit/kagancansit.github.io/pull/37) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+13. 🎉 Merged PR [#35](https://github.com/KaganCanSit/kagancansit.github.io/pull/35) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+14. 💪 Opened PR [#35](https://github.com/KaganCanSit/kagancansit.github.io/pull/35) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+15. 🎉 Merged PR [#34](https://github.com/KaganCanSit/kagancansit.github.io/pull/34) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
 <!--END_SECTION:activity-->
 
