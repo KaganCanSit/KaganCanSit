@@ -13,18 +13,18 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Get Stats Values and Update README
-        uses: teoxoy/profile-readme-stats@master
+        uses: teoxoy/profile-readme-stats@v3
         with:
           token: ${{ secrets.STATS }}
 
       - name:  Get Latest Activities (single-commit authority)
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: jamesgeorge007/github-activity-readme@v0.5.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
