@@ -70,7 +70,5 @@ I joined GitHub 6 years ago and since then I have:
 11. 💪 Opened PR [#38](https://github.com/KaganCanSit/kagancansit.github.io/pull/38) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
 12. 🎉 Merged PR [#37](https://github.com/KaganCanSit/kagancansit.github.io/pull/37) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
 13. 💪 Opened PR [#37](https://github.com/KaganCanSit/kagancansit.github.io/pull/37) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-14. 🎉 Merged PR [#35](https://github.com/KaganCanSit/kagancansit.github.io/pull/35) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-15. 💪 Opened PR [#35](https://github.com/KaganCanSit/kagancansit.github.io/pull/35) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
 <!--END_SECTION:activity-->
 
