@@ -66,9 +66,5 @@ I joined GitHub 6 years ago and since then I have:
 7. 💪 Opened PR [#5779](https://github.com/randombit/botan/pull/5779) in [randombit/botan](https://github.com/randombit/botan)
 8. 🎉 Merged PR [#40](https://github.com/KaganCanSit/kagancansit.github.io/pull/40) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
 9. 💪 Opened PR [#40](https://github.com/KaganCanSit/kagancansit.github.io/pull/40) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-10. 🎉 Merged PR [#38](https://github.com/KaganCanSit/kagancansit.github.io/pull/38) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-11. 💪 Opened PR [#38](https://github.com/KaganCanSit/kagancansit.github.io/pull/38) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-12. 🎉 Merged PR [#37](https://github.com/KaganCanSit/kagancansit.github.io/pull/37) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-13. 💪 Opened PR [#37](https://github.com/KaganCanSit/kagancansit.github.io/pull/37) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
 <!--END_SECTION:activity-->
 
