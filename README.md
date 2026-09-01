@@ -57,14 +57,11 @@ I joined GitHub 6 years ago and since then I have:
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4995](https://github.com/randombit/botan/pull/4995) in [randombit/botan](https://github.com/randombit/botan)
-2. ❌ Closed PR [#5828](https://github.com/randombit/botan/pull/5828) in [randombit/botan](https://github.com/randombit/botan)
-3. 🗣 Commented on [#5828](https://github.com/randombit/botan/pull/5828#issuecomment-5242526634) in [randombit/botan](https://github.com/randombit/botan)
-4. 💪 Opened PR [#5828](https://github.com/randombit/botan/pull/5828) in [randombit/botan](https://github.com/randombit/botan)
-5. 🗣 Commented on [#5779](https://github.com/randombit/botan/pull/5779#issuecomment-5151416098) in [randombit/botan](https://github.com/randombit/botan)
-6. 🎉 Merged PR [#5779](https://github.com/randombit/botan/pull/5779) in [randombit/botan](https://github.com/randombit/botan)
-7. 💪 Opened PR [#5779](https://github.com/randombit/botan/pull/5779) in [randombit/botan](https://github.com/randombit/botan)
-8. 🎉 Merged PR [#40](https://github.com/KaganCanSit/kagancansit.github.io/pull/40) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
-9. 💪 Opened PR [#40](https://github.com/KaganCanSit/kagancansit.github.io/pull/40) in [KaganCanSit/kagancansit.github.io](https://github.com/KaganCanSit/kagancansit.github.io)
+1. 🗣 Commented on [#5422](https://github.com/randombit/botan/pull/5422#issuecomment-5415283743) in [randombit/botan](https://github.com/randombit/botan)
+2. 🗣 Commented on [#5495](https://github.com/randombit/botan/pull/5495#issuecomment-5415241585) in [randombit/botan](https://github.com/randombit/botan)
+3. 🎉 Merged PR [#4995](https://github.com/randombit/botan/pull/4995) in [randombit/botan](https://github.com/randombit/botan)
+4. ❌ Closed PR [#5828](https://github.com/randombit/botan/pull/5828) in [randombit/botan](https://github.com/randombit/botan)
+5. 🗣 Commented on [#5828](https://github.com/randombit/botan/pull/5828#issuecomment-5242526634) in [randombit/botan](https://github.com/randombit/botan)
+6. 💪 Opened PR [#5828](https://github.com/randombit/botan/pull/5828) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
