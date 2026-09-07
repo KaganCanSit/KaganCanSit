@@ -27,7 +27,7 @@ I joined GitHub 6 years ago and since then I have:
 - 📝 Pushed 1414 commits
 - 🐛 Opened 33 issues
 - 🚀 Submitted 159 pull requests
-- 🔍 Performed 9 code reviews
+- 🔍 Performed 10 code reviews
 - 🌟 Received 35 stars across 35 personal projects
 - 🔧 Contributed to 8 public repositories
 
@@ -62,6 +62,5 @@ I joined GitHub 6 years ago and since then I have:
 3. 🎉 Merged PR [#4995](https://github.com/randombit/botan/pull/4995) in [randombit/botan](https://github.com/randombit/botan)
 4. ❌ Closed PR [#5828](https://github.com/randombit/botan/pull/5828) in [randombit/botan](https://github.com/randombit/botan)
 5. 🗣 Commented on [#5828](https://github.com/randombit/botan/pull/5828#issuecomment-5242526634) in [randombit/botan](https://github.com/randombit/botan)
-6. 💪 Opened PR [#5828](https://github.com/randombit/botan/pull/5828) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
