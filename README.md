@@ -60,7 +60,5 @@ I joined GitHub 6 years ago and since then I have:
 1. 🗣 Commented on [#5422](https://github.com/randombit/botan/pull/5422#issuecomment-5415283743) in [randombit/botan](https://github.com/randombit/botan)
 2. 🗣 Commented on [#5495](https://github.com/randombit/botan/pull/5495#issuecomment-5415241585) in [randombit/botan](https://github.com/randombit/botan)
 3. 🎉 Merged PR [#4995](https://github.com/randombit/botan/pull/4995) in [randombit/botan](https://github.com/randombit/botan)
-4. ❌ Closed PR [#5828](https://github.com/randombit/botan/pull/5828) in [randombit/botan](https://github.com/randombit/botan)
-5. 🗣 Commented on [#5828](https://github.com/randombit/botan/pull/5828#issuecomment-5242526634) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
