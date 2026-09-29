@@ -24,7 +24,7 @@ If you're working on C++ systems, low-level software, or cryptographic infrastru
 
 I joined GitHub 6 years ago and since then I have:
 
-- 📝 Pushed 1415 commits
+- 📝 Pushed 1416 commits
 - 🐛 Opened 33 issues
 - 🚀 Submitted 160 pull requests
 - 🔍 Performed 10 code reviews
@@ -59,7 +59,5 @@ I joined GitHub 6 years ago and since then I have:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5949](https://github.com/randombit/botan/pull/5949#issuecomment-5742379260) in [randombit/botan](https://github.com/randombit/botan)
 2. 💪 Opened PR [#5949](https://github.com/randombit/botan/pull/5949) in [randombit/botan](https://github.com/randombit/botan)
-3. 🗣 Commented on [#5422](https://github.com/randombit/botan/pull/5422#issuecomment-5415283743) in [randombit/botan](https://github.com/randombit/botan)
-4. 🗣 Commented on [#5495](https://github.com/randombit/botan/pull/5495#issuecomment-5415241585) in [randombit/botan](https://github.com/randombit/botan)
 <!--END_SECTION:activity-->
 
